@@ -1,0 +1,27 @@
+[[source]]
+url = "https://pypi.python.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+pandas = "*"
+jupyterlab = "*"
+matplotlib = "*"
+seaborn = "*"
+sklearn = "*"
+tqdm = "*"
+requests = "*"
+beautifulsoup4 = "*"
+lxml = "*"
+html5lib = "*"
+xlrd = "*"
+geopandas = "*"
+fuzzywuzzy = "*"
+python-levenshtein = "*"
+descartes = "*"
+mapclassify = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"

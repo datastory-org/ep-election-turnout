@@ -1,0 +1,2927 @@
+commune,voters,eligible,turnout,district,region
+Bratislava-Čunovo,175.0,986.0,17.74,Bratislava,Bratislavský
+Bratislava-Devín,281.0,1096.0,25.63,Bratislava,Bratislavský
+Bratislava-Devínska Nová Ves,2201.0,14578.0,15.09,Bratislava,Bratislavský
+Bratislava-Dúbravka,5578.0,31185.0,17.91,Bratislava,Bratislavský
+Bratislava-Jarovce,340.0,1551.0,21.92,Bratislava,Bratislavský
+Bratislava-Karlova Ves,6424.0,29588.0,21.72,Bratislava,Bratislavský
+Bratislava-Lamač,1521.0,6042.0,25.19,Bratislava,Bratislavský
+Bratislava-Nové Mesto,7304.0,34948.0,20.92,Bratislava,Bratislavský
+Bratislava-Petržalka,15358.0,99176.0,15.49,Bratislava,Bratislavský
+Bratislava-Podunajské Biskupice,2727.0,18868.0,14.51,Bratislava,Bratislavský
+Bratislava-Rača,3403.0,18289.0,18.63,Bratislava,Bratislavský
+Bratislava-Rusovce,510.0,2792.0,18.26,Bratislava,Bratislavský
+Bratislava-Ružinov,12933.0,64743.0,19.98,Bratislava,Bratislavský
+Bratislava-Staré Mesto,9061.0,36114.0,25.12,Bratislava,Bratislavský
+Bratislava-Vajnory,780.0,4255.0,18.33,Bratislava,Bratislavský
+Bratislava-Vrakuňa,2249.0,16937.0,13.3,Bratislava,Bratislavský
+Bratislava-Záhorská Bystrica,703.0,3236.0,21.72,Bratislava,Bratislavský
+Borinka,120.0,579.0,20.72,Malacky,Bratislavský
+Gajary,140.0,2429.0,5.76,Malacky,Bratislavský
+Jablonové,91.0,1018.0,8.93,Malacky,Bratislavský
+Jakubov,111.0,1307.0,8.56,Malacky,Bratislavský
+Kostolište,117.0,1054.0,11.1,Malacky,Bratislavský
+Kuchyňa,105.0,1420.0,7.39,Malacky,Bratislavský
+Láb,161.0,1279.0,12.58,Malacky,Bratislavský
+Lozorno,203.0,2488.0,8.15,Malacky,Bratislavský
+Malacky,1669.0,15352.0,10.91,Malacky,Bratislavský
+Malé Leváre,72.0,968.0,7.43,Malacky,Bratislavský
+Marianka,218.0,1291.0,16.88,Malacky,Bratislavský
+Pernek,77.0,713.0,10.79,Malacky,Bratislavský
+Plavecké Podhradie,85.0,550.0,15.45,Malacky,Bratislavský
+Plavecký Mikuláš,89.0,599.0,14.85,Malacky,Bratislavský
+Plavecký Štvrtok,189.0,1906.0,9.91,Malacky,Bratislavský
+Rohožník,179.0,2839.0,6.3,Malacky,Bratislavský
+Sološnica,117.0,1312.0,8.91,Malacky,Bratislavský
+Studienka,119.0,1417.0,8.39,Malacky,Bratislavský
+Stupava,1153.0,8073.0,14.28,Malacky,Bratislavský
+Suchohrad,71.0,572.0,12.41,Malacky,Bratislavský
+Veľké Leváre,215.0,2994.0,7.18,Malacky,Bratislavský
+Vysoká pri Morave,197.0,1729.0,11.39,Malacky,Bratislavský
+Záhorie (vojenský obvod),16.0,139.0,11.51,Malacky,Bratislavský
+Záhorská Ves,100.0,1441.0,6.93,Malacky,Bratislavský
+Závod,166.0,2307.0,7.19,Malacky,Bratislavský
+Zohor,268.0,2675.0,10.01,Malacky,Bratislavský
+Báhoň,207.0,1401.0,14.84,Pezinok,Bratislavský
+Budmerice,266.0,1942.0,13.69,Pezinok,Bratislavský
+Častá,213.0,1850.0,11.56,Pezinok,Bratislavský
+Doľany,107.0,873.0,12.25,Pezinok,Bratislavský
+Dubová,115.0,836.0,13.75,Pezinok,Bratislavský
+Jablonec,88.0,747.0,11.78,Pezinok,Bratislavský
+Limbach,226.0,1407.0,16.06,Pezinok,Bratislavský
+Modra,1159.0,7582.0,15.31,Pezinok,Bratislavský
+Pezinok,2847.0,19316.0,14.75,Pezinok,Bratislavský
+Píla,58.0,296.0,19.59,Pezinok,Bratislavský
+Šenkvice,482.0,3868.0,12.48,Pezinok,Bratislavský
+Slovenský Grob,253.0,2089.0,12.11,Pezinok,Bratislavský
+Štefanová,33.0,293.0,11.26,Pezinok,Bratislavský
+Svätý Jur,725.0,4487.0,16.18,Pezinok,Bratislavský
+Viničné,233.0,1802.0,12.93,Pezinok,Bratislavský
+Vinosady,139.0,1009.0,13.77,Pezinok,Bratislavský
+Vištuk,118.0,1114.0,10.59,Pezinok,Bratislavský
+Bernolákovo,753.0,4826.0,15.6,Senec,Bratislavský
+Blatné,204.0,1348.0,15.28,Senec,Bratislavský
+Boldog,95.0,379.0,25.06,Senec,Bratislavský
+Čataj,160.0,940.0,17.02,Senec,Bratislavský
+Chorvátsky Grob,643.0,3570.0,18.03,Senec,Bratislavský
+Dunajská Lužná,745.0,4057.0,18.38,Senec,Bratislavský
+Hamuliakovo,192.0,1378.0,13.93,Senec,Bratislavský
+Hrubá Borša,72.0,451.0,16.18,Senec,Bratislavský
+Hrubý Šúr,124.0,647.0,19.16,Senec,Bratislavský
+Hurbanova Ves,46.0,237.0,19.4,Senec,Bratislavský
+Igram,73.0,450.0,16.22,Senec,Bratislavský
+Ivanka pri Dunaji,920.0,4946.0,18.66,Senec,Bratislavský
+Kalinkovo,143.0,1030.0,13.88,Senec,Bratislavský
+Kaplna,98.0,629.0,15.58,Senec,Bratislavský
+Kostolná pri Dunaji,105.0,457.0,22.97,Senec,Bratislavský
+Kráľová pri Senci,199.0,1464.0,13.66,Senec,Bratislavský
+Malinovo,327.0,1941.0,16.84,Senec,Bratislavský
+Miloslavov,379.0,1551.0,24.43,Senec,Bratislavský
+Most pri Bratislave,274.0,2076.0,13.19,Senec,Bratislavský
+Nová Dedinka,224.0,1841.0,12.16,Senec,Bratislavský
+Nový Svet,33.0,71.0,46.47,Senec,Bratislavský
+Reca,158.0,1213.0,13.02,Senec,Bratislavský
+Rovinka,323.0,2183.0,14.79,Senec,Bratislavský
+Senec,1974.0,14307.0,13.83,Senec,Bratislavský
+Tomášov,310.0,2045.0,15.2,Senec,Bratislavský
+Tureň,145.0,870.0,16.66,Senec,Bratislavský
+Veľký Biel,230.0,1937.0,11.92,Senec,Bratislavský
+Vlky,90.0,361.0,24.93,Senec,Bratislavský
+Zálesie,235.0,1318.0,17.83,Senec,Bratislavský
+Báč,104.0,465.0,22.36,Dunajská Streda,Trnavský
+Baka,168.0,953.0,17.73,Dunajská Streda,Trnavský
+Baloň,95.0,628.0,15.12,Dunajská Streda,Trnavský
+Bellova Ves,29.0,213.0,13.61,Dunajská Streda,Trnavský
+Blahová,39.0,308.0,12.66,Dunajská Streda,Trnavský
+Blatná na Ostrove,95.0,739.0,12.85,Dunajská Streda,Trnavský
+Bodíky,41.0,257.0,15.95,Dunajská Streda,Trnavský
+Boheľov,50.0,298.0,16.77,Dunajská Streda,Trnavský
+Čakany,74.0,486.0,15.22,Dunajská Streda,Trnavský
+Čenkovce,191.0,874.0,21.96,Dunajská Streda,Trnavský
+Čiližská Radvaň,148.0,990.0,14.94,Dunajská Streda,Trnavský
+Dobrohošť,109.0,388.0,28.09,Dunajská Streda,Trnavský
+Dolný Bar,90.0,514.0,17.5,Dunajská Streda,Trnavský
+Dolný Štál,274.0,1631.0,16.79,Dunajská Streda,Trnavský
+Dunajská Streda,2913.0,19132.0,15.27,Dunajská Streda,Trnavský
+Dunajský Klátov,50.0,486.0,10.28,Dunajská Streda,Trnavský
+Gabčíkovo,551.0,4296.0,12.82,Dunajská Streda,Trnavský
+Holice,360.0,1634.0,22.03,Dunajská Streda,Trnavský
+Horná Potôň,221.0,1638.0,13.49,Dunajská Streda,Trnavský
+Horné Mýto,129.0,805.0,16.02,Dunajská Streda,Trnavský
+Horný Bar,184.0,1072.0,17.16,Dunajská Streda,Trnavský
+Hubice,83.0,480.0,17.29,Dunajská Streda,Trnavský
+Hviezdoslavov,107.0,687.0,15.57,Dunajská Streda,Trnavský
+Jahodná,219.0,1259.0,17.39,Dunajská Streda,Trnavský
+Janíky,161.0,746.0,21.58,Dunajská Streda,Trnavský
+Jurová,81.0,415.0,19.51,Dunajská Streda,Trnavský
+Kľúčovec,57.0,314.0,18.15,Dunajská Streda,Trnavský
+Kostolné Kračany,259.0,1088.0,23.8,Dunajská Streda,Trnavský
+Kráľovičove Kračany,143.0,857.0,16.68,Dunajská Streda,Trnavský
+Kútniky,135.0,1122.0,12.03,Dunajská Streda,Trnavský
+Kvetoslavov,165.0,866.0,19.05,Dunajská Streda,Trnavský
+Kyselica,38.0,127.0,29.92,Dunajská Streda,Trnavský
+Lehnice,222.0,2107.0,10.53,Dunajská Streda,Trnavský
+Lúč na Ostrove,131.0,632.0,20.72,Dunajská Streda,Trnavský
+Macov,36.0,234.0,15.38,Dunajská Streda,Trnavský
+Mad,136.0,448.0,30.8,Dunajská Streda,Trnavský
+Malé Dvorníky,197.0,888.0,22.18,Dunajská Streda,Trnavský
+Medveďov,48.0,464.0,10.34,Dunajská Streda,Trnavský
+Michal na Ostrove,120.0,742.0,16.17,Dunajská Streda,Trnavský
+Mierovo,103.0,362.0,28.45,Dunajská Streda,Trnavský
+Ňárad,130.0,541.0,24.02,Dunajská Streda,Trnavský
+Nový Život,290.0,1848.0,15.69,Dunajská Streda,Trnavský
+Ohrady,126.0,1031.0,12.22,Dunajská Streda,Trnavský
+Okoč,420.0,3135.0,13.39,Dunajská Streda,Trnavský
+Oľdza,59.0,358.0,16.48,Dunajská Streda,Trnavský
+Orechová Potôň,212.0,1434.0,14.78,Dunajská Streda,Trnavský
+Padáň,99.0,733.0,13.64,Dunajská Streda,Trnavský
+Pataš,80.0,647.0,12.36,Dunajská Streda,Trnavský
+Potônske Lúky,89.0,237.0,37.55,Dunajská Streda,Trnavský
+Povoda,105.0,743.0,14.13,Dunajská Streda,Trnavský
+Rohovce,189.0,920.0,20.54,Dunajská Streda,Trnavský
+Šamorín,1588.0,10826.0,14.68,Dunajská Streda,Trnavský
+Sap,96.0,454.0,21.14,Dunajská Streda,Trnavský
+Štvrtok na Ostrove,175.0,1447.0,12.09,Dunajská Streda,Trnavský
+Topoľníky,372.0,2537.0,14.66,Dunajská Streda,Trnavský
+Trhová Hradská,250.0,1836.0,13.61,Dunajská Streda,Trnavský
+Trnávka,62.0,395.0,15.69,Dunajská Streda,Trnavský
+Trstená na Ostrove,81.0,487.0,16.63,Dunajská Streda,Trnavský
+Veľká Paka,86.0,709.0,12.12,Dunajská Streda,Trnavský
+Veľké Blahovo,146.0,1202.0,12.14,Dunajská Streda,Trnavský
+Veľké Dvorníky,100.0,883.0,11.32,Dunajská Streda,Trnavský
+Veľký Meder,766.0,7305.0,10.48,Dunajská Streda,Trnavský
+Vieska,102.0,373.0,27.34,Dunajská Streda,Trnavský
+Vojka nad Dunajom,83.0,412.0,20.14,Dunajská Streda,Trnavský
+Vrakúň,333.0,2197.0,15.15,Dunajská Streda,Trnavský
+Vydrany,149.0,1339.0,11.12,Dunajská Streda,Trnavský
+Zlaté Klasy,231.0,2730.0,8.46,Dunajská Streda,Trnavský
+Abrahám,153.0,908.0,16.85,Galanta,Trnavský
+Čierna Voda,361.0,1158.0,31.17,Galanta,Trnavský
+Čierny Brod,118.0,1320.0,8.93,Galanta,Trnavský
+Dolná Streda,159.0,1189.0,13.37,Galanta,Trnavský
+Dolné Saliby,289.0,1638.0,17.64,Galanta,Trnavský
+Dolný Chotár,42.0,320.0,13.12,Galanta,Trnavský
+Galanta,1570.0,12708.0,12.35,Galanta,Trnavský
+Gáň,69.0,602.0,11.46,Galanta,Trnavský
+Horné Saliby,339.0,2654.0,12.77,Galanta,Trnavský
+Hoste,59.0,401.0,14.71,Galanta,Trnavský
+Jánovce,48.0,399.0,12.03,Galanta,Trnavský
+Jelka,376.0,3244.0,11.59,Galanta,Trnavský
+Kajal,115.0,1243.0,9.25,Galanta,Trnavský
+Košúty,152.0,1321.0,11.5,Galanta,Trnavský
+Kráľov Brod,151.0,950.0,15.89,Galanta,Trnavský
+Malá Mača,69.0,498.0,13.85,Galanta,Trnavský
+Matúškovo,307.0,1771.0,17.33,Galanta,Trnavský
+Mostová,208.0,1376.0,15.11,Galanta,Trnavský
+Pata,178.0,2561.0,6.95,Galanta,Trnavský
+Pusté Sady,68.0,495.0,13.73,Galanta,Trnavský
+Pusté Úľany,118.0,1388.0,8.5,Galanta,Trnavský
+Šalgočka,33.0,370.0,8.91,Galanta,Trnavský
+Sereď,1373.0,13919.0,9.87,Galanta,Trnavský
+Šintava,210.0,1476.0,14.22,Galanta,Trnavský
+Sládkovičovo,475.0,4536.0,10.47,Galanta,Trnavský
+Šoporňa,297.0,3422.0,8.67,Galanta,Trnavský
+Tomášikovo,169.0,1273.0,13.27,Galanta,Trnavský
+Topoľnica,105.0,702.0,14.95,Galanta,Trnavský
+Trstice,648.0,3179.0,20.38,Galanta,Trnavský
+Váhovce,176.0,1770.0,10.0,Galanta,Trnavský
+Veľká Mača,291.0,2191.0,13.28,Galanta,Trnavský
+Veľké Úľany,424.0,3653.0,11.63,Galanta,Trnavský
+Veľký Grob,87.0,1071.0,8.12,Galanta,Trnavský
+Vinohrady nad Váhom,115.0,1329.0,8.65,Galanta,Trnavský
+Vozokany,144.0,963.0,14.95,Galanta,Trnavský
+Zemianske Sady,61.0,712.0,8.56,Galanta,Trnavský
+Banka,212.0,1867.0,11.35,Piešťany,Trnavský
+Bašovce,35.0,291.0,12.02,Piešťany,Trnavský
+Borovce,85.0,820.0,10.36,Piešťany,Trnavský
+Chtelnica,262.0,2186.0,11.98,Piešťany,Trnavský
+Dolný Lopašov,89.0,796.0,11.18,Piešťany,Trnavský
+Drahovce,204.0,2141.0,9.52,Piešťany,Trnavský
+Dubovany,60.0,821.0,7.3,Piešťany,Trnavský
+Ducové,30.0,328.0,9.14,Piešťany,Trnavský
+Hubina,50.0,431.0,11.6,Piešťany,Trnavský
+Kočín-Lančár,53.0,446.0,12.1,Piešťany,Trnavský
+Krakovany,128.0,1164.0,10.99,Piešťany,Trnavský
+Moravany nad Váhom,211.0,1852.0,11.39,Piešťany,Trnavský
+Nižná,45.0,442.0,10.18,Piešťany,Trnavský
+Ostrov,99.0,1030.0,9.7,Piešťany,Trnavský
+Pečeňady,64.0,440.0,14.54,Piešťany,Trnavský
+Piešťany,3849.0,24760.0,15.55,Piešťany,Trnavský
+Prašník,61.0,705.0,8.65,Piešťany,Trnavský
+Rakovice,46.0,460.0,10.0,Piešťany,Trnavský
+Ratnovce,94.0,832.0,11.29,Piešťany,Trnavský
+Šípkové,25.0,274.0,9.12,Piešťany,Trnavský
+Sokolovce,113.0,1041.0,10.85,Piešťany,Trnavský
+Šterusy,44.0,417.0,10.55,Piešťany,Trnavský
+Trebatice,76.0,1097.0,6.92,Piešťany,Trnavský
+Veľké Kostoľany,186.0,2227.0,8.35,Piešťany,Trnavský
+Veľké Orvište,85.0,885.0,9.6,Piešťany,Trnavský
+Veselé,67.0,953.0,7.03,Piešťany,Trnavský
+Vrbové,607.0,4989.0,12.16,Piešťany,Trnavský
+Bílkove Humence,22.0,175.0,12.57,Senica,Trnavský
+Borský Mikuláš,222.0,3207.0,6.92,Senica,Trnavský
+Borský Svätý Jur,130.0,1306.0,9.95,Senica,Trnavský
+Brodské,166.0,1940.0,8.55,Senica,Trnavský
+Čáry,59.0,1003.0,5.88,Senica,Trnavský
+Častkov,45.0,503.0,8.94,Senica,Trnavský
+Cerová,198.0,993.0,20.04,Senica,Trnavský
+Chropov,43.0,312.0,13.78,Senica,Trnavský
+Dojč,88.0,1015.0,8.66,Senica,Trnavský
+Dubovce,111.0,532.0,20.86,Senica,Trnavský
+Gbely,444.0,4273.0,10.41,Senica,Trnavský
+Hlboké,122.0,782.0,15.6,Senica,Trnavský
+Holíč,954.0,9076.0,10.53,Senica,Trnavský
+Hradište pod Vrátnom,88.0,550.0,16.0,Senica,Trnavský
+Jablonica,199.0,1872.0,10.63,Senica,Trnavský
+Kátov,80.0,477.0,16.77,Senica,Trnavský
+Kopčany,129.0,2071.0,6.22,Senica,Trnavský
+Koválov,56.0,599.0,9.34,Senica,Trnavský
+Koválovec,35.0,119.0,29.41,Senica,Trnavský
+Kuklov,44.0,631.0,6.97,Senica,Trnavský
+Kúty,223.0,3332.0,6.69,Senica,Trnavský
+Lakšárska Nová Ves,66.0,866.0,7.62,Senica,Trnavský
+Letničie,53.0,413.0,12.83,Senica,Trnavský
+Lopašov,51.0,247.0,20.64,Senica,Trnavský
+Mokrý Háj,115.0,565.0,20.35,Senica,Trnavský
+Moravský Svätý Ján,115.0,1703.0,6.75,Senica,Trnavský
+Oreské,74.0,298.0,24.83,Senica,Trnavský
+Osuské,60.0,511.0,11.74,Senica,Trnavský
+Petrova Ves,94.0,861.0,10.91,Senica,Trnavský
+Plavecký Peter,44.0,488.0,9.01,Senica,Trnavský
+Podbranč,42.0,535.0,7.85,Senica,Trnavský
+Popudinské Močidľany,73.0,724.0,10.08,Senica,Trnavský
+Prietrž,78.0,615.0,12.68,Senica,Trnavský
+Prietržka,81.0,388.0,20.87,Senica,Trnavský
+Prievaly,109.0,807.0,13.5,Senica,Trnavský
+Radimov,56.0,463.0,12.09,Senica,Trnavský
+Radošovce,130.0,1470.0,8.84,Senica,Trnavský
+Rohov,32.0,353.0,9.06,Senica,Trnavský
+Rovensko,90.0,336.0,27.08,Senica,Trnavský
+Rybky,43.0,363.0,11.84,Senica,Trnavský
+Šajdíkove Humence,75.0,902.0,8.31,Senica,Trnavský
+Šaštín-Stráže,443.0,4221.0,10.49,Senica,Trnavský
+Sekule,100.0,1411.0,7.08,Senica,Trnavský
+Senica,1640.0,16741.0,9.79,Senica,Trnavský
+Skalica,1607.0,12495.0,12.88,Senica,Trnavský
+Smolinské,65.0,765.0,8.49,Senica,Trnavský
+Smrdáky,118.0,534.0,22.09,Senica,Trnavský
+Sobotište,164.0,1248.0,13.22,Senica,Trnavský
+Štefanov,133.0,1302.0,10.21,Senica,Trnavský
+Trnovec,59.0,252.0,23.41,Senica,Trnavský
+Unín,104.0,982.0,10.59,Senica,Trnavský
+Vrádište,64.0,620.0,10.32,Senica,Trnavský
+Biely Kostol,156.0,1244.0,12.54,Trnava,Trnavský
+Bíňovce,75.0,523.0,14.34,Trnava,Trnavský
+Bohdanovce nad Trnavou,116.0,1029.0,11.27,Trnava,Trnavský
+Bojničky,79.0,1102.0,7.16,Trnava,Trnavský
+Boleráz,178.0,1825.0,9.8,Trnava,Trnavský
+Borová,44.0,343.0,12.82,Trnava,Trnavský
+Brestovany,190.0,2017.0,9.41,Trnava,Trnavský
+Bučany,188.0,1850.0,10.16,Trnava,Trnavský
+Buková,37.0,570.0,6.49,Trnava,Trnavský
+Červeník,171.0,1303.0,13.12,Trnava,Trnavský
+Cífer,393.0,3419.0,11.49,Trnava,Trnavský
+Dechtice,185.0,1523.0,12.14,Trnava,Trnavský
+Dlhá,49.0,349.0,14.04,Trnava,Trnavský
+Dobrá Voda,111.0,673.0,16.49,Trnava,Trnavský
+Dolná Krupá,132.0,1886.0,6.99,Trnava,Trnavský
+Dolné Dubové,62.0,553.0,11.21,Trnava,Trnavský
+Dolné Lovčice,97.0,620.0,15.64,Trnava,Trnavský
+Dolné Orešany,118.0,1081.0,10.91,Trnava,Trnavský
+Dolné Otrokovce,33.0,286.0,11.53,Trnava,Trnavský
+Dolné Trhovište,47.0,520.0,9.03,Trnava,Trnavský
+Dolné Zelenice,42.0,478.0,8.78,Trnava,Trnavský
+Dvorníky,98.0,1630.0,6.01,Trnava,Trnavský
+Hlohovec,2197.0,18335.0,11.98,Trnava,Trnavský
+Horná Krupá,87.0,407.0,21.37,Trnava,Trnavský
+Horné Dubové,46.0,321.0,14.33,Trnava,Trnavský
+Horné Orešany,195.0,1585.0,12.3,Trnava,Trnavský
+Horné Otrokovce,65.0,734.0,8.85,Trnava,Trnavský
+Horné Trhovište,29.0,499.0,5.81,Trnava,Trnavský
+Horné Zelenice,57.0,545.0,10.45,Trnava,Trnavský
+Hrnčiarovce nad Parnou,251.0,1865.0,13.45,Trnava,Trnavský
+Jalšové,30.0,405.0,7.4,Trnava,Trnavský
+Jaslovské Bohunice,171.0,1652.0,10.35,Trnava,Trnavský
+Kátlovce,134.0,933.0,14.46,Trnava,Trnavský
+Kľačany,74.0,842.0,8.78,Trnava,Trnavský
+Koplotovce,74.0,593.0,12.47,Trnava,Trnavský
+Košolná,65.0,614.0,10.58,Trnava,Trnavský
+Križovany nad Dudváhom,210.0,1509.0,13.91,Trnava,Trnavský
+Leopoldov,437.0,3366.0,13.01,Trnava,Trnavský
+Lošonec,59.0,448.0,13.16,Trnava,Trnavský
+Madunice,181.0,1738.0,10.41,Trnava,Trnavský
+Majcichov,183.0,1579.0,11.58,Trnava,Trnavský
+Malženice,112.0,1141.0,9.81,Trnava,Trnavský
+Merašice,38.0,356.0,10.67,Trnava,Trnavský
+Naháč,39.0,378.0,10.58,Trnava,Trnavský
+Opoj,66.0,786.0,8.39,Trnava,Trnavský
+Pastuchov,59.0,767.0,7.69,Trnava,Trnavský
+Pavlice,90.0,433.0,20.78,Trnava,Trnavský
+Radošovce,63.0,336.0,18.75,Trnava,Trnavský
+Ratkovce,53.0,260.0,20.38,Trnava,Trnavský
+Ružindol,143.0,1236.0,11.56,Trnava,Trnavský
+Sasinkovo,44.0,715.0,6.15,Trnava,Trnavský
+Šelpice,99.0,712.0,13.9,Trnava,Trnavský
+Siladice,60.0,574.0,10.45,Trnava,Trnavský
+Slovenská Nová Ves,27.0,396.0,6.81,Trnava,Trnavský
+Smolenice,480.0,2768.0,17.37,Trnava,Trnavský
+Špačince,226.0,2035.0,11.1,Trnava,Trnavský
+Suchá nad Parnou,211.0,1634.0,12.91,Trnava,Trnavský
+Šúrovce,195.0,1919.0,10.16,Trnava,Trnavský
+Tekolďany,24.0,131.0,18.32,Trnava,Trnavský
+Tepličky,22.0,249.0,8.83,Trnava,Trnavský
+Trakovice,99.0,1203.0,8.22,Trnava,Trnavský
+Trnava,7042.0,54474.0,12.94,Trnava,Trnavský
+Trstín,122.0,1131.0,10.78,Trnava,Trnavský
+Vlčkovce,117.0,1068.0,10.95,Trnava,Trnavský
+Voderady,151.0,1149.0,13.22,Trnava,Trnavský
+Zavar,219.0,1733.0,12.63,Trnava,Trnavský
+Zeleneč,212.0,2184.0,9.7,Trnava,Trnavský
+Žlkovce,61.0,556.0,10.97,Trnava,Trnavský
+Zvončín,75.0,635.0,11.81,Trnava,Trnavský
+Bánovce nad Bebravou,1770.0,15807.0,11.2,Bánovce nad Bebravou,Trenčiansky
+Borčany,22.0,215.0,10.23,Bánovce nad Bebravou,Trenčiansky
+Brezolupy,51.0,390.0,13.07,Bánovce nad Bebravou,Trenčiansky
+Chudá Lehota,36.0,190.0,18.94,Bánovce nad Bebravou,Trenčiansky
+Čierna Lehota,31.0,125.0,24.8,Bánovce nad Bebravou,Trenčiansky
+Cimenná,16.0,69.0,23.18,Bánovce nad Bebravou,Trenčiansky
+Dežerice,52.0,593.0,8.76,Bánovce nad Bebravou,Trenčiansky
+Dolné Naštice,74.0,422.0,17.53,Bánovce nad Bebravou,Trenčiansky
+Dubnička,19.0,102.0,18.62,Bánovce nad Bebravou,Trenčiansky
+Dvorec,38.0,355.0,10.7,Bánovce nad Bebravou,Trenčiansky
+Haláčovce,41.0,262.0,15.64,Bánovce nad Bebravou,Trenčiansky
+Horné Naštice,71.0,353.0,20.11,Bánovce nad Bebravou,Trenčiansky
+Krásna Ves,45.0,446.0,10.08,Bánovce nad Bebravou,Trenčiansky
+Kšinná,47.0,440.0,10.68,Bánovce nad Bebravou,Trenčiansky
+Libichava,19.0,125.0,15.2,Bánovce nad Bebravou,Trenčiansky
+Ľutov,21.0,127.0,16.53,Bánovce nad Bebravou,Trenčiansky
+Malá Hradná,34.0,306.0,11.11,Bánovce nad Bebravou,Trenčiansky
+Malé Hoste,30.0,356.0,8.42,Bánovce nad Bebravou,Trenčiansky
+Miezgovce,38.0,213.0,17.84,Bánovce nad Bebravou,Trenčiansky
+Nedašovce,32.0,369.0,8.67,Bánovce nad Bebravou,Trenčiansky
+Omastiná,10.0,36.0,27.77,Bánovce nad Bebravou,Trenčiansky
+Otrhánky,59.0,337.0,17.5,Bánovce nad Bebravou,Trenčiansky
+Pečeňany,30.0,360.0,8.33,Bánovce nad Bebravou,Trenčiansky
+Pochabany,15.0,202.0,7.42,Bánovce nad Bebravou,Trenčiansky
+Podlužany,86.0,722.0,11.91,Bánovce nad Bebravou,Trenčiansky
+Pravotice,40.0,247.0,16.19,Bánovce nad Bebravou,Trenčiansky
+Prusy,34.0,482.0,7.05,Bánovce nad Bebravou,Trenčiansky
+Ruskovce,35.0,444.0,7.88,Bánovce nad Bebravou,Trenčiansky
+Rybany,110.0,1235.0,8.9,Bánovce nad Bebravou,Trenčiansky
+Šípkov,19.0,123.0,15.44,Bánovce nad Bebravou,Trenčiansky
+Šišov,37.0,412.0,8.98,Bánovce nad Bebravou,Trenčiansky
+Slatina nad Bebravou,41.0,369.0,11.11,Bánovce nad Bebravou,Trenčiansky
+Slatinka nad Bebravou,15.0,171.0,9.35,Bánovce nad Bebravou,Trenčiansky
+Timoradza,63.0,423.0,14.89,Bánovce nad Bebravou,Trenčiansky
+Trebichava,18.0,43.0,41.86,Bánovce nad Bebravou,Trenčiansky
+Uhrovec,179.0,1296.0,13.81,Bánovce nad Bebravou,Trenčiansky
+Uhrovské Podhradie,8.0,34.0,23.52,Bánovce nad Bebravou,Trenčiansky
+Veľké Chlievany,49.0,381.0,12.86,Bánovce nad Bebravou,Trenčiansky
+Veľké Držkovce,76.0,549.0,13.84,Bánovce nad Bebravou,Trenčiansky
+Veľké Hoste,44.0,478.0,9.2,Bánovce nad Bebravou,Trenčiansky
+Vysočany,35.0,115.0,30.43,Bánovce nad Bebravou,Trenčiansky
+Žitná-Radiša,36.0,401.0,8.97,Bánovce nad Bebravou,Trenčiansky
+Zlatníky,54.0,573.0,9.42,Bánovce nad Bebravou,Trenčiansky
+Beckov,162.0,1105.0,14.75,Nové Mesto nad Váhom,Trenčiansky
+Bošáca,123.0,1109.0,11.09,Nové Mesto nad Váhom,Trenčiansky
+Brestovec,52.0,778.0,6.68,Nové Mesto nad Váhom,Trenčiansky
+Brezová pod Bradlom,381.0,4404.0,8.65,Nové Mesto nad Váhom,Trenčiansky
+Brunovce,37.0,458.0,8.07,Nové Mesto nad Váhom,Trenčiansky
+Bukovec,46.0,332.0,13.85,Nové Mesto nad Váhom,Trenčiansky
+Bzince pod Javorinou,233.0,1764.0,13.2,Nové Mesto nad Váhom,Trenčiansky
+Čachtice,329.0,3105.0,10.59,Nové Mesto nad Váhom,Trenčiansky
+Častkovce,150.0,1007.0,15.09,Nové Mesto nad Váhom,Trenčiansky
+Chvojnica,38.0,307.0,12.37,Nové Mesto nad Váhom,Trenčiansky
+Dolné Srnie,93.0,792.0,11.74,Nové Mesto nad Váhom,Trenčiansky
+Haluzice,17.0,56.0,30.35,Nové Mesto nad Váhom,Trenčiansky
+Hôrka nad Váhom,60.0,591.0,10.15,Nové Mesto nad Váhom,Trenčiansky
+Horná Streda,100.0,1122.0,8.91,Nové Mesto nad Váhom,Trenčiansky
+Hrachovište,74.0,572.0,12.93,Nové Mesto nad Váhom,Trenčiansky
+Hrádok,76.0,574.0,13.24,Nové Mesto nad Váhom,Trenčiansky
+Hrašné,38.0,405.0,9.38,Nové Mesto nad Váhom,Trenčiansky
+Jablonka,26.0,423.0,6.14,Nové Mesto nad Váhom,Trenčiansky
+Kálnica,88.0,847.0,10.38,Nové Mesto nad Váhom,Trenčiansky
+Kočovce,148.0,1203.0,12.3,Nové Mesto nad Váhom,Trenčiansky
+Košariská,52.0,358.0,14.52,Nové Mesto nad Váhom,Trenčiansky
+Kostolné,70.0,512.0,13.67,Nové Mesto nad Váhom,Trenčiansky
+Krajné,141.0,1330.0,10.6,Nové Mesto nad Váhom,Trenčiansky
+Lubina,138.0,1175.0,11.82,Nové Mesto nad Váhom,Trenčiansky
+Lúka,70.0,539.0,12.98,Nové Mesto nad Váhom,Trenčiansky
+Modrová,63.0,430.0,14.65,Nové Mesto nad Váhom,Trenčiansky
+Modrovka,29.0,173.0,16.76,Nové Mesto nad Váhom,Trenčiansky
+Moravské Lieskové,225.0,2080.0,10.81,Nové Mesto nad Váhom,Trenčiansky
+Myjava,1071.0,10026.0,10.69,Nové Mesto nad Váhom,Trenčiansky
+Nová Bošáca,80.0,935.0,8.55,Nové Mesto nad Váhom,Trenčiansky
+Nová Lehota,33.0,183.0,18.03,Nové Mesto nad Váhom,Trenčiansky
+Nová Ves nad Váhom,50.0,428.0,11.68,Nové Mesto nad Váhom,Trenčiansky
+Nové Mesto nad Váhom,2082.0,16562.0,12.57,Nové Mesto nad Váhom,Trenčiansky
+Očkov,39.0,374.0,10.42,Nové Mesto nad Váhom,Trenčiansky
+Pobedim,175.0,1006.0,17.39,Nové Mesto nad Váhom,Trenčiansky
+Podkylava,25.0,204.0,12.25,Nové Mesto nad Váhom,Trenčiansky
+Podolie,168.0,1610.0,10.43,Nové Mesto nad Váhom,Trenčiansky
+Polianka,33.0,324.0,10.18,Nové Mesto nad Váhom,Trenčiansky
+Poriadie,45.0,579.0,7.77,Nové Mesto nad Váhom,Trenčiansky
+Potvorice,73.0,470.0,15.53,Nové Mesto nad Váhom,Trenčiansky
+Považany,75.0,1070.0,7.0,Nové Mesto nad Váhom,Trenčiansky
+Priepasné,23.0,304.0,7.56,Nové Mesto nad Váhom,Trenčiansky
+Rudník,56.0,660.0,8.48,Nové Mesto nad Váhom,Trenčiansky
+Stará Lehota,13.0,191.0,6.8,Nové Mesto nad Váhom,Trenčiansky
+Stará Myjava,64.0,609.0,10.5,Nové Mesto nad Váhom,Trenčiansky
+Stará Turá,946.0,7955.0,11.89,Nové Mesto nad Váhom,Trenčiansky
+Trenčianske Bohuslavice,64.0,807.0,7.93,Nové Mesto nad Váhom,Trenčiansky
+Vaďovce,82.0,618.0,13.26,Nové Mesto nad Váhom,Trenčiansky
+Višňové,27.0,139.0,19.42,Nové Mesto nad Váhom,Trenčiansky
+Vrbovce,85.0,1289.0,6.59,Nové Mesto nad Váhom,Trenčiansky
+Zemianske Podhradie,58.0,584.0,9.93,Nové Mesto nad Váhom,Trenčiansky
+Beluša,627.0,5012.0,12.52,Považská Bystrica,Trenčiansky
+Bodiná,44.0,405.0,10.86,Považská Bystrica,Trenčiansky
+Brvnište,98.0,976.0,10.04,Považská Bystrica,Trenčiansky
+Čelkova Lehota,29.0,105.0,27.61,Považská Bystrica,Trenčiansky
+Dohňany,153.0,1398.0,10.94,Považská Bystrica,Trenčiansky
+Dolná Breznica,53.0,722.0,7.34,Považská Bystrica,Trenčiansky
+Dolná Mariková,93.0,1175.0,8.25,Považská Bystrica,Trenčiansky
+Dolné Kočkovce,147.0,1011.0,14.54,Považská Bystrica,Trenčiansky
+Dolný Lieskov,47.0,660.0,7.12,Považská Bystrica,Trenčiansky
+Domaniža,137.0,1257.0,10.89,Považská Bystrica,Trenčiansky
+Ďurďové,17.0,132.0,12.87,Považská Bystrica,Trenčiansky
+Hatné,44.0,483.0,9.1,Považská Bystrica,Trenčiansky
+Horná Breznica,25.0,396.0,6.31,Považská Bystrica,Trenčiansky
+Horná Mariková,59.0,564.0,10.46,Považská Bystrica,Trenčiansky
+Horný Lieskov,35.0,306.0,11.43,Považská Bystrica,Trenčiansky
+Horovce,86.0,672.0,12.79,Považská Bystrica,Trenčiansky
+Jasenica,103.0,861.0,11.96,Považská Bystrica,Trenčiansky
+Klieština,24.0,284.0,8.45,Považská Bystrica,Trenčiansky
+Kostolec,22.0,188.0,11.7,Považská Bystrica,Trenčiansky
+Kvašov,32.0,527.0,6.07,Považská Bystrica,Trenčiansky
+Lazy pod Makytou,103.0,1099.0,9.46,Považská Bystrica,Trenčiansky
+Lednica,42.0,792.0,5.3,Považská Bystrica,Trenčiansky
+Lednické Rovne,388.0,3374.0,11.49,Považská Bystrica,Trenčiansky
+Lúky,80.0,755.0,10.59,Považská Bystrica,Trenčiansky
+Lysá pod Makytou,131.0,1696.0,7.84,Považská Bystrica,Trenčiansky
+Malé Lednice,33.0,417.0,7.91,Považská Bystrica,Trenčiansky
+Mestečko,55.0,406.0,13.54,Považská Bystrica,Trenčiansky
+Mojtín,35.0,439.0,7.97,Považská Bystrica,Trenčiansky
+Nimnica,95.0,573.0,16.57,Považská Bystrica,Trenčiansky
+Papradno,183.0,2104.0,8.69,Považská Bystrica,Trenčiansky
+Plevník-Drienové,97.0,1314.0,7.38,Považská Bystrica,Trenčiansky
+Počarová,18.0,115.0,15.65,Považská Bystrica,Trenčiansky
+Podskalie,23.0,110.0,20.9,Považská Bystrica,Trenčiansky
+Považská Bystrica,3761.0,34096.0,11.03,Považská Bystrica,Trenčiansky
+Prečín,114.0,1143.0,10.84,Považská Bystrica,Trenčiansky
+Pružina,129.0,1610.0,8.01,Považská Bystrica,Trenčiansky
+Púchov,1716.0,15120.0,11.34,Považská Bystrica,Trenčiansky
+Sádočné,21.0,137.0,15.32,Považská Bystrica,Trenčiansky
+Slopná,56.0,360.0,15.55,Považská Bystrica,Trenčiansky
+Streženice,94.0,751.0,12.51,Považská Bystrica,Trenčiansky
+Stupné,70.0,558.0,12.54,Považská Bystrica,Trenčiansky
+Sverepec,64.0,956.0,6.69,Považská Bystrica,Trenčiansky
+Udiča,174.0,1783.0,9.75,Považská Bystrica,Trenčiansky
+Visolaje,59.0,744.0,7.93,Považská Bystrica,Trenčiansky
+Vrchteplá,53.0,228.0,23.24,Považská Bystrica,Trenčiansky
+Vydrná,46.0,285.0,16.14,Považská Bystrica,Trenčiansky
+Záriečie,44.0,578.0,7.61,Považská Bystrica,Trenčiansky
+Záskalie,13.0,146.0,8.9,Považská Bystrica,Trenčiansky
+Zubák,52.0,719.0,7.23,Považská Bystrica,Trenčiansky
+Bojnice,907.0,4217.0,21.53,Prievidza,Trenčiansky
+Bošany,350.0,3470.0,10.08,Prievidza,Trenčiansky
+Brodzany,83.0,676.0,12.27,Prievidza,Trenčiansky
+Bystričany,203.0,1531.0,13.58,Prievidza,Trenčiansky
+Čavoj,40.0,452.0,8.84,Prievidza,Trenčiansky
+Čereňany,125.0,1415.0,8.9,Prievidza,Trenčiansky
+Chrenovec-Brusno,125.0,1131.0,11.05,Prievidza,Trenčiansky
+Chvojnica,29.0,200.0,14.5,Prievidza,Trenčiansky
+Chynorany,321.0,2239.0,14.33,Prievidza,Trenčiansky
+Cigeľ,160.0,980.0,16.42,Prievidza,Trenčiansky
+Diviacka Nová Ves,145.0,1473.0,9.84,Prievidza,Trenčiansky
+Diviaky nad Nitricou,181.0,1473.0,12.28,Prievidza,Trenčiansky
+Dlžín,28.0,162.0,17.28,Prievidza,Trenčiansky
+Dolné Vestenice,245.0,2126.0,11.52,Prievidza,Trenčiansky
+Handlová,1358.0,14493.0,9.37,Prievidza,Trenčiansky
+Horná Ves,77.0,896.0,8.59,Prievidza,Trenčiansky
+Horné Vestenice,73.0,519.0,14.06,Prievidza,Trenčiansky
+Hradište,75.0,832.0,9.01,Prievidza,Trenčiansky
+Jalovec,42.0,486.0,8.64,Prievidza,Trenčiansky
+Ješkova Ves,53.0,418.0,12.67,Prievidza,Trenčiansky
+Kamenec pod Vtáčnikom,170.0,1517.0,11.2,Prievidza,Trenčiansky
+Kanianka,466.0,3378.0,13.82,Prievidza,Trenčiansky
+Kľačno,93.0,915.0,10.16,Prievidza,Trenčiansky
+Klátova Nová Ves,195.0,1351.0,14.5,Prievidza,Trenčiansky
+Kocurany,36.0,420.0,8.57,Prievidza,Trenčiansky
+Kolačno,108.0,711.0,15.18,Prievidza,Trenčiansky
+Koš,93.0,862.0,10.78,Prievidza,Trenčiansky
+Kostolná Ves,28.0,388.0,7.21,Prievidza,Trenčiansky
+Krásno,79.0,431.0,18.32,Prievidza,Trenčiansky
+Lazany,160.0,1309.0,12.22,Prievidza,Trenčiansky
+Lehota pod Vtáčnikom,550.0,3252.0,16.91,Prievidza,Trenčiansky
+Liešťany,93.0,994.0,9.35,Prievidza,Trenčiansky
+Lipník,57.0,419.0,13.6,Prievidza,Trenčiansky
+Livina,30.0,91.0,32.96,Prievidza,Trenčiansky
+Livinské Opatovce,34.0,201.0,16.91,Prievidza,Trenčiansky
+Malá Čausa,91.0,572.0,15.9,Prievidza,Trenčiansky
+Malé Kršteňany,67.0,446.0,15.02,Prievidza,Trenčiansky
+Malé Uherce,77.0,621.0,12.39,Prievidza,Trenčiansky
+Malinová,77.0,732.0,10.51,Prievidza,Trenčiansky
+Nadlice,60.0,537.0,11.35,Prievidza,Trenčiansky
+Nedanovce,63.0,521.0,12.09,Prievidza,Trenčiansky
+Nedožery-Brezany,198.0,1732.0,11.43,Prievidza,Trenčiansky
+Nevidzany,28.0,239.0,11.71,Prievidza,Trenčiansky
+Nitrianske Pravno,344.0,2675.0,12.85,Prievidza,Trenčiansky
+Nitrianske Rudno,141.0,1593.0,8.85,Prievidza,Trenčiansky
+Nitrianske Sučany,154.0,999.0,15.41,Prievidza,Trenčiansky
+Nitrica,119.0,1025.0,11.6,Prievidza,Trenčiansky
+Nováky,515.0,3661.0,14.09,Prievidza,Trenčiansky
+Opatovce nad Nitrou,177.0,1323.0,13.45,Prievidza,Trenčiansky
+Oslany,193.0,1947.0,9.91,Prievidza,Trenčiansky
+Ostratice,75.0,685.0,10.94,Prievidza,Trenčiansky
+Partizánske,2082.0,19577.0,10.64,Prievidza,Trenčiansky
+Pažiť,63.0,367.0,17.16,Prievidza,Trenčiansky
+Podhradie,24.0,270.0,8.88,Prievidza,Trenčiansky
+Poluvsie,87.0,488.0,17.82,Prievidza,Trenčiansky
+Poruba,117.0,1074.0,10.89,Prievidza,Trenčiansky
+Pravenec,155.0,1111.0,13.95,Prievidza,Trenčiansky
+Prievidza,5187.0,41171.0,12.6,Prievidza,Trenčiansky
+Radobica,83.0,485.0,17.11,Prievidza,Trenčiansky
+Ráztočno,103.0,1033.0,9.97,Prievidza,Trenčiansky
+Rudnianska Lehota,56.0,623.0,8.98,Prievidza,Trenčiansky
+Sebedražie,179.0,1455.0,12.3,Prievidza,Trenčiansky
+Seč,44.0,316.0,13.92,Prievidza,Trenčiansky
+Skačany,109.0,1102.0,9.89,Prievidza,Trenčiansky
+Šútovce,41.0,354.0,11.58,Prievidza,Trenčiansky
+Temeš,20.0,199.0,10.05,Prievidza,Trenčiansky
+Turčianky,13.0,130.0,10.0,Prievidza,Trenčiansky
+Tužina,108.0,1008.0,10.71,Prievidza,Trenčiansky
+Valaská Belá,175.0,1809.0,9.67,Prievidza,Trenčiansky
+Veľká Čausa,58.0,384.0,15.1,Prievidza,Trenčiansky
+Veľké Kršteňany,60.0,486.0,12.34,Prievidza,Trenčiansky
+Veľké Uherce,170.0,1672.0,10.22,Prievidza,Trenčiansky
+Veľký Klíž,90.0,768.0,11.71,Prievidza,Trenčiansky
+Žabokreky nad Nitrou,132.0,1354.0,9.74,Prievidza,Trenčiansky
+Zemianske Kostoľany,129.0,1444.0,8.93,Prievidza,Trenčiansky
+Adamovské Kochanovce,96.0,633.0,15.16,Trenčín,Trenčiansky
+Bobot,74.0,628.0,11.78,Trenčín,Trenčiansky
+Bohunice,88.0,618.0,14.23,Trenčín,Trenčiansky
+Bolešov,116.0,1226.0,9.46,Trenčín,Trenčiansky
+Borčice,105.0,430.0,24.41,Trenčín,Trenčiansky
+Červený Kameň,48.0,591.0,8.12,Trenčín,Trenčiansky
+Chocholná-Velčice,158.0,1427.0,11.14,Trenčín,Trenčiansky
+Dolná Poruba,36.0,650.0,5.53,Trenčín,Trenčiansky
+Dolná Súča,234.0,2386.0,9.8,Trenčín,Trenčiansky
+Drietoma,183.0,1826.0,10.02,Trenčín,Trenčiansky
+Dubnica nad Váhom,2155.0,20597.0,10.47,Trenčín,Trenčiansky
+Dubodiel,80.0,794.0,10.07,Trenčín,Trenčiansky
+Dulov,122.0,765.0,15.94,Trenčín,Trenčiansky
+Horná Poruba,124.0,871.0,14.35,Trenčín,Trenčiansky
+Horná Súča,333.0,2740.0,12.15,Trenčín,Trenčiansky
+Horňany,27.0,359.0,7.52,Trenčín,Trenčiansky
+Horné Srnie,259.0,2267.0,11.42,Trenčín,Trenčiansky
+Hrabovka,56.0,357.0,15.68,Trenčín,Trenčiansky
+Ilava,623.0,4646.0,13.43,Trenčín,Trenčiansky
+Ivanovce,76.0,772.0,9.84,Trenčín,Trenčiansky
+Kameničany,83.0,427.0,19.43,Trenčín,Trenčiansky
+Košeca,222.0,2123.0,10.45,Trenčín,Trenčiansky
+Košecké Podhradie,87.0,877.0,9.92,Trenčín,Trenčiansky
+Kostolná-Záriečie,76.0,538.0,14.12,Trenčín,Trenčiansky
+Krivoklát,14.0,212.0,6.6,Trenčín,Trenčiansky
+Krivosúd-Bodovka,30.0,264.0,11.36,Trenčín,Trenčiansky
+Ladce,152.0,2125.0,7.15,Trenčín,Trenčiansky
+Melčice-Lieskové,168.0,1322.0,12.7,Trenčín,Trenčiansky
+Mikušovce,60.0,826.0,7.26,Trenčín,Trenčiansky
+Mníchova Lehota,103.0,992.0,10.38,Trenčín,Trenčiansky
+Motešice,93.0,664.0,14.0,Trenčín,Trenčiansky
+Nemšová,662.0,5135.0,12.89,Trenčín,Trenčiansky
+Neporadza,79.0,656.0,12.04,Trenčín,Trenčiansky
+Nová Dubnica,1596.0,9794.0,16.3,Trenčín,Trenčiansky
+Omšenie,140.0,1633.0,8.57,Trenčín,Trenčiansky
+Opatovce,20.0,334.0,5.98,Trenčín,Trenčiansky
+Petrova Lehota,24.0,159.0,15.09,Trenčín,Trenčiansky
+Pruské,232.0,1744.0,13.3,Trenčín,Trenčiansky
+Sedmerovec,35.0,344.0,10.17,Trenčín,Trenčiansky
+Selec,95.0,818.0,11.61,Trenčín,Trenčiansky
+Skalka nad Váhom,127.0,946.0,13.42,Trenčín,Trenčiansky
+Slavnica,113.0,540.0,20.92,Trenčín,Trenčiansky
+Soblahov,151.0,1792.0,8.48,Trenčín,Trenčiansky
+Štvrtok,58.0,306.0,18.95,Trenčín,Trenčiansky
+Svinná,161.0,1296.0,12.42,Trenčín,Trenčiansky
+Trenčianska Teplá,509.0,3391.0,15.01,Trenčín,Trenčiansky
+Trenčianska Turná,309.0,2520.0,12.26,Trenčín,Trenčiansky
+Trenčianske Jastrabie,116.0,1046.0,11.08,Trenčín,Trenčiansky
+Trenčianske Mitice,57.0,623.0,9.14,Trenčín,Trenčiansky
+Trenčianske Stankovce,275.0,2570.0,10.7,Trenčín,Trenčiansky
+Trenčianske Teplice,615.0,3543.0,17.38,Trenčín,Trenčiansky
+Trenčín,7035.0,46731.0,15.07,Trenčín,Trenčiansky
+Tuchyňa,110.0,627.0,17.54,Trenčín,Trenčiansky
+Veľká Hradná,78.0,551.0,14.15,Trenčín,Trenčiansky
+Veľké Bierovce,82.0,542.0,15.12,Trenčín,Trenčiansky
+Vršatské Podhradie,32.0,212.0,15.09,Trenčín,Trenčiansky
+Zamarovce,135.0,754.0,17.9,Trenčín,Trenčiansky
+Zliechov,82.0,502.0,16.33,Trenčín,Trenčiansky
+Bajč,134.0,1037.0,12.92,Komárno,Nitriansky
+Bátorove Kosihy,327.0,2865.0,11.41,Komárno,Nitriansky
+Bodza,54.0,309.0,17.47,Komárno,Nitriansky
+Bodzianske Lúky,49.0,178.0,27.52,Komárno,Nitriansky
+Brestovec,106.0,406.0,26.1,Komárno,Nitriansky
+Búč,180.0,999.0,18.01,Komárno,Nitriansky
+Čalovec,97.0,944.0,10.27,Komárno,Nitriansky
+Chotín,185.0,1186.0,15.59,Komárno,Nitriansky
+Číčov,180.0,1064.0,16.91,Komárno,Nitriansky
+Dedina Mládeže,61.0,385.0,15.84,Komárno,Nitriansky
+Dulovce,175.0,1417.0,12.35,Komárno,Nitriansky
+Holiare,66.0,394.0,16.75,Komárno,Nitriansky
+Hurbanovo,739.0,6457.0,11.44,Komárno,Nitriansky
+Imeľ,126.0,1705.0,7.39,Komárno,Nitriansky
+Iža,308.0,1373.0,22.43,Komárno,Nitriansky
+Kameničná,163.0,1578.0,10.32,Komárno,Nitriansky
+Klížska Nemá,113.0,420.0,26.9,Komárno,Nitriansky
+Kolárovo,845.0,8883.0,9.51,Komárno,Nitriansky
+Komárno,3997.0,29034.0,13.77,Komárno,Nitriansky
+Kravany nad Dunajom,115.0,615.0,18.69,Komárno,Nitriansky
+Lipové,14.0,130.0,10.76,Komárno,Nitriansky
+Marcelová,306.0,3097.0,9.91,Komárno,Nitriansky
+Martovce,98.0,604.0,16.22,Komárno,Nitriansky
+Moča,178.0,961.0,18.52,Komárno,Nitriansky
+Modrany,140.0,1089.0,12.85,Komárno,Nitriansky
+Mudroňovo,26.0,95.0,27.36,Komárno,Nitriansky
+Nesvady,377.0,4132.0,9.14,Komárno,Nitriansky
+Okoličná na Ostrove,151.0,1214.0,12.43,Komárno,Nitriansky
+Patince,121.0,430.0,28.13,Komárno,Nitriansky
+Pribeta,393.0,2455.0,16.04,Komárno,Nitriansky
+Radvaň nad Dunajom,147.0,584.0,25.17,Komárno,Nitriansky
+Sokolce,146.0,1019.0,14.32,Komárno,Nitriansky
+Šrobárová,70.0,406.0,17.24,Komárno,Nitriansky
+Svätý Peter,357.0,2230.0,16.0,Komárno,Nitriansky
+Tôň,108.0,663.0,16.44,Komárno,Nitriansky
+Trávnik,93.0,583.0,15.95,Komárno,Nitriansky
+Veľké Kosihy,201.0,840.0,23.92,Komárno,Nitriansky
+Virt,54.0,242.0,22.31,Komárno,Nitriansky
+Vrbová nad Váhom,79.0,455.0,17.36,Komárno,Nitriansky
+Zemianska Olča,199.0,2066.0,9.63,Komárno,Nitriansky
+Zlatná na Ostrove,168.0,2017.0,8.32,Komárno,Nitriansky
+Bajka,18.0,254.0,7.08,Levice,Nitriansky
+Bátovce,94.0,894.0,10.62,Levice,Nitriansky
+Beša,84.0,535.0,15.7,Levice,Nitriansky
+Bielovce,51.0,197.0,25.88,Levice,Nitriansky
+Bohunice,24.0,113.0,21.23,Levice,Nitriansky
+Bory,40.0,278.0,14.38,Levice,Nitriansky
+Brhlovce,46.0,270.0,17.03,Levice,Nitriansky
+Čajkov,169.0,847.0,19.95,Levice,Nitriansky
+Čaka,55.0,651.0,8.44,Levice,Nitriansky
+Čata,148.0,964.0,15.35,Levice,Nitriansky
+Demandice,121.0,831.0,14.56,Levice,Nitriansky
+Devičany,47.0,340.0,13.82,Levice,Nitriansky
+Dolná Seč,38.0,391.0,9.71,Levice,Nitriansky
+Dolné Semerovce,58.0,394.0,14.72,Levice,Nitriansky
+Dolný Pial,46.0,797.0,5.77,Levice,Nitriansky
+Domadice,31.0,212.0,14.62,Levice,Nitriansky
+Drženice,58.0,312.0,18.58,Levice,Nitriansky
+Farná,212.0,1131.0,18.74,Levice,Nitriansky
+Hokovce,64.0,439.0,14.57,Levice,Nitriansky
+Hontianska Vrbica,50.0,450.0,11.11,Levice,Nitriansky
+Hontianske Trsťany,76.0,270.0,28.14,Levice,Nitriansky
+Horná Seč,85.0,450.0,18.88,Levice,Nitriansky
+Horné Semerovce,50.0,493.0,10.14,Levice,Nitriansky
+Horné Turovce,50.0,479.0,10.43,Levice,Nitriansky
+Horný Pial,30.0,229.0,13.1,Levice,Nitriansky
+Hrkovce,29.0,267.0,10.86,Levice,Nitriansky
+Hronovce,114.0,1208.0,9.43,Levice,Nitriansky
+Hronské Kľačany,200.0,1205.0,16.68,Levice,Nitriansky
+Hronské Kosihy,51.0,554.0,9.2,Levice,Nitriansky
+Iňa,42.0,185.0,22.7,Levice,Nitriansky
+Ipeľské Úľany,76.0,259.0,29.34,Levice,Nitriansky
+Ipeľský Sokolec,81.0,708.0,11.44,Levice,Nitriansky
+Jabloňovce,27.0,184.0,14.67,Levice,Nitriansky
+Jesenské,18.0,41.0,43.9,Levice,Nitriansky
+Jur nad Hronom,107.0,793.0,13.49,Levice,Nitriansky
+Kalná nad Hronom,231.0,1713.0,13.48,Levice,Nitriansky
+Keť,196.0,522.0,37.54,Levice,Nitriansky
+Kozárovce,247.0,1605.0,15.45,Levice,Nitriansky
+Krškany,82.0,573.0,14.31,Levice,Nitriansky
+Kubáňovo,64.0,256.0,25.0,Levice,Nitriansky
+Kukučínov,41.0,513.0,7.99,Levice,Nitriansky
+Kuraľany,75.0,435.0,17.24,Levice,Nitriansky
+Levice,3333.0,28404.0,11.75,Levice,Nitriansky
+Lok,57.0,817.0,6.97,Levice,Nitriansky
+Lontov,41.0,504.0,8.13,Levice,Nitriansky
+Lula,21.0,160.0,13.75,Levice,Nitriansky
+Málaš,43.0,426.0,10.09,Levice,Nitriansky
+Malé Kozmálovce,52.0,328.0,15.85,Levice,Nitriansky
+Malé Ludince,44.0,157.0,28.02,Levice,Nitriansky
+Mýtne Ludany,78.0,772.0,10.1,Levice,Nitriansky
+Nová Dedina,160.0,1295.0,12.35,Levice,Nitriansky
+Nový Tekov,90.0,694.0,12.96,Levice,Nitriansky
+Nýrovce,80.0,468.0,17.09,Levice,Nitriansky
+Ondrejovce,50.0,366.0,13.66,Levice,Nitriansky
+Pastovce,74.0,453.0,16.33,Levice,Nitriansky
+Pečenice,35.0,109.0,32.11,Levice,Nitriansky
+Plášťovce,262.0,1350.0,19.4,Levice,Nitriansky
+Plavé Vozokany,63.0,647.0,9.73,Levice,Nitriansky
+Podlužany,80.0,641.0,12.48,Levice,Nitriansky
+Pohronský Ruskov,175.0,1075.0,16.27,Levice,Nitriansky
+Pukanec,202.0,1671.0,12.08,Levice,Nitriansky
+Rybník,170.0,1187.0,14.32,Levice,Nitriansky
+Šahy,714.0,6366.0,11.21,Levice,Nitriansky
+Šalov,34.0,276.0,12.31,Levice,Nitriansky
+Santovka,89.0,623.0,14.44,Levice,Nitriansky
+Šarovce,92.0,1277.0,7.2,Levice,Nitriansky
+Sazdice,73.0,365.0,20.0,Levice,Nitriansky
+Sikenica,39.0,519.0,7.51,Levice,Nitriansky
+Slatina,52.0,249.0,20.88,Levice,Nitriansky
+Starý Hrádok,17.0,149.0,11.4,Levice,Nitriansky
+Starý Tekov,198.0,1195.0,16.56,Levice,Nitriansky
+Tehla,36.0,429.0,8.39,Levice,Nitriansky
+Tekovské Lužany,268.0,2356.0,11.37,Levice,Nitriansky
+Tekovský Hrádok,32.0,294.0,10.88,Levice,Nitriansky
+Tlmače,419.0,3294.0,12.75,Levice,Nitriansky
+Tupá,75.0,480.0,15.62,Levice,Nitriansky
+Turá,15.0,204.0,7.35,Levice,Nitriansky
+Uhliská,21.0,169.0,12.42,Levice,Nitriansky
+Veľké Kozmálovce,64.0,581.0,11.01,Levice,Nitriansky
+Veľké Ludince,265.0,1297.0,20.43,Levice,Nitriansky
+Veľké Turovce,63.0,633.0,9.95,Levice,Nitriansky
+Veľký Ďur,93.0,1095.0,8.49,Levice,Nitriansky
+Vyškovce nad Ipľom,98.0,559.0,17.53,Levice,Nitriansky
+Vyšné nad Hronom,34.0,153.0,22.22,Levice,Nitriansky
+Zalaba,67.0,137.0,48.9,Levice,Nitriansky
+Zbrojníky,32.0,431.0,7.42,Levice,Nitriansky
+Želiezovce,731.0,5954.0,12.27,Levice,Nitriansky
+Žemberovce,132.0,1058.0,12.47,Levice,Nitriansky
+Žemliare,54.0,138.0,39.13,Levice,Nitriansky
+Alekšince,122.0,1378.0,8.85,Nitra,Nitriansky
+Báb,60.0,873.0,6.87,Nitra,Nitriansky
+Babindol,63.0,549.0,11.47,Nitra,Nitriansky
+Bádice,58.0,266.0,21.8,Nitra,Nitriansky
+Beladice,103.0,1282.0,8.03,Nitra,Nitriansky
+Branč,173.0,1835.0,9.42,Nitra,Nitriansky
+Čab,57.0,622.0,9.32,Nitra,Nitriansky
+Cabaj-Čápor,280.0,3184.0,8.79,Nitra,Nitriansky
+Čakajovce,60.0,935.0,6.41,Nitra,Nitriansky
+Čaradice,67.0,432.0,15.74,Nitra,Nitriansky
+Čechynce,150.0,893.0,16.79,Nitra,Nitriansky
+Čeľadice,106.0,774.0,13.69,Nitra,Nitriansky
+Červený Hrádok,85.0,348.0,24.42,Nitra,Nitriansky
+Choča,60.0,426.0,14.08,Nitra,Nitriansky
+Čierne Kľačany,99.0,907.0,10.91,Nitra,Nitriansky
+Čifáre,44.0,506.0,8.69,Nitra,Nitriansky
+Dolné Lefantovce,114.0,446.0,25.56,Nitra,Nitriansky
+Dolné Obdokovce,71.0,969.0,7.32,Nitra,Nitriansky
+Golianovo,140.0,1210.0,11.57,Nitra,Nitriansky
+Horné Lefantovce,88.0,767.0,11.47,Nitra,Nitriansky
+Hostie,147.0,1017.0,14.45,Nitra,Nitriansky
+Hosťová,69.0,318.0,22.01,Nitra,Nitriansky
+Hosťovce,89.0,603.0,14.75,Nitra,Nitriansky
+Hruboňovo,48.0,411.0,11.67,Nitra,Nitriansky
+Ivanka pri Nitre,270.0,2079.0,12.98,Nitra,Nitriansky
+Jarok,186.0,1611.0,11.54,Nitra,Nitriansky
+Jedľové Kostoľany,113.0,788.0,14.59,Nitra,Nitriansky
+Jelenec,189.0,1671.0,11.31,Nitra,Nitriansky
+Jelšovce,71.0,843.0,8.42,Nitra,Nitriansky
+Kapince,18.0,169.0,10.65,Nitra,Nitriansky
+Klasov,100.0,1013.0,9.87,Nitra,Nitriansky
+Kolíňany,122.0,1273.0,9.58,Nitra,Nitriansky
+Kostoľany pod Tribečom,58.0,325.0,17.84,Nitra,Nitriansky
+Ladice,71.0,643.0,11.04,Nitra,Nitriansky
+Lehota,220.0,1845.0,11.92,Nitra,Nitriansky
+Lovce,51.0,567.0,8.99,Nitra,Nitriansky
+Lúčnica nad Žitavou,101.0,779.0,12.96,Nitra,Nitriansky
+Ľudovítová,31.0,185.0,16.75,Nitra,Nitriansky
+Lukáčovce,126.0,923.0,13.65,Nitra,Nitriansky
+Lužianky,241.0,2376.0,10.14,Nitra,Nitriansky
+Machulince,121.0,928.0,13.03,Nitra,Nitriansky
+Malé Chyndice,35.0,327.0,10.7,Nitra,Nitriansky
+Malé Vozokany,52.0,241.0,21.57,Nitra,Nitriansky
+Malé Zálužie,51.0,252.0,20.63,Nitra,Nitriansky
+Malý Cetín,56.0,342.0,16.37,Nitra,Nitriansky
+Malý Lapáš,72.0,516.0,13.95,Nitra,Nitriansky
+Mankovce,53.0,457.0,11.59,Nitra,Nitriansky
+Martin nad Žitavou,41.0,438.0,9.36,Nitra,Nitriansky
+Melek,58.0,393.0,14.75,Nitra,Nitriansky
+Mojmírovce,191.0,2318.0,8.23,Nitra,Nitriansky
+Nemčiňany,51.0,571.0,8.93,Nitra,Nitriansky
+Neverice,71.0,566.0,12.54,Nitra,Nitriansky
+Nevidzany,72.0,490.0,14.69,Nitra,Nitriansky
+Nitra,9336.0,69609.0,13.42,Nitra,Nitriansky
+Nitrianske Hrnčiarovce,194.0,1658.0,11.7,Nitra,Nitriansky
+Nová Ves nad Žitavou,109.0,1087.0,10.02,Nitra,Nitriansky
+Nové Sady,133.0,1108.0,12.0,Nitra,Nitriansky
+Obyce,118.0,1293.0,9.12,Nitra,Nitriansky
+Paňa,52.0,302.0,17.21,Nitra,Nitriansky
+Podhorany,86.0,906.0,9.49,Nitra,Nitriansky
+Pohranice,124.0,896.0,13.83,Nitra,Nitriansky
+Poľný Kesov,51.0,535.0,9.53,Nitra,Nitriansky
+Rišňovce,180.0,1688.0,10.66,Nitra,Nitriansky
+Rumanová,50.0,683.0,7.32,Nitra,Nitriansky
+Skýcov,158.0,845.0,18.69,Nitra,Nitriansky
+Sľažany,144.0,1405.0,10.24,Nitra,Nitriansky
+Slepčany,77.0,702.0,10.96,Nitra,Nitriansky
+Štefanovičová,31.0,243.0,12.75,Nitra,Nitriansky
+Štitáre,59.0,614.0,9.6,Nitra,Nitriansky
+Šurianky,52.0,495.0,10.5,Nitra,Nitriansky
+Svätoplukovo,113.0,1101.0,10.26,Nitra,Nitriansky
+Tajná,33.0,245.0,13.46,Nitra,Nitriansky
+Tekovské Nemce,70.0,852.0,8.21,Nitra,Nitriansky
+Telince,30.0,290.0,10.34,Nitra,Nitriansky
+Tesárske Mlyňany,155.0,1403.0,11.04,Nitra,Nitriansky
+Topoľčianky,311.0,2354.0,13.21,Nitra,Nitriansky
+Velčice,89.0,681.0,13.06,Nitra,Nitriansky
+Veľká Dolina,60.0,556.0,10.79,Nitra,Nitriansky
+Veľké Chyndice,31.0,287.0,10.8,Nitra,Nitriansky
+Veľké Vozokany,71.0,398.0,17.83,Nitra,Nitriansky
+Veľké Zálužie,301.0,3392.0,8.9,Nitra,Nitriansky
+Veľký Cetín,187.0,1397.0,13.38,Nitra,Nitriansky
+Veľký Lapáš,134.0,1001.0,13.38,Nitra,Nitriansky
+Vieska nad Žitavou,71.0,414.0,17.14,Nitra,Nitriansky
+Vinodol,103.0,1556.0,6.61,Nitra,Nitriansky
+Volkovce,110.0,718.0,15.32,Nitra,Nitriansky
+Vráble,828.0,7552.0,10.97,Nitra,Nitriansky
+Výčapy-Opatovce,202.0,1781.0,11.34,Nitra,Nitriansky
+Zbehy,179.0,1817.0,9.85,Nitra,Nitriansky
+Žikava,61.0,431.0,14.15,Nitra,Nitriansky
+Žirany,112.0,1138.0,9.84,Nitra,Nitriansky
+Žitavany,204.0,1611.0,12.66,Nitra,Nitriansky
+Žitavce,34.0,323.0,10.52,Nitra,Nitriansky
+Zlaté Moravce,1375.0,10537.0,13.04,Nitra,Nitriansky
+Zlatno,24.0,199.0,12.06,Nitra,Nitriansky
+Andovce,248.0,1172.0,21.16,Nové Zámky,Nitriansky
+Bajtava,84.0,355.0,23.66,Nové Zámky,Nitriansky
+Bánov,354.0,3104.0,11.4,Nové Zámky,Nitriansky
+Bardoňovo,68.0,565.0,12.03,Nové Zámky,Nitriansky
+Belá,68.0,328.0,20.73,Nové Zámky,Nitriansky
+Bešeňov,222.0,1405.0,15.8,Nové Zámky,Nitriansky
+Bíňa,312.0,1199.0,26.02,Nové Zámky,Nitriansky
+Branovo,82.0,493.0,16.63,Nové Zámky,Nitriansky
+Bruty,84.0,503.0,16.69,Nové Zámky,Nitriansky
+Čechy,64.0,262.0,24.42,Nové Zámky,Nitriansky
+Černík,68.0,831.0,8.18,Nové Zámky,Nitriansky
+Chľaba,122.0,582.0,20.96,Nové Zámky,Nitriansky
+Dedinka,88.0,631.0,14.1,Nové Zámky,Nitriansky
+Dolný Ohaj,184.0,1321.0,13.92,Nové Zámky,Nitriansky
+Dubník,170.0,1366.0,12.44,Nové Zámky,Nitriansky
+Dvory nad Žitavou,626.0,4195.0,14.97,Nové Zámky,Nitriansky
+Gbelce,278.0,1822.0,15.25,Nové Zámky,Nitriansky
+Hul,96.0,1013.0,9.47,Nové Zámky,Nitriansky
+Jasová,103.0,1005.0,10.24,Nové Zámky,Nitriansky
+Jatov,81.0,650.0,12.46,Nové Zámky,Nitriansky
+Kamenica nad Hronom,152.0,996.0,15.26,Nové Zámky,Nitriansky
+Kamenín,274.0,1252.0,21.96,Nové Zámky,Nitriansky
+Kamenný Most,172.0,880.0,19.54,Nové Zámky,Nitriansky
+Kmeťovo,145.0,752.0,19.28,Nové Zámky,Nitriansky
+Kolta,117.0,1144.0,10.22,Nové Zámky,Nitriansky
+Komjatice,292.0,3469.0,8.41,Nové Zámky,Nitriansky
+Komoča,135.0,792.0,17.04,Nové Zámky,Nitriansky
+Leľa,73.0,282.0,25.88,Nové Zámky,Nitriansky
+Lipová,138.0,1281.0,10.77,Nové Zámky,Nitriansky
+Ľubá,44.0,372.0,11.82,Nové Zámky,Nitriansky
+Malá nad Hronom,84.0,320.0,26.25,Nové Zámky,Nitriansky
+Malé Kosihy,104.0,297.0,35.01,Nové Zámky,Nitriansky
+Maňa,158.0,1626.0,9.71,Nové Zámky,Nitriansky
+Michal nad Žitavou,55.0,545.0,10.09,Nové Zámky,Nitriansky
+Mojzesovo,75.0,1116.0,6.72,Nové Zámky,Nitriansky
+Mužla,319.0,1637.0,19.54,Nové Zámky,Nitriansky
+Nána,144.0,951.0,15.14,Nové Zámky,Nitriansky
+Nová Vieska,226.0,628.0,35.98,Nové Zámky,Nitriansky
+Nové Zámky,4061.0,33559.0,12.1,Nové Zámky,Nitriansky
+Obid,166.0,924.0,18.07,Nové Zámky,Nitriansky
+Palárikovo,287.0,3604.0,7.99,Nové Zámky,Nitriansky
+Pavlová,90.0,207.0,43.47,Nové Zámky,Nitriansky
+Podhájska,115.0,895.0,12.84,Nové Zámky,Nitriansky
+Pozba,104.0,419.0,24.82,Nové Zámky,Nitriansky
+Radava,105.0,680.0,15.44,Nové Zámky,Nitriansky
+Rastislavice,72.0,750.0,9.73,Nové Zámky,Nitriansky
+Rúbaň,101.0,782.0,12.91,Nové Zámky,Nitriansky
+Salka,177.0,825.0,21.45,Nové Zámky,Nitriansky
+Šarkan,57.0,288.0,19.79,Nové Zámky,Nitriansky
+Semerovo,97.0,1110.0,8.73,Nové Zámky,Nitriansky
+Sikenička,110.0,380.0,28.94,Nové Zámky,Nitriansky
+Strekov,353.0,1675.0,21.07,Nové Zámky,Nitriansky
+Štúrovo,1526.0,8917.0,17.13,Nové Zámky,Nitriansky
+Šurany,881.0,8450.0,10.43,Nové Zámky,Nitriansky
+Svodín,353.0,2046.0,17.25,Nové Zámky,Nitriansky
+Trávnica,88.0,951.0,9.25,Nové Zámky,Nitriansky
+Tvrdošovce,460.0,4397.0,10.5,Nové Zámky,Nitriansky
+Úľany nad Žitavou,153.0,1308.0,11.69,Nové Zámky,Nitriansky
+Veľké Lovce,193.0,1579.0,12.28,Nové Zámky,Nitriansky
+Veľký Kýr,226.0,2582.0,8.75,Nové Zámky,Nitriansky
+Vlkas,38.0,268.0,14.17,Nové Zámky,Nitriansky
+Zemné,285.0,1806.0,15.78,Nové Zámky,Nitriansky
+Diakovce,291.0,1913.0,15.21,Šaľa,Nitriansky
+Dlhá nad Váhom,119.0,771.0,15.43,Šaľa,Nitriansky
+Hájske,142.0,1088.0,13.14,Šaľa,Nitriansky
+Horná Kráľová,102.0,1572.0,6.48,Šaľa,Nitriansky
+Kráľová nad Váhom,233.0,1444.0,16.13,Šaľa,Nitriansky
+Močenok,318.0,3588.0,8.89,Šaľa,Nitriansky
+Neded,258.0,2691.0,9.58,Šaľa,Nitriansky
+Šaľa,2186.0,19044.0,11.48,Šaľa,Nitriansky
+Selice,94.0,2275.0,4.13,Šaľa,Nitriansky
+Tešedíkovo,507.0,3168.0,16.0,Šaľa,Nitriansky
+Trnovec nad Váhom,194.0,2232.0,8.73,Šaľa,Nitriansky
+Vlčany,271.0,2753.0,9.84,Šaľa,Nitriansky
+Žihárec,212.0,1366.0,15.51,Šaľa,Nitriansky
+Ardanovce,14.0,180.0,7.77,Topoľčany,Nitriansky
+Belince,33.0,261.0,12.64,Topoľčany,Nitriansky
+Biskupová,24.0,180.0,13.33,Topoľčany,Nitriansky
+Blesovce,26.0,303.0,8.58,Topoľčany,Nitriansky
+Bojná,120.0,1680.0,7.14,Topoľčany,Nitriansky
+Čeľadince,31.0,369.0,8.4,Topoľčany,Nitriansky
+Čermany,36.0,326.0,11.04,Topoľčany,Nitriansky
+Chrabrany,72.0,665.0,10.82,Topoľčany,Nitriansky
+Dvorany nad Nitrou,65.0,630.0,10.31,Topoľčany,Nitriansky
+Hajná Nová Ves,17.0,274.0,6.2,Topoľčany,Nitriansky
+Horné Chlebany,46.0,296.0,15.54,Topoľčany,Nitriansky
+Horné Obdokovce,108.0,1354.0,7.97,Topoľčany,Nitriansky
+Horné Štitáre,43.0,406.0,10.59,Topoľčany,Nitriansky
+Hrušovany,98.0,926.0,10.58,Topoľčany,Nitriansky
+Jacovce,212.0,1530.0,13.85,Topoľčany,Nitriansky
+Kamanová,59.0,511.0,11.54,Topoľčany,Nitriansky
+Koniarovce,69.0,545.0,12.66,Topoľčany,Nitriansky
+Kovarce,81.0,1217.0,6.65,Topoľčany,Nitriansky
+Krnča,100.0,1125.0,8.88,Topoľčany,Nitriansky
+Krtovce,54.0,249.0,21.68,Topoľčany,Nitriansky
+Krušovce,141.0,1519.0,9.28,Topoľčany,Nitriansky
+Kuzmice,97.0,574.0,16.89,Topoľčany,Nitriansky
+Lipovník,32.0,265.0,12.07,Topoľčany,Nitriansky
+Ludanice,176.0,1547.0,11.44,Topoľčany,Nitriansky
+Lužany,34.0,173.0,19.65,Topoľčany,Nitriansky
+Malé Ripňany,38.0,447.0,8.5,Topoľčany,Nitriansky
+Nemčice,105.0,807.0,13.01,Topoľčany,Nitriansky
+Nemečky,26.0,259.0,10.03,Topoľčany,Nitriansky
+Nitrianska Blatnica,92.0,978.0,9.4,Topoľčany,Nitriansky
+Nitrianska Streda,74.0,661.0,11.19,Topoľčany,Nitriansky
+Norovce,28.0,278.0,10.07,Topoľčany,Nitriansky
+Oponice,55.0,706.0,7.79,Topoľčany,Nitriansky
+Orešany,11.0,267.0,4.11,Topoľčany,Nitriansky
+Podhradie,30.0,237.0,12.65,Topoľčany,Nitriansky
+Prašice,178.0,1743.0,10.21,Topoľčany,Nitriansky
+Práznovce,79.0,790.0,10.0,Topoľčany,Nitriansky
+Preseľany,117.0,1274.0,9.18,Topoľčany,Nitriansky
+Radošina,138.0,1679.0,8.27,Topoľčany,Nitriansky
+Rajčany,42.0,477.0,8.8,Topoľčany,Nitriansky
+Šalgovce,44.0,429.0,10.25,Topoľčany,Nitriansky
+Solčany,191.0,2092.0,9.13,Topoľčany,Nitriansky
+Solčianky,32.0,232.0,13.79,Topoľčany,Nitriansky
+Súlovce,66.0,406.0,16.25,Topoľčany,Nitriansky
+Svrbice,31.0,163.0,19.01,Topoľčany,Nitriansky
+Tesáre,87.0,596.0,14.59,Topoľčany,Nitriansky
+Topoľčany,2352.0,23009.0,10.23,Topoľčany,Nitriansky
+Tovarníky,150.0,1181.0,12.7,Topoľčany,Nitriansky
+Tvrdomestice,29.0,388.0,7.47,Topoľčany,Nitriansky
+Urmince,107.0,1174.0,9.28,Topoľčany,Nitriansky
+Veľké Dvorany,74.0,599.0,12.35,Topoľčany,Nitriansky
+Veľké Ripňany,151.0,1783.0,8.52,Topoľčany,Nitriansky
+Velušovce,51.0,431.0,12.06,Topoľčany,Nitriansky
+Vozokany,29.0,272.0,10.66,Topoľčany,Nitriansky
+Závada,42.0,523.0,8.03,Topoľčany,Nitriansky
+Čadca,1739.0,20002.0,8.7,Čadca,Žilinský
+Čierne,261.0,3448.0,7.56,Čadca,Žilinský
+Dlhá nad Kysucou,30.0,499.0,6.01,Čadca,Žilinský
+Dunajov,136.0,905.0,15.02,Čadca,Žilinský
+Klokočov,100.0,1927.0,5.18,Čadca,Žilinský
+Klubina,38.0,437.0,8.69,Čadca,Žilinský
+Korňa,105.0,1690.0,6.21,Čadca,Žilinský
+Krásno nad Kysucou,512.0,5370.0,9.55,Čadca,Žilinský
+Makov,178.0,1464.0,12.15,Čadca,Žilinský
+Nová Bystrica,124.0,2274.0,5.45,Čadca,Žilinský
+Olešná,74.0,1566.0,4.72,Čadca,Žilinský
+Oščadnica,351.0,4397.0,8.02,Čadca,Žilinský
+Podvysoká,67.0,1049.0,6.38,Čadca,Žilinský
+Radôstka,35.0,676.0,5.17,Čadca,Žilinský
+Raková,363.0,4320.0,8.4,Čadca,Žilinský
+Skalité,394.0,4059.0,9.7,Čadca,Žilinský
+Stará Bystrica,200.0,2195.0,9.11,Čadca,Žilinský
+Staškov,258.0,2187.0,11.88,Čadca,Žilinský
+Svrčinovec,161.0,2734.0,5.88,Čadca,Žilinský
+Turzovka,450.0,6086.0,7.39,Čadca,Žilinský
+Vysoká nad Kysucou,195.0,2240.0,8.75,Čadca,Žilinský
+Zákopčie,122.0,1413.0,8.63,Čadca,Žilinský
+Zborov nad Bystricou,288.0,1763.0,16.33,Čadca,Žilinský
+Bziny,105.0,433.0,24.24,Dolný Kubín,Žilinský
+Chlebnice,140.0,1218.0,11.49,Dolný Kubín,Žilinský
+Dlhá nad Oravou,113.0,1091.0,10.54,Dolný Kubín,Žilinský
+Dolný Kubín,2398.0,15260.0,15.72,Dolný Kubín,Žilinský
+Horná Lehota,80.0,453.0,17.66,Dolný Kubín,Žilinský
+Istebné,150.0,1154.0,12.99,Dolný Kubín,Žilinský
+Jasenová,48.0,349.0,13.75,Dolný Kubín,Žilinský
+Kraľovany,50.0,369.0,13.55,Dolný Kubín,Žilinský
+Krivá,124.0,623.0,19.9,Dolný Kubín,Žilinský
+Leštiny,40.0,209.0,19.13,Dolný Kubín,Žilinský
+Malatiná,113.0,641.0,17.62,Dolný Kubín,Žilinský
+Medzibrodie nad Oravou,71.0,383.0,18.53,Dolný Kubín,Žilinský
+Oravská Poruba,127.0,819.0,15.5,Dolný Kubín,Žilinský
+Oravský Podzámok,190.0,1065.0,17.84,Dolný Kubín,Žilinský
+Osádka,37.0,121.0,30.57,Dolný Kubín,Žilinský
+Párnica,72.0,681.0,10.57,Dolný Kubín,Žilinský
+Pokryváč,34.0,153.0,22.22,Dolný Kubín,Žilinský
+Pribiš,68.0,358.0,18.99,Dolný Kubín,Žilinský
+Pucov,75.0,603.0,12.43,Dolný Kubín,Žilinský
+Sedliacka Dubová,60.0,415.0,14.45,Dolný Kubín,Žilinský
+Veličná,145.0,862.0,16.82,Dolný Kubín,Žilinský
+Vyšný Kubín,124.0,543.0,22.83,Dolný Kubín,Žilinský
+Žaškov,138.0,1315.0,10.49,Dolný Kubín,Žilinský
+Zázrivá,217.0,2146.0,10.11,Dolný Kubín,Žilinský
+Beňadiková,25.0,376.0,6.64,Liptovský Mikuláš,Žilinský
+Bobrovček,38.0,156.0,24.35,Liptovský Mikuláš,Žilinský
+Bobrovec,253.0,1523.0,16.61,Liptovský Mikuláš,Žilinský
+Bobrovník,16.0,109.0,14.67,Liptovský Mikuláš,Žilinský
+Bukovina,12.0,96.0,12.5,Liptovský Mikuláš,Žilinský
+Demänovská Dolina,38.0,256.0,14.84,Liptovský Mikuláš,Žilinský
+Dúbrava,91.0,1066.0,8.53,Liptovský Mikuláš,Žilinský
+Galovany,25.0,236.0,10.59,Liptovský Mikuláš,Žilinský
+Gôtovany,26.0,358.0,7.26,Liptovský Mikuláš,Žilinský
+Huty,43.0,156.0,27.56,Liptovský Mikuláš,Žilinský
+Hybe,150.0,1318.0,11.38,Liptovský Mikuláš,Žilinský
+Ižipovce,9.0,76.0,11.84,Liptovský Mikuláš,Žilinský
+Jakubovany,45.0,446.0,10.08,Liptovský Mikuláš,Žilinský
+Jalovec,36.0,257.0,14.0,Liptovský Mikuláš,Žilinský
+Jamník,35.0,386.0,9.06,Liptovský Mikuláš,Žilinský
+Konská,25.0,206.0,12.13,Liptovský Mikuláš,Žilinský
+Kráľova Lehota,101.0,505.0,20.19,Liptovský Mikuláš,Žilinský
+Kvačany,56.0,460.0,12.17,Liptovský Mikuláš,Žilinský
+Lazisko,44.0,331.0,13.29,Liptovský Mikuláš,Žilinský
+Liptovská Anna,14.0,77.0,18.18,Liptovský Mikuláš,Žilinský
+Liptovská Kokava,82.0,824.0,9.95,Liptovský Mikuláš,Žilinský
+Liptovská Porúbka,81.0,992.0,8.16,Liptovský Mikuláš,Žilinský
+Liptovská Sielnica,75.0,482.0,15.56,Liptovský Mikuláš,Žilinský
+Liptovské Beharovce,14.0,62.0,22.58,Liptovský Mikuláš,Žilinský
+Liptovské Kľačany,64.0,298.0,21.47,Liptovský Mikuláš,Žilinský
+Liptovské Matiašovce,65.0,240.0,27.08,Liptovský Mikuláš,Žilinský
+Liptovský Hrádok,817.0,6279.0,13.01,Liptovský Mikuláš,Žilinský
+Liptovský Ján,169.0,873.0,19.35,Liptovský Mikuláš,Žilinský
+Liptovský Mikuláš,3534.0,26537.0,13.32,Liptovský Mikuláš,Žilinský
+Liptovský Ondrej,52.0,494.0,10.52,Liptovský Mikuláš,Žilinský
+Liptovský Peter,108.0,1150.0,9.39,Liptovský Mikuláš,Žilinský
+Liptovský Trnovec,50.0,489.0,10.22,Liptovský Mikuláš,Žilinský
+Ľubeľa,111.0,959.0,11.57,Liptovský Mikuláš,Žilinský
+Malatíny,28.0,160.0,17.5,Liptovský Mikuláš,Žilinský
+Malé Borové,30.0,131.0,22.9,Liptovský Mikuláš,Žilinský
+Malužiná,31.0,219.0,14.15,Liptovský Mikuláš,Žilinský
+Nižná Boca,41.0,144.0,28.47,Liptovský Mikuláš,Žilinský
+Partizánska Ľupča,91.0,1026.0,8.86,Liptovský Mikuláš,Žilinský
+Pavčina Lehota,61.0,323.0,18.88,Liptovský Mikuláš,Žilinský
+Pavlova Ves,35.0,211.0,16.58,Liptovský Mikuláš,Žilinský
+Podtureň,100.0,792.0,12.62,Liptovský Mikuláš,Žilinský
+Pribylina,81.0,1064.0,7.7,Liptovský Mikuláš,Žilinský
+Prosiek,35.0,157.0,22.29,Liptovský Mikuláš,Žilinský
+Smrečany,90.0,488.0,18.44,Liptovský Mikuláš,Žilinský
+Svätý Kríž,54.0,669.0,8.07,Liptovský Mikuláš,Žilinský
+Trstené,25.0,190.0,13.15,Liptovský Mikuláš,Žilinský
+Uhorská Ves,65.0,396.0,16.41,Liptovský Mikuláš,Žilinský
+Vavrišovo,86.0,522.0,16.47,Liptovský Mikuláš,Žilinský
+Važec,129.0,1886.0,6.89,Liptovský Mikuláš,Žilinský
+Veľké Borové,13.0,55.0,23.63,Liptovský Mikuláš,Žilinský
+Veterná Poruba,24.0,320.0,7.5,Liptovský Mikuláš,Žilinský
+Vlachy,60.0,496.0,12.09,Liptovský Mikuláš,Žilinský
+Východná,138.0,1829.0,7.54,Liptovský Mikuláš,Žilinský
+Vyšná Boca,20.0,83.0,24.09,Liptovský Mikuláš,Žilinský
+Závažná Poruba,137.0,1040.0,13.17,Liptovský Mikuláš,Žilinský
+Žiar,61.0,367.0,16.62,Liptovský Mikuláš,Žilinský
+Abramová,18.0,149.0,12.08,Martin,Žilinský
+Belá-Dulice,100.0,1039.0,9.62,Martin,Žilinský
+Benice,47.0,282.0,16.66,Martin,Žilinský
+Blatnica,110.0,768.0,14.45,Martin,Žilinský
+Blažovce,29.0,145.0,20.0,Martin,Žilinský
+Bodorová,19.0,195.0,9.74,Martin,Žilinský
+Borcová,21.0,110.0,19.09,Martin,Žilinský
+Brieštie,15.0,125.0,12.0,Martin,Žilinský
+Budiš,14.0,177.0,7.9,Martin,Žilinský
+Bystrička,136.0,1201.0,11.32,Martin,Žilinský
+Čremošné,25.0,82.0,30.48,Martin,Žilinský
+Ďanová,53.0,442.0,11.99,Martin,Žilinský
+Diaková,48.0,261.0,18.39,Martin,Žilinský
+Dolný Kalník,17.0,109.0,15.59,Martin,Žilinský
+Dražkovce,100.0,706.0,14.16,Martin,Žilinský
+Dubové,58.0,606.0,9.57,Martin,Žilinský
+Folkušová,28.0,125.0,22.4,Martin,Žilinský
+Háj,65.0,358.0,18.15,Martin,Žilinský
+Horná Štubňa,134.0,1290.0,10.38,Martin,Žilinský
+Horný Kalník,31.0,136.0,22.79,Martin,Žilinský
+Ivančiná,18.0,85.0,21.17,Martin,Žilinský
+Jasenovo,21.0,134.0,15.67,Martin,Žilinský
+Jazernica,49.0,273.0,17.94,Martin,Žilinský
+Kaľamenová,12.0,71.0,16.9,Martin,Žilinský
+Karlová,21.0,90.0,23.33,Martin,Žilinský
+Kláštor pod Znievom,149.0,1354.0,11.0,Martin,Žilinský
+Košťany nad Turcom,122.0,1033.0,11.81,Martin,Žilinský
+Krpeľany,72.0,957.0,7.52,Martin,Žilinský
+Laskár,21.0,93.0,22.58,Martin,Žilinský
+Ležiachov,11.0,132.0,8.33,Martin,Žilinský
+Liešno,13.0,55.0,23.63,Martin,Žilinský
+Lipovec,118.0,781.0,15.1,Martin,Žilinský
+Malý Čepčín,71.0,440.0,16.13,Martin,Žilinský
+Martin,6376.0,46352.0,13.76,Martin,Žilinský
+Moškovec,34.0,72.0,47.22,Martin,Žilinský
+Mošovce,152.0,1148.0,13.24,Martin,Žilinský
+Necpaly,78.0,726.0,10.74,Martin,Žilinský
+Nolčovo,26.0,219.0,11.87,Martin,Žilinský
+Ondrašová,15.0,66.0,22.72,Martin,Žilinský
+Podhradie,67.0,571.0,11.73,Martin,Žilinský
+Príbovce,103.0,890.0,11.57,Martin,Žilinský
+Rakovo,46.0,265.0,17.35,Martin,Žilinský
+Rakša,32.0,183.0,17.48,Martin,Žilinský
+Ratkovo,22.0,153.0,14.37,Martin,Žilinský
+Rudno,19.0,182.0,10.43,Martin,Žilinský
+Sklabiňa,77.0,543.0,14.18,Martin,Žilinský
+Sklabinský Podzámok,27.0,155.0,17.41,Martin,Žilinský
+Sklené,60.0,622.0,9.64,Martin,Žilinský
+Slovany,34.0,347.0,9.79,Martin,Žilinský
+Slovenské Pravno,78.0,784.0,9.94,Martin,Žilinský
+Socovce,21.0,192.0,10.93,Martin,Žilinský
+Sučany,430.0,3809.0,11.31,Martin,Žilinský
+Šútovo,51.0,434.0,12.9,Martin,Žilinský
+Trebostovo,47.0,427.0,11.0,Martin,Žilinský
+Trnovo,47.0,215.0,21.86,Martin,Žilinský
+Turany,378.0,3644.0,10.37,Martin,Žilinský
+Turček,50.0,546.0,9.15,Martin,Žilinský
+Turčianska Štiavnička,52.0,731.0,7.11,Martin,Žilinský
+Turčianske Jaseno,26.0,306.0,8.49,Martin,Žilinský
+Turčianske Kľačany,100.0,757.0,13.21,Martin,Žilinský
+Turčianske Teplice,708.0,5642.0,12.54,Martin,Žilinský
+Turčiansky Ďur,18.0,151.0,11.92,Martin,Žilinský
+Turčiansky Peter,59.0,342.0,17.54,Martin,Žilinský
+Valča,132.0,1326.0,9.95,Martin,Žilinský
+Veľký Čepčín,16.0,183.0,9.28,Martin,Žilinský
+Vrícko,121.0,375.0,32.26,Martin,Žilinský
+Vrútky,864.0,6105.0,14.15,Martin,Žilinský
+Žabokreky,127.0,1001.0,12.68,Martin,Žilinský
+Záborie,12.0,127.0,9.44,Martin,Žilinský
+Babín,83.0,1064.0,7.8,Námestovo,Žilinský
+Beňadovo,160.0,542.0,29.52,Námestovo,Žilinský
+Bobrov,175.0,1299.0,13.54,Námestovo,Žilinský
+Breza,97.0,1147.0,8.45,Námestovo,Žilinský
+Brezovica,131.0,1012.0,12.94,Námestovo,Žilinský
+Čimhová,128.0,501.0,25.54,Námestovo,Žilinský
+Habovka,215.0,1062.0,20.24,Námestovo,Žilinský
+Hladovka,110.0,755.0,14.56,Námestovo,Žilinský
+Hruštín,222.0,2471.0,8.98,Námestovo,Žilinský
+Klin,182.0,1591.0,11.43,Námestovo,Žilinský
+Krušetnica,83.0,713.0,11.64,Námestovo,Žilinský
+Liesek,352.0,2027.0,17.36,Námestovo,Žilinský
+Lokca,214.0,1707.0,12.53,Námestovo,Žilinský
+Lomná,63.0,603.0,10.44,Námestovo,Žilinský
+Mútne,296.0,2052.0,14.42,Námestovo,Žilinský
+Námestovo,804.0,6169.0,13.04,Námestovo,Žilinský
+Nižná,576.0,3249.0,17.72,Námestovo,Žilinský
+Novoť,306.0,2465.0,12.41,Námestovo,Žilinský
+Oravská Jasenica,146.0,1326.0,11.01,Námestovo,Žilinský
+Oravská Lesná,292.0,2403.0,12.15,Námestovo,Žilinský
+Oravská Polhora,205.0,2745.0,7.46,Námestovo,Žilinský
+Oravské Veselé,224.0,2079.0,10.77,Námestovo,Žilinský
+Oravský Biely Potok,55.0,552.0,10.14,Námestovo,Žilinský
+Podbiel,175.0,1028.0,17.02,Námestovo,Žilinský
+Rabča,238.0,3406.0,7.01,Námestovo,Žilinský
+Rabčice,96.0,1428.0,6.72,Námestovo,Žilinský
+Sihelné,88.0,1436.0,6.12,Námestovo,Žilinský
+Štefanov nad Oravou,90.0,501.0,17.96,Námestovo,Žilinský
+Suchá Hora,146.0,990.0,14.84,Námestovo,Žilinský
+Ťapešovo,77.0,513.0,15.0,Námestovo,Žilinský
+Trstená,915.0,5781.0,15.82,Námestovo,Žilinský
+Tvrdošín,1128.0,7160.0,15.76,Námestovo,Žilinský
+Vasiľov,61.0,619.0,9.85,Námestovo,Žilinský
+Vavrečka,124.0,1082.0,11.46,Námestovo,Žilinský
+Vitanová,125.0,965.0,12.95,Námestovo,Žilinský
+Zábiedovo,50.0,617.0,8.1,Námestovo,Žilinský
+Zákamenné,302.0,3802.0,7.94,Námestovo,Žilinský
+Zuberec,309.0,1486.0,20.79,Námestovo,Žilinský
+Zubrohlava,122.0,1627.0,7.55,Námestovo,Žilinský
+Bešeňová,38.0,369.0,10.29,Ružomberok,Žilinský
+Hubová,147.0,872.0,16.85,Ružomberok,Žilinský
+Ivachnová,60.0,461.0,13.01,Ružomberok,Žilinský
+Kalameny,88.0,384.0,22.91,Ružomberok,Žilinský
+Komjatná,117.0,1176.0,9.94,Ružomberok,Žilinský
+Likavka,424.0,2413.0,17.61,Ružomberok,Žilinský
+Liptovská Lúžna,219.0,2352.0,9.31,Ružomberok,Žilinský
+Liptovská Osada,150.0,1372.0,10.93,Ružomberok,Žilinský
+Liptovská Štiavnica,110.0,833.0,13.2,Ružomberok,Žilinský
+Liptovská Teplá,104.0,776.0,13.4,Ružomberok,Žilinský
+Liptovské Revúce,157.0,1360.0,11.54,Ružomberok,Žilinský
+Liptovské Sliače,445.0,3048.0,14.59,Ružomberok,Žilinský
+Liptovský Michal,39.0,228.0,17.1,Ružomberok,Žilinský
+Lisková,214.0,1735.0,12.39,Ružomberok,Žilinský
+Ľubochňa,139.0,877.0,15.84,Ružomberok,Žilinský
+Lúčky,223.0,1438.0,15.5,Ružomberok,Žilinský
+Ludrová,109.0,810.0,13.45,Ružomberok,Žilinský
+Martinček,56.0,328.0,17.07,Ružomberok,Žilinský
+Potok,18.0,94.0,19.14,Ružomberok,Žilinský
+Ružomberok,3257.0,24022.0,13.57,Ružomberok,Žilinský
+Stankovany,175.0,1001.0,17.48,Ružomberok,Žilinský
+Štiavnička,75.0,526.0,14.25,Ružomberok,Žilinský
+Švošov,73.0,640.0,11.4,Ružomberok,Žilinský
+Turík,36.0,185.0,19.45,Ružomberok,Žilinský
+Valaská Dubová,91.0,647.0,14.06,Ružomberok,Žilinský
+Belá,222.0,2648.0,8.38,Žilina,Žilinský
+Bitarová,72.0,587.0,12.26,Žilina,Žilinský
+Brezany,64.0,468.0,13.67,Žilina,Žilinský
+Bytča,1020.0,9198.0,11.11,Žilina,Žilinský
+Čičmany,51.0,160.0,31.87,Žilina,Žilinský
+Divina,151.0,2014.0,7.49,Žilina,Žilinský
+Divinka,108.0,798.0,13.53,Žilina,Žilinský
+Dlhé Pole,227.0,1644.0,13.8,Žilina,Žilinský
+Dolná Tižina,86.0,990.0,8.68,Žilina,Žilinský
+Dolný Hričov,129.0,1266.0,10.18,Žilina,Žilinský
+Dolný Vadičov,64.0,381.0,16.79,Žilina,Žilinský
+Ďurčiná,77.0,854.0,9.01,Žilina,Žilinský
+Fačkov,34.0,585.0,5.81,Žilina,Žilinský
+Gbeľany,140.0,987.0,14.18,Žilina,Žilinský
+Hlboké nad Váhom,105.0,750.0,14.0,Žilina,Žilinský
+Hôrky,83.0,589.0,14.09,Žilina,Žilinský
+Horný Hričov,88.0,661.0,13.31,Žilina,Žilinský
+Horný Vadičov,141.0,1264.0,11.15,Žilina,Žilinský
+Hričovské Podhradie,22.0,313.0,7.02,Žilina,Žilinský
+Hvozdnica,68.0,908.0,7.48,Žilina,Žilinský
+Jablonové,70.0,704.0,9.94,Žilina,Žilinský
+Jasenové,51.0,482.0,10.58,Žilina,Žilinský
+Kamenná Poruba,216.0,1465.0,15.01,Žilina,Žilinský
+Kľače,30.0,318.0,9.43,Žilina,Žilinský
+Kolárovice,115.0,1491.0,7.71,Žilina,Žilinský
+Konská,167.0,1216.0,13.73,Žilina,Žilinský
+Kotešová,133.0,1587.0,8.38,Žilina,Žilinský
+Kotrčiná Lúčka,70.0,361.0,19.39,Žilina,Žilinský
+Krasňany,91.0,1002.0,9.08,Žilina,Žilinský
+Kunerad,103.0,770.0,13.37,Žilina,Žilinský
+Kysucké Nové Mesto,1623.0,12719.0,12.8,Žilina,Žilinský
+Kysucký Lieskovec,178.0,1888.0,9.42,Žilina,Žilinský
+Lietava,131.0,1178.0,11.12,Žilina,Žilinský
+Lietavská Lúčka,292.0,1505.0,19.4,Žilina,Žilinský
+Lietavská Svinná-Babkov,134.0,1330.0,10.07,Žilina,Žilinský
+Lodno,119.0,753.0,15.8,Žilina,Žilinský
+Lopušné Pažite,36.0,378.0,9.52,Žilina,Žilinský
+Lutiše,75.0,631.0,11.88,Žilina,Žilinský
+Lysica,70.0,672.0,10.41,Žilina,Žilinský
+Malá Čierna,45.0,278.0,16.18,Žilina,Žilinský
+Maršová-Rašov,79.0,656.0,12.19,Žilina,Žilinský
+Mojš,140.0,710.0,19.71,Žilina,Žilinský
+Nededza,108.0,785.0,13.75,Žilina,Žilinský
+Nesluša,209.0,2505.0,8.38,Žilina,Žilinský
+Nezbudská Lúčka,26.0,338.0,7.69,Žilina,Žilinský
+Ochodnica,169.0,1576.0,10.72,Žilina,Žilinský
+Ovčiarsko,48.0,448.0,10.71,Žilina,Žilinský
+Paština Závada,12.0,177.0,6.77,Žilina,Žilinský
+Petrovice,129.0,1231.0,10.47,Žilina,Žilinský
+Podhorie,62.0,656.0,9.45,Žilina,Žilinský
+Porúbka,55.0,387.0,14.21,Žilina,Žilinský
+Povina,85.0,905.0,9.39,Žilina,Žilinský
+Predmier,122.0,1102.0,11.07,Žilina,Žilinský
+Radoľa,148.0,1187.0,12.46,Žilina,Žilinský
+Rajec,588.0,4911.0,11.97,Žilina,Žilinský
+Rajecká Lesná,84.0,1033.0,8.13,Žilina,Žilinský
+Rajecké Teplice,420.0,2286.0,18.41,Žilina,Žilinský
+Rosina,354.0,2572.0,13.76,Žilina,Žilinský
+Rudina,99.0,1325.0,7.47,Žilina,Žilinský
+Rudinka,45.0,321.0,14.01,Žilina,Žilinský
+Rudinská,63.0,786.0,8.01,Žilina,Žilinský
+Snežnica,146.0,801.0,18.22,Žilina,Žilinský
+Štiavnik,228.0,3212.0,7.09,Žilina,Žilinský
+Stráňavy,186.0,1541.0,12.07,Žilina,Žilinský
+Stránske,91.0,636.0,14.3,Žilina,Žilinský
+Stráža,34.0,533.0,6.37,Žilina,Žilinský
+Strečno,277.0,2109.0,13.22,Žilina,Žilinský
+Šuja,37.0,260.0,14.23,Žilina,Žilinský
+Súľov-Hradná,96.0,780.0,12.3,Žilina,Žilinský
+Svederník,131.0,867.0,15.1,Žilina,Žilinský
+Teplička nad Váhom,451.0,3133.0,14.39,Žilina,Žilinský
+Terchová,267.0,3277.0,8.14,Žilina,Žilinský
+Turie,206.0,1545.0,13.33,Žilina,Žilinský
+Varín,446.0,2910.0,15.32,Žilina,Žilinský
+Veľká Čierna,37.0,286.0,12.93,Žilina,Žilinský
+Veľké Rovné,253.0,3087.0,8.26,Žilina,Žilinský
+Višňové,253.0,2271.0,11.14,Žilina,Žilinský
+Zbyňov,77.0,683.0,11.27,Žilina,Žilinský
+Žilina,10851.0,69656.0,15.59,Žilina,Žilinský
+Badín,255.0,1574.0,16.2,Banská Bystrica,Banskobystrický
+Baláže,36.0,183.0,19.67,Banská Bystrica,Banskobystrický
+Banská Bystrica,10758.0,65581.0,16.41,Banská Bystrica,Banskobystrický
+Brusno,254.0,1795.0,14.15,Banská Bystrica,Banskobystrický
+Čerín,80.0,386.0,20.72,Banská Bystrica,Banskobystrický
+Dolná Mičiná,30.0,313.0,9.58,Banská Bystrica,Banskobystrický
+Dolný Harmanec,37.0,195.0,18.97,Banská Bystrica,Banskobystrický
+Donovaly,96.0,241.0,39.83,Banská Bystrica,Banskobystrický
+Dúbravica,40.0,297.0,13.46,Banská Bystrica,Banskobystrický
+Harmanec,81.0,757.0,10.7,Banská Bystrica,Banskobystrický
+Hiadeľ,46.0,436.0,10.55,Banská Bystrica,Banskobystrický
+Horná Mičiná,81.0,481.0,16.83,Banská Bystrica,Banskobystrický
+Horné Pršany,54.0,317.0,17.03,Banská Bystrica,Banskobystrický
+Hrochoť,76.0,1197.0,6.34,Banská Bystrica,Banskobystrický
+Hronsek,79.0,551.0,14.33,Banská Bystrica,Banskobystrický
+Kordíky,73.0,327.0,22.32,Banská Bystrica,Banskobystrický
+Králiky,77.0,540.0,14.25,Banská Bystrica,Banskobystrický
+Kynceľová,60.0,316.0,18.98,Banská Bystrica,Banskobystrický
+Ľubietová,97.0,927.0,10.46,Banská Bystrica,Banskobystrický
+Lučatín,63.0,549.0,11.47,Banská Bystrica,Banskobystrický
+Malachov,119.0,903.0,13.17,Banská Bystrica,Banskobystrický
+Medzibrod,150.0,1119.0,13.4,Banská Bystrica,Banskobystrický
+Môlča,32.0,303.0,10.56,Banská Bystrica,Banskobystrický
+Moštenica,30.0,189.0,15.87,Banská Bystrica,Banskobystrický
+Motyčky,15.0,87.0,17.24,Banská Bystrica,Banskobystrický
+Nemce,112.0,977.0,11.46,Banská Bystrica,Banskobystrický
+Oravce,21.0,143.0,14.68,Banská Bystrica,Banskobystrický
+Podkonice,90.0,739.0,12.17,Banská Bystrica,Banskobystrický
+Pohronský Bukovec,23.0,85.0,27.05,Banská Bystrica,Banskobystrický
+Poniky,156.0,1270.0,12.28,Banská Bystrica,Banskobystrický
+Povrazník,42.0,126.0,33.33,Banská Bystrica,Banskobystrický
+Priechod,108.0,778.0,13.88,Banská Bystrica,Banskobystrický
+Riečka,136.0,593.0,22.93,Banská Bystrica,Banskobystrický
+Sebedín-Bečov,36.0,318.0,11.32,Banská Bystrica,Banskobystrický
+Selce,251.0,1797.0,13.96,Banská Bystrica,Banskobystrický
+Slovenská Ľupča,393.0,2701.0,14.55,Banská Bystrica,Banskobystrický
+Špania Dolina,50.0,169.0,29.58,Banská Bystrica,Banskobystrický
+Staré Hory,79.0,463.0,17.06,Banská Bystrica,Banskobystrický
+Strelníky,50.0,652.0,7.66,Banská Bystrica,Banskobystrický
+Tajov,108.0,498.0,21.68,Banská Bystrica,Banskobystrický
+Turecká,27.0,133.0,20.3,Banská Bystrica,Banskobystrický
+Vlkanová,118.0,1072.0,11.0,Banská Bystrica,Banskobystrický
+Bacúch,74.0,846.0,8.74,Brezno,Banskobystrický
+Beňuš,78.0,994.0,7.84,Brezno,Banskobystrický
+Braväcovo,51.0,575.0,8.86,Brezno,Banskobystrický
+Brezno,2052.0,17289.0,11.86,Brezno,Banskobystrický
+Bystrá,65.0,199.0,32.66,Brezno,Banskobystrický
+Čierny Balog,375.0,4134.0,9.07,Brezno,Banskobystrický
+Dolná Lehota,67.0,620.0,10.8,Brezno,Banskobystrický
+Drábsko,32.0,167.0,19.16,Brezno,Banskobystrický
+Heľpa,254.0,2271.0,11.18,Brezno,Banskobystrický
+Horná Lehota,89.0,506.0,17.58,Brezno,Banskobystrický
+Hronec,139.0,978.0,14.21,Brezno,Banskobystrický
+Jarabá,12.0,40.0,30.0,Brezno,Banskobystrický
+Jasenie,80.0,954.0,8.38,Brezno,Banskobystrický
+Lom nad Rimavicou,38.0,228.0,16.66,Brezno,Banskobystrický
+Michalová,119.0,1097.0,10.84,Brezno,Banskobystrický
+Mýto pod Ďumbierom,71.0,428.0,16.82,Brezno,Banskobystrický
+Nemecká,166.0,1495.0,11.1,Brezno,Banskobystrický
+Osrblie,58.0,331.0,17.52,Brezno,Banskobystrický
+Podbrezová,366.0,3288.0,11.13,Brezno,Banskobystrický
+Pohorelá,209.0,1894.0,11.03,Brezno,Banskobystrický
+Pohronská Polhora,119.0,1371.0,8.75,Brezno,Banskobystrický
+Polomka,183.0,2435.0,7.51,Brezno,Banskobystrický
+Predajná,135.0,1121.0,12.04,Brezno,Banskobystrický
+Ráztoka,35.0,241.0,14.52,Brezno,Banskobystrický
+Sihla,22.0,164.0,13.41,Brezno,Banskobystrický
+Šumiac,110.0,1027.0,10.71,Brezno,Banskobystrický
+Telgárt,107.0,1121.0,9.54,Brezno,Banskobystrický
+Valaská,382.0,3100.0,12.32,Brezno,Banskobystrický
+Vaľkovňa,60.0,249.0,24.09,Brezno,Banskobystrický
+Závadka nad Hronom,180.0,1884.0,9.55,Brezno,Banskobystrický
+Ábelová,18.0,160.0,11.25,Lučenec,Banskobystrický
+Belina,55.0,495.0,11.11,Lučenec,Banskobystrický
+Biskupice,118.0,897.0,13.15,Lučenec,Banskobystrický
+Boľkovce,64.0,536.0,11.94,Lučenec,Banskobystrický
+Breznička,72.0,642.0,11.21,Lučenec,Banskobystrický
+Budiná,64.0,218.0,29.35,Lučenec,Banskobystrický
+Bulhary,66.0,225.0,29.33,Lučenec,Banskobystrický
+Buzitka,67.0,431.0,15.54,Lučenec,Banskobystrický
+Čakanovce,155.0,770.0,20.12,Lučenec,Banskobystrický
+Čamovce,101.0,420.0,24.04,Lučenec,Banskobystrický
+České Brezovo,67.0,421.0,15.91,Lučenec,Banskobystrický
+Cinobaňa,186.0,1803.0,10.31,Lučenec,Banskobystrický
+Divín,206.0,1686.0,12.21,Lučenec,Banskobystrický
+Dobroč,67.0,551.0,12.15,Lučenec,Banskobystrický
+Ďubákovo,18.0,84.0,21.42,Lučenec,Banskobystrický
+Fiľakovo,651.0,8011.0,8.12,Lučenec,Banskobystrický
+Fiľakovské Kováče,50.0,704.0,7.1,Lučenec,Banskobystrický
+Gregorova Vieska,21.0,110.0,19.09,Lučenec,Banskobystrický
+Halič,145.0,1348.0,10.75,Lučenec,Banskobystrický
+Holiša,46.0,468.0,9.82,Lučenec,Banskobystrický
+Hradište,47.0,222.0,21.17,Lučenec,Banskobystrický
+Hrnčiarska Ves,76.0,766.0,9.92,Lučenec,Banskobystrický
+Hrnčiarske Zalužany,85.0,715.0,11.88,Lučenec,Banskobystrický
+Jelšovec,28.0,225.0,12.44,Lučenec,Banskobystrický
+Kalinovo,179.0,1859.0,9.62,Lučenec,Banskobystrický
+Kalonda,48.0,181.0,26.51,Lučenec,Banskobystrický
+Kokava nad Rimavicou,294.0,2385.0,12.32,Lučenec,Banskobystrický
+Kotmanová,31.0,265.0,11.69,Lučenec,Banskobystrický
+Krná,24.0,57.0,42.1,Lučenec,Banskobystrický
+Lehôtka,28.0,276.0,10.14,Lučenec,Banskobystrický
+Lentvora,22.0,62.0,35.48,Lučenec,Banskobystrický
+Lipovany,25.0,211.0,11.84,Lučenec,Banskobystrický
+Lovinobaňa,126.0,1640.0,7.68,Lučenec,Banskobystrický
+Ľuboreč,36.0,274.0,13.13,Lučenec,Banskobystrický
+Lučenec,2384.0,22332.0,10.67,Lučenec,Banskobystrický
+Lupoč,34.0,191.0,17.8,Lučenec,Banskobystrický
+Málinec,130.0,1143.0,11.37,Lučenec,Banskobystrický
+Mašková,25.0,253.0,9.88,Lučenec,Banskobystrický
+Mikušovce,35.0,229.0,15.28,Lučenec,Banskobystrický
+Mládzovo,52.0,101.0,51.48,Lučenec,Banskobystrický
+Mučín,34.0,565.0,6.01,Lučenec,Banskobystrický
+Mýtna,70.0,970.0,7.21,Lučenec,Banskobystrický
+Nitra nad Ipľom,94.0,247.0,38.05,Lučenec,Banskobystrický
+Nové Hony,20.0,154.0,12.98,Lučenec,Banskobystrický
+Ozdín,74.0,288.0,25.69,Lučenec,Banskobystrický
+Panické Dravce,63.0,590.0,10.67,Lučenec,Banskobystrický
+Píla,38.0,223.0,17.04,Lučenec,Banskobystrický
+Pinciná,39.0,191.0,20.41,Lučenec,Banskobystrický
+Pleš,22.0,170.0,12.94,Lučenec,Banskobystrický
+Podrečany,49.0,481.0,10.18,Lučenec,Banskobystrický
+Polichno,23.0,112.0,20.53,Lučenec,Banskobystrický
+Poltár,545.0,4625.0,11.78,Lučenec,Banskobystrický
+Praha,17.0,72.0,23.61,Lučenec,Banskobystrický
+Prša,33.0,159.0,20.75,Lučenec,Banskobystrický
+Radzovce,229.0,1334.0,17.24,Lučenec,Banskobystrický
+Rapovce,84.0,758.0,11.08,Lučenec,Banskobystrický
+Ratka,37.0,274.0,13.5,Lučenec,Banskobystrický
+Rovňany,50.0,209.0,23.92,Lučenec,Banskobystrický
+Ružiná,96.0,673.0,14.26,Lučenec,Banskobystrický
+Šávoľ,94.0,436.0,21.55,Lučenec,Banskobystrický
+Selce,14.0,87.0,16.09,Lučenec,Banskobystrický
+Šiatorská Bukovinka,43.0,268.0,16.04,Lučenec,Banskobystrický
+Šíd,118.0,884.0,13.34,Lučenec,Banskobystrický
+Šoltýska,22.0,119.0,18.48,Lučenec,Banskobystrický
+Stará Halič,91.0,505.0,18.01,Lučenec,Banskobystrický
+Šurice,54.0,424.0,12.73,Lučenec,Banskobystrický
+Sušany,82.0,355.0,23.09,Lučenec,Banskobystrický
+Točnica,44.0,277.0,15.88,Lučenec,Banskobystrický
+Tomášovce,169.0,1169.0,14.54,Lučenec,Banskobystrický
+Trebeľovce,113.0,732.0,15.43,Lučenec,Banskobystrický
+Trenč,29.0,326.0,8.89,Lučenec,Banskobystrický
+Tuhár,39.0,313.0,12.46,Lučenec,Banskobystrický
+Uhorské,53.0,439.0,12.07,Lučenec,Banskobystrický
+Utekáč,127.0,870.0,14.59,Lučenec,Banskobystrický
+Veľká nad Ipľom,59.0,744.0,8.06,Lučenec,Banskobystrický
+Veľká Ves,37.0,378.0,9.78,Lučenec,Banskobystrický
+Veľké Dravce,124.0,540.0,22.96,Lučenec,Banskobystrický
+Vidiná,187.0,1535.0,12.18,Lučenec,Banskobystrický
+Zlatno,46.0,373.0,12.33,Lučenec,Banskobystrický
+Abovce,55.0,487.0,11.29,Rimavská Sobota,Banskobystrický
+Babinec,15.0,63.0,23.8,Rimavská Sobota,Banskobystrický
+Barca,33.0,321.0,10.28,Rimavská Sobota,Banskobystrický
+Bátka,84.0,724.0,11.6,Rimavská Sobota,Banskobystrický
+Belín,21.0,139.0,15.1,Rimavská Sobota,Banskobystrický
+Blhovce,101.0,614.0,16.44,Rimavská Sobota,Banskobystrický
+Bottovo,38.0,164.0,23.17,Rimavská Sobota,Banskobystrický
+Budikovany,14.0,45.0,31.11,Rimavská Sobota,Banskobystrický
+Cakov,38.0,210.0,18.09,Rimavská Sobota,Banskobystrický
+Čerenčany,71.0,453.0,15.67,Rimavská Sobota,Banskobystrický
+Chanava,60.0,542.0,11.07,Rimavská Sobota,Banskobystrický
+Chrámec,57.0,296.0,19.25,Rimavská Sobota,Banskobystrický
+Chvalová,42.0,133.0,31.57,Rimavská Sobota,Banskobystrický
+Chyžné,38.0,329.0,11.55,Rimavská Sobota,Banskobystrický
+Čierny Potok,35.0,137.0,25.54,Rimavská Sobota,Banskobystrický
+Číž,60.0,527.0,11.38,Rimavská Sobota,Banskobystrický
+Dolné Zahorany,43.0,158.0,27.21,Rimavská Sobota,Banskobystrický
+Dražice,32.0,182.0,17.58,Rimavská Sobota,Banskobystrický
+Drienčany,34.0,163.0,20.85,Rimavská Sobota,Banskobystrický
+Drňa,40.0,144.0,27.77,Rimavská Sobota,Banskobystrický
+Držkovce,59.0,405.0,14.56,Rimavská Sobota,Banskobystrický
+Dubno,45.0,136.0,33.08,Rimavská Sobota,Banskobystrický
+Dubovec,42.0,386.0,10.88,Rimavská Sobota,Banskobystrický
+Dulovo,36.0,125.0,28.8,Rimavská Sobota,Banskobystrický
+Figa,24.0,315.0,7.61,Rimavská Sobota,Banskobystrický
+Gemer,82.0,686.0,11.95,Rimavská Sobota,Banskobystrický
+Gemerček,23.0,94.0,24.46,Rimavská Sobota,Banskobystrický
+Gemerská Ves,63.0,703.0,8.96,Rimavská Sobota,Banskobystrický
+Gemerské Dechtáre,104.0,364.0,28.57,Rimavská Sobota,Banskobystrický
+Gemerské Michalovce,22.0,73.0,30.13,Rimavská Sobota,Banskobystrický
+Gemerské Teplice,32.0,302.0,10.59,Rimavská Sobota,Banskobystrický
+Gemerský Jablonec,135.0,585.0,23.07,Rimavská Sobota,Banskobystrický
+Gemerský Sad,50.0,254.0,19.68,Rimavská Sobota,Banskobystrický
+Gortva,32.0,399.0,8.02,Rimavská Sobota,Banskobystrický
+Hajnáčka,151.0,949.0,15.91,Rimavská Sobota,Banskobystrický
+Hnúšťa,552.0,5629.0,9.8,Rimavská Sobota,Banskobystrický
+Hodejov,80.0,1069.0,7.48,Rimavská Sobota,Banskobystrický
+Hodejovec,25.0,156.0,16.02,Rimavská Sobota,Banskobystrický
+Horné Zahorany,38.0,107.0,35.51,Rimavská Sobota,Banskobystrický
+Hostice,70.0,686.0,10.34,Rimavská Sobota,Banskobystrický
+Hostišovce,14.0,161.0,8.69,Rimavská Sobota,Banskobystrický
+Hrachovo,91.0,703.0,12.94,Rimavská Sobota,Banskobystrický
+Hrlica,15.0,62.0,24.19,Rimavská Sobota,Banskobystrický
+Hrušovo,40.0,169.0,23.66,Rimavská Sobota,Banskobystrický
+Hubovo,27.0,115.0,23.47,Rimavská Sobota,Banskobystrický
+Hucín,46.0,639.0,7.19,Rimavská Sobota,Banskobystrický
+Husiná,40.0,371.0,10.78,Rimavská Sobota,Banskobystrický
+Ivanice,37.0,192.0,19.27,Rimavská Sobota,Banskobystrický
+Janice,65.0,143.0,45.45,Rimavská Sobota,Banskobystrický
+Jelšava,116.0,2290.0,5.1,Rimavská Sobota,Banskobystrický
+Jesenské,169.0,1755.0,9.62,Rimavská Sobota,Banskobystrický
+Jestice,70.0,132.0,53.03,Rimavská Sobota,Banskobystrický
+Kaloša,95.0,526.0,18.06,Rimavská Sobota,Banskobystrický
+Kameňany,44.0,558.0,7.88,Rimavská Sobota,Banskobystrický
+Kesovce,45.0,155.0,29.03,Rimavská Sobota,Banskobystrický
+Klenovec,249.0,2461.0,10.11,Rimavská Sobota,Banskobystrický
+Kociha,13.0,166.0,7.83,Rimavská Sobota,Banskobystrický
+Konrádovce,44.0,253.0,17.39,Rimavská Sobota,Banskobystrický
+Kráľ,110.0,737.0,14.92,Rimavská Sobota,Banskobystrický
+Kraskovo,26.0,111.0,23.42,Rimavská Sobota,Banskobystrický
+Krokava,16.0,27.0,59.25,Rimavská Sobota,Banskobystrický
+Kružno,24.0,298.0,8.05,Rimavská Sobota,Banskobystrický
+Kyjatice,20.0,58.0,34.48,Rimavská Sobota,Banskobystrický
+Lehota nad Rimavicou,46.0,233.0,19.74,Rimavská Sobota,Banskobystrický
+Lenartovce,67.0,404.0,16.58,Rimavská Sobota,Banskobystrický
+Lenka,36.0,159.0,22.64,Rimavská Sobota,Banskobystrický
+Leváre,40.0,83.0,48.19,Rimavská Sobota,Banskobystrický
+Levkuška,49.0,179.0,27.37,Rimavská Sobota,Banskobystrický
+Licince,31.0,492.0,6.3,Rimavská Sobota,Banskobystrický
+Lipovec,14.0,50.0,28.0,Rimavská Sobota,Banskobystrický
+Lubeník,74.0,1031.0,7.17,Rimavská Sobota,Banskobystrický
+Lukovištia,18.0,153.0,11.76,Rimavská Sobota,Banskobystrický
+Magnezitovce,46.0,356.0,12.92,Rimavská Sobota,Banskobystrický
+Martinová,17.0,153.0,11.11,Rimavská Sobota,Banskobystrický
+Mokrá Lúka,85.0,432.0,19.67,Rimavská Sobota,Banskobystrický
+Muráň,87.0,942.0,9.23,Rimavská Sobota,Banskobystrický
+Muránska Dlhá Lúka,82.0,629.0,13.03,Rimavská Sobota,Banskobystrický
+Muránska Huta,44.0,162.0,27.16,Rimavská Sobota,Banskobystrický
+Muránska Lehota,24.0,174.0,13.79,Rimavská Sobota,Banskobystrický
+Muránska Zdychava,30.0,200.0,15.0,Rimavská Sobota,Banskobystrický
+Nandraž,47.0,188.0,25.0,Rimavská Sobota,Banskobystrický
+Neporadza,26.0,178.0,14.6,Rimavská Sobota,Banskobystrický
+Nižný Skálnik,25.0,159.0,15.72,Rimavská Sobota,Banskobystrický
+Nová Bašta,76.0,419.0,18.37,Rimavská Sobota,Banskobystrický
+Orávka,39.0,128.0,30.46,Rimavská Sobota,Banskobystrický
+Otročok,44.0,231.0,19.04,Rimavská Sobota,Banskobystrický
+Ožďany,110.0,1290.0,8.52,Rimavská Sobota,Banskobystrický
+Padarovce,58.0,145.0,40.0,Rimavská Sobota,Banskobystrický
+Pavlovce,40.0,247.0,16.19,Rimavská Sobota,Banskobystrický
+Petrovce,74.0,194.0,38.14,Rimavská Sobota,Banskobystrický
+Ploské,14.0,67.0,20.89,Rimavská Sobota,Banskobystrický
+Polina,29.0,103.0,28.15,Rimavská Sobota,Banskobystrický
+Poproč,7.0,19.0,36.84,Rimavská Sobota,Banskobystrický
+Potok,11.0,37.0,29.72,Rimavská Sobota,Banskobystrický
+Prihradzany,12.0,73.0,16.43,Rimavská Sobota,Banskobystrický
+Radnovce,136.0,568.0,23.94,Rimavská Sobota,Banskobystrický
+Rákoš,22.0,336.0,6.54,Rimavská Sobota,Banskobystrický
+Rakytník,81.0,204.0,39.7,Rimavská Sobota,Banskobystrický
+Rašice,35.0,107.0,32.71,Rimavská Sobota,Banskobystrický
+Ratková,91.0,414.0,21.98,Rimavská Sobota,Banskobystrický
+Ratkovská Lehota,23.0,42.0,54.76,Rimavská Sobota,Banskobystrický
+Ratkovská Suchá,17.0,41.0,41.46,Rimavská Sobota,Banskobystrický
+Ratkovské Bystré,46.0,296.0,15.54,Rimavská Sobota,Banskobystrický
+Revúca,885.0,10292.0,8.59,Rimavská Sobota,Banskobystrický
+Revúcka Lehota,91.0,271.0,33.57,Rimavská Sobota,Banskobystrický
+Riečka,42.0,190.0,22.1,Rimavská Sobota,Banskobystrický
+Rimavská Baňa,48.0,402.0,11.94,Rimavská Sobota,Banskobystrický
+Rimavská Seč,380.0,1329.0,28.59,Rimavská Sobota,Banskobystrický
+Rimavská Sobota,2263.0,18940.0,11.96,Rimavská Sobota,Banskobystrický
+Rimavské Brezovo,58.0,405.0,14.32,Rimavská Sobota,Banskobystrický
+Rimavské Janovce,113.0,1043.0,10.83,Rimavská Sobota,Banskobystrický
+Rimavské Zalužany,42.0,272.0,15.44,Rimavská Sobota,Banskobystrický
+Rovné,30.0,107.0,30.84,Rimavská Sobota,Banskobystrický
+Rumince,25.0,309.0,8.09,Rimavská Sobota,Banskobystrický
+Rybník,13.0,109.0,11.92,Rimavská Sobota,Banskobystrický
+Sása,9.0,110.0,8.18,Rimavská Sobota,Banskobystrický
+Šimonovce,59.0,410.0,14.39,Rimavská Sobota,Banskobystrický
+Sirk,202.0,813.0,24.84,Rimavská Sobota,Banskobystrický
+Širkovce,62.0,648.0,9.56,Rimavská Sobota,Banskobystrický
+Šivetice,64.0,256.0,25.0,Rimavská Sobota,Banskobystrický
+Skerešovo,28.0,183.0,15.3,Rimavská Sobota,Banskobystrický
+Slizké,14.0,127.0,11.02,Rimavská Sobota,Banskobystrický
+Španie Pole,15.0,63.0,23.8,Rimavská Sobota,Banskobystrický
+Stará Bašta,63.0,283.0,22.26,Rimavská Sobota,Banskobystrický
+Stránska,35.0,275.0,12.72,Rimavská Sobota,Banskobystrický
+Štrkovec,43.0,282.0,15.24,Rimavská Sobota,Banskobystrický
+Studená,43.0,203.0,21.18,Rimavská Sobota,Banskobystrický
+Sútor,258.0,325.0,79.38,Rimavská Sobota,Banskobystrický
+Tachty,138.0,430.0,32.09,Rimavská Sobota,Banskobystrický
+Teplý Vrch,58.0,256.0,22.65,Rimavská Sobota,Banskobystrický
+Tisovec,350.0,3262.0,10.72,Rimavská Sobota,Banskobystrický
+Tomášovce,22.0,149.0,14.76,Rimavská Sobota,Banskobystrický
+Tornaľa,886.0,6002.0,14.77,Rimavská Sobota,Banskobystrický
+Turčok,53.0,198.0,26.76,Rimavská Sobota,Banskobystrický
+Uzovská Panica,52.0,475.0,10.94,Rimavská Sobota,Banskobystrický
+Valice,25.0,209.0,11.96,Rimavská Sobota,Banskobystrický
+Včelince,49.0,636.0,7.7,Rimavská Sobota,Banskobystrický
+Večelkov,47.0,209.0,22.48,Rimavská Sobota,Banskobystrický
+Veľké Teriakovce,86.0,755.0,11.39,Rimavská Sobota,Banskobystrický
+Veľký Blh,111.0,783.0,14.17,Rimavská Sobota,Banskobystrický
+Vieska nad Blhom,25.0,123.0,20.32,Rimavská Sobota,Banskobystrický
+Višňové,11.0,50.0,22.0,Rimavská Sobota,Banskobystrický
+Vlkyňa,30.0,240.0,12.5,Rimavská Sobota,Banskobystrický
+Vyšné Valice,24.0,213.0,11.26,Rimavská Sobota,Banskobystrický
+Vyšný Skálnik,17.0,137.0,12.4,Rimavská Sobota,Banskobystrický
+Zacharovce,38.0,328.0,11.58,Rimavská Sobota,Banskobystrický
+Zádor,25.0,98.0,25.51,Rimavská Sobota,Banskobystrický
+Žiar,31.0,116.0,26.72,Rimavská Sobota,Banskobystrický
+Žíp,52.0,144.0,36.11,Rimavská Sobota,Banskobystrický
+Balog nad Ipľom,223.0,679.0,32.84,Veľký Krtíš,Banskobystrický
+Bátorová,33.0,304.0,10.85,Veľký Krtíš,Banskobystrický
+Brusník,11.0,93.0,11.82,Veľký Krtíš,Banskobystrický
+Bušince,99.0,1120.0,8.83,Veľký Krtíš,Banskobystrický
+Čebovce,115.0,857.0,13.41,Veľký Krtíš,Banskobystrický
+Čeláre,63.0,321.0,19.62,Veľký Krtíš,Banskobystrický
+Čelovce,24.0,321.0,7.47,Veľký Krtíš,Banskobystrický
+Červeňany,8.0,22.0,36.36,Veľký Krtíš,Banskobystrický
+Chrastince,27.0,207.0,13.04,Veľký Krtíš,Banskobystrický
+Chrťany,34.0,123.0,27.64,Veľký Krtíš,Banskobystrický
+Dačov Lom,26.0,340.0,7.64,Veľký Krtíš,Banskobystrický
+Dolinka,110.0,406.0,27.09,Veľký Krtíš,Banskobystrický
+Dolná Strehová,84.0,853.0,9.84,Veľký Krtíš,Banskobystrický
+Dolné Plachtince,52.0,515.0,10.29,Veľký Krtíš,Banskobystrický
+Dolné Strháre,27.0,170.0,15.88,Veľký Krtíš,Banskobystrický
+Ďurkovce,20.0,113.0,17.69,Veľký Krtíš,Banskobystrický
+Glabušovce,35.0,99.0,35.35,Veľký Krtíš,Banskobystrický
+Horná Strehová,31.0,140.0,22.14,Veľký Krtíš,Banskobystrický
+Horné Plachtince,24.0,173.0,13.87,Veľký Krtíš,Banskobystrický
+Horné Strháre,23.0,190.0,12.1,Veľký Krtíš,Banskobystrický
+Hrušov,63.0,681.0,9.25,Veľký Krtíš,Banskobystrický
+Ipeľské Predmostie,106.0,497.0,21.32,Veľký Krtíš,Banskobystrický
+Kamenné Kosihy,61.0,280.0,21.78,Veľký Krtíš,Banskobystrický
+Kiarov,46.0,260.0,17.69,Veľký Krtíš,Banskobystrický
+Kleňany,61.0,243.0,25.1,Veľký Krtíš,Banskobystrický
+Koláre,77.0,218.0,35.32,Veľký Krtíš,Banskobystrický
+Kosihovce,39.0,463.0,8.42,Veľký Krtíš,Banskobystrický
+Kosihy nad Ipľom,73.0,405.0,18.02,Veľký Krtíš,Banskobystrický
+Kováčovce,37.0,307.0,12.05,Veľký Krtíš,Banskobystrický
+Lesenice,62.0,436.0,14.22,Veľký Krtíš,Banskobystrický
+Ľuboriečka,24.0,116.0,20.68,Veľký Krtíš,Banskobystrický
+Malá Čalomija,32.0,177.0,18.07,Veľký Krtíš,Banskobystrický
+Malé Straciny,23.0,104.0,22.11,Veľký Krtíš,Banskobystrický
+Malé Zlievce,47.0,221.0,21.26,Veľký Krtíš,Banskobystrický
+Malý Krtíš,54.0,425.0,12.7,Veľký Krtíš,Banskobystrický
+Modrý Kameň,143.0,1284.0,11.13,Veľký Krtíš,Banskobystrický
+Muľa,39.0,229.0,17.03,Veľký Krtíš,Banskobystrický
+Nenince,166.0,1122.0,14.79,Veľký Krtíš,Banskobystrický
+Nová Ves,57.0,318.0,17.92,Veľký Krtíš,Banskobystrický
+Obeckov,35.0,417.0,8.39,Veľký Krtíš,Banskobystrický
+Olováry,81.0,246.0,32.92,Veľký Krtíš,Banskobystrický
+Opatovská Nová Ves,54.0,529.0,10.2,Veľký Krtíš,Banskobystrický
+Opava,10.0,99.0,10.1,Veľký Krtíš,Banskobystrický
+Pôtor,83.0,661.0,12.55,Veľký Krtíš,Banskobystrický
+Pravica,13.0,84.0,15.47,Veľký Krtíš,Banskobystrický
+Príbelce,53.0,476.0,11.13,Veľký Krtíš,Banskobystrický
+Sečianky,51.0,324.0,15.74,Veľký Krtíš,Banskobystrický
+Seľany,30.0,183.0,16.39,Veľký Krtíš,Banskobystrický
+Senné,23.0,189.0,12.16,Veľký Krtíš,Banskobystrický
+Širákov,18.0,187.0,9.62,Veľký Krtíš,Banskobystrický
+Sklabiná,56.0,678.0,8.25,Veľký Krtíš,Banskobystrický
+Slovenské Ďarmoty,25.0,404.0,6.18,Veľký Krtíš,Banskobystrický
+Slovenské Kľačany,25.0,129.0,19.37,Veľký Krtíš,Banskobystrický
+Stredné Plachtince,43.0,532.0,8.08,Veľký Krtíš,Banskobystrický
+Sucháň,32.0,208.0,15.38,Veľký Krtíš,Banskobystrický
+Suché Brezovo,27.0,80.0,33.75,Veľký Krtíš,Banskobystrický
+Šuľa,12.0,61.0,19.67,Veľký Krtíš,Banskobystrický
+Trebušovce,29.0,169.0,17.15,Veľký Krtíš,Banskobystrický
+Veľká Čalomija,141.0,516.0,27.32,Veľký Krtíš,Banskobystrický
+Veľká Ves nad Ipľom,58.0,344.0,16.86,Veľký Krtíš,Banskobystrický
+Veľké Straciny,26.0,146.0,17.8,Veľký Krtíš,Banskobystrický
+Veľké Zlievce,55.0,383.0,14.36,Veľký Krtíš,Banskobystrický
+Veľký Krtíš,962.0,9962.0,9.65,Veľký Krtíš,Banskobystrický
+Veľký Lom,29.0,144.0,20.13,Veľký Krtíš,Banskobystrický
+Vieska,34.0,172.0,19.76,Veľký Krtíš,Banskobystrický
+Vinica,290.0,1600.0,18.12,Veľký Krtíš,Banskobystrický
+Vrbovka,80.0,315.0,25.39,Veľký Krtíš,Banskobystrický
+Záhorce,87.0,577.0,15.07,Veľký Krtíš,Banskobystrický
+Závada,33.0,390.0,8.46,Veľký Krtíš,Banskobystrický
+Želovce,83.0,1046.0,7.93,Veľký Krtíš,Banskobystrický
+Zombor,31.0,108.0,28.7,Veľký Krtíš,Banskobystrický
+Babiná,71.0,430.0,16.51,Zvolen,Banskobystrický
+Bacúrov,25.0,119.0,21.0,Zvolen,Banskobystrický
+Breziny,68.0,286.0,23.77,Zvolen,Banskobystrický
+Budča,145.0,1040.0,13.94,Zvolen,Banskobystrický
+Bzovík,113.0,829.0,13.75,Zvolen,Banskobystrický
+Bzovská Lehôtka,22.0,109.0,20.18,Zvolen,Banskobystrický
+Čabradský Vrbovok,22.0,205.0,10.73,Zvolen,Banskobystrický
+Čekovce,48.0,352.0,13.63,Zvolen,Banskobystrický
+Cerovo,98.0,449.0,21.82,Zvolen,Banskobystrický
+Detva,1483.0,12159.0,12.2,Zvolen,Banskobystrický
+Detvianska Huta,62.0,588.0,10.54,Zvolen,Banskobystrický
+Devičie,35.0,253.0,13.83,Zvolen,Banskobystrický
+Dobrá Niva,209.0,1524.0,13.71,Zvolen,Banskobystrický
+Dolné Mladonice,23.0,108.0,21.29,Zvolen,Banskobystrický
+Dolný Badín,43.0,211.0,20.37,Zvolen,Banskobystrický
+Domaníky,22.0,169.0,13.01,Zvolen,Banskobystrický
+Drážovce,28.0,103.0,27.18,Zvolen,Banskobystrický
+Drienovo,22.0,85.0,25.88,Zvolen,Banskobystrický
+Dubové,49.0,213.0,23.0,Zvolen,Banskobystrický
+Dúbravy,114.0,803.0,14.19,Zvolen,Banskobystrický
+Dudince,242.0,1291.0,18.74,Zvolen,Banskobystrický
+Hontianske Moravce,117.0,664.0,17.62,Zvolen,Banskobystrický
+Hontianske Nemce,130.0,1211.0,10.73,Zvolen,Banskobystrický
+Hontianske Tesáre,93.0,701.0,13.26,Zvolen,Banskobystrický
+Horné Mladonice,18.0,138.0,13.04,Zvolen,Banskobystrický
+Horný Badín,34.0,150.0,22.66,Zvolen,Banskobystrický
+Horný Tisovník,47.0,179.0,26.25,Zvolen,Banskobystrický
+Hriňová,673.0,6363.0,10.57,Zvolen,Banskobystrický
+Hronská Breznica,44.0,217.0,20.27,Zvolen,Banskobystrický
+Jalšovík,45.0,155.0,29.03,Zvolen,Banskobystrický
+Klokoč,56.0,417.0,13.42,Zvolen,Banskobystrický
+Korytárky,92.0,786.0,11.7,Zvolen,Banskobystrický
+Kováčová,277.0,1257.0,22.03,Zvolen,Banskobystrický
+Kozí Vrbovok,28.0,134.0,20.89,Zvolen,Banskobystrický
+Kráľovce-Krnišov,37.0,155.0,23.87,Zvolen,Banskobystrický
+Kriváň,222.0,1399.0,15.86,Zvolen,Banskobystrický
+Krupina,717.0,6300.0,11.38,Zvolen,Banskobystrický
+Lackov,20.0,86.0,23.25,Zvolen,Banskobystrický
+Ladzany,61.0,248.0,24.59,Zvolen,Banskobystrický
+Látky,78.0,455.0,17.14,Zvolen,Banskobystrický
+Lešť (vojenský obvod),8.0,66.0,12.12,Zvolen,Banskobystrický
+Lieskovec,180.0,1168.0,15.49,Zvolen,Banskobystrický
+Lišov,43.0,188.0,22.87,Zvolen,Banskobystrický
+Litava,64.0,578.0,11.07,Zvolen,Banskobystrický
+Lukavica,21.0,138.0,15.21,Zvolen,Banskobystrický
+Medovarce,35.0,176.0,19.88,Zvolen,Banskobystrický
+Michalková,15.0,37.0,40.54,Zvolen,Banskobystrický
+Očová,267.0,2142.0,12.46,Zvolen,Banskobystrický
+Ostrá Lúka,58.0,259.0,22.39,Zvolen,Banskobystrický
+Pliešovce,237.0,1823.0,13.0,Zvolen,Banskobystrický
+Podkriváň,65.0,483.0,13.45,Zvolen,Banskobystrický
+Podzámčok,69.0,380.0,18.15,Zvolen,Banskobystrický
+Rykynčice,56.0,272.0,20.58,Zvolen,Banskobystrický
+Sása,100.0,739.0,13.53,Zvolen,Banskobystrický
+Sebechleby,153.0,938.0,16.31,Zvolen,Banskobystrický
+Selce,17.0,92.0,18.47,Zvolen,Banskobystrický
+Senohrad,72.0,607.0,11.86,Zvolen,Banskobystrický
+Sielnica,126.0,1066.0,11.81,Zvolen,Banskobystrický
+Slatinské Lazy,66.0,399.0,16.54,Zvolen,Banskobystrický
+Sliač,808.0,4222.0,19.13,Zvolen,Banskobystrický
+Stará Huta,33.0,281.0,11.74,Zvolen,Banskobystrický
+Stožok,77.0,790.0,9.74,Zvolen,Banskobystrický
+Sudince,25.0,60.0,41.66,Zvolen,Banskobystrický
+Súdovce,25.0,166.0,15.06,Zvolen,Banskobystrický
+Terany,84.0,493.0,17.03,Zvolen,Banskobystrický
+Tŕnie,70.0,307.0,22.8,Zvolen,Banskobystrický
+Trpín,19.0,101.0,18.81,Zvolen,Banskobystrický
+Turová,59.0,345.0,17.1,Zvolen,Banskobystrický
+Uňatín,39.0,142.0,27.46,Zvolen,Banskobystrický
+Veľká Lúka,67.0,435.0,15.4,Zvolen,Banskobystrický
+Vígľaš,196.0,1352.0,14.49,Zvolen,Banskobystrický
+Vígľašská Huta-Kalinka,39.0,299.0,13.04,Zvolen,Banskobystrický
+Železná Breznica,47.0,453.0,10.37,Zvolen,Banskobystrický
+Zemiansky Vrbovok,18.0,91.0,19.78,Zvolen,Banskobystrický
+Žibritov,22.0,62.0,35.48,Zvolen,Banskobystrický
+Zvolen,5745.0,34976.0,16.43,Zvolen,Banskobystrický
+Zvolenská Slatina,323.0,2304.0,14.06,Zvolen,Banskobystrický
+Baďan,45.0,170.0,26.47,Žiar nad Hronom,Banskobystrický
+Banská Belá,117.0,981.0,11.92,Žiar nad Hronom,Banskobystrický
+Banská Štiavnica,1107.0,8234.0,13.45,Žiar nad Hronom,Banskobystrický
+Banský Studenec,28.0,370.0,7.56,Žiar nad Hronom,Banskobystrický
+Bartošova Lehôtka,68.0,323.0,21.05,Žiar nad Hronom,Banskobystrický
+Beluj,29.0,108.0,26.85,Žiar nad Hronom,Banskobystrický
+Brehy,111.0,888.0,12.5,Žiar nad Hronom,Banskobystrický
+Bzenica,80.0,486.0,16.46,Žiar nad Hronom,Banskobystrický
+Dekýš,50.0,173.0,28.9,Žiar nad Hronom,Banskobystrický
+Dolná Trnávka,95.0,291.0,32.98,Žiar nad Hronom,Banskobystrický
+Dolná Ves,37.0,204.0,18.13,Žiar nad Hronom,Banskobystrický
+Dolná Ždaňa,90.0,684.0,13.15,Žiar nad Hronom,Banskobystrický
+Hliník nad Hronom,308.0,2368.0,13.0,Žiar nad Hronom,Banskobystrický
+Hodruša-Hámre,249.0,1848.0,13.58,Žiar nad Hronom,Banskobystrický
+Horná Ves,73.0,594.0,12.28,Žiar nad Hronom,Banskobystrický
+Horná Ždaňa,83.0,430.0,19.3,Žiar nad Hronom,Banskobystrický
+Horné Hámre,97.0,511.0,18.98,Žiar nad Hronom,Banskobystrický
+Hrabičov,54.0,474.0,11.39,Žiar nad Hronom,Banskobystrický
+Hronská Dúbrava,52.0,332.0,15.66,Žiar nad Hronom,Banskobystrický
+Hronský Beňadik,153.0,995.0,15.37,Žiar nad Hronom,Banskobystrický
+Ihráč,58.0,456.0,12.71,Žiar nad Hronom,Banskobystrický
+Ilija,61.0,281.0,21.7,Žiar nad Hronom,Banskobystrický
+Janova Lehota,369.0,784.0,47.06,Žiar nad Hronom,Banskobystrický
+Jastrabá,63.0,483.0,13.04,Žiar nad Hronom,Banskobystrický
+Kľak,41.0,197.0,20.81,Žiar nad Hronom,Banskobystrický
+Kopernica,35.0,350.0,10.0,Žiar nad Hronom,Banskobystrický
+Kosorín,36.0,360.0,10.0,Žiar nad Hronom,Banskobystrický
+Kozelník,15.0,151.0,9.93,Žiar nad Hronom,Banskobystrický
+Krahule,63.0,171.0,36.84,Žiar nad Hronom,Banskobystrický
+Kremnica,696.0,4407.0,15.79,Žiar nad Hronom,Banskobystrický
+Kremnické Bane,33.0,217.0,15.2,Žiar nad Hronom,Banskobystrický
+Kunešov,22.0,196.0,11.22,Žiar nad Hronom,Banskobystrický
+Ladomerská Vieska,119.0,658.0,18.23,Žiar nad Hronom,Banskobystrický
+Lehôtka pod Brehmi,59.0,333.0,17.71,Žiar nad Hronom,Banskobystrický
+Lovča,112.0,585.0,19.31,Žiar nad Hronom,Banskobystrický
+Lovčica-Trubín,169.0,1274.0,13.26,Žiar nad Hronom,Banskobystrický
+Lúčky,24.0,179.0,13.4,Žiar nad Hronom,Banskobystrický
+Lutila,130.0,1115.0,11.65,Žiar nad Hronom,Banskobystrický
+Malá Lehota,77.0,771.0,9.98,Žiar nad Hronom,Banskobystrický
+Močiar,32.0,140.0,22.85,Žiar nad Hronom,Banskobystrický
+Nevoľné,70.0,340.0,20.58,Žiar nad Hronom,Banskobystrický
+Nová Baňa,889.0,6285.0,14.16,Žiar nad Hronom,Banskobystrický
+Orovnica,71.0,474.0,14.97,Žiar nad Hronom,Banskobystrický
+Ostrý Grúň,73.0,426.0,17.13,Žiar nad Hronom,Banskobystrický
+Píla,21.0,108.0,19.44,Žiar nad Hronom,Banskobystrický
+Pitelová,76.0,567.0,13.4,Žiar nad Hronom,Banskobystrický
+Počúvadlo,23.0,80.0,28.75,Žiar nad Hronom,Banskobystrický
+Podhorie,75.0,290.0,25.86,Žiar nad Hronom,Banskobystrický
+Prenčov,77.0,549.0,14.02,Žiar nad Hronom,Banskobystrický
+Prestavlky,99.0,540.0,18.33,Žiar nad Hronom,Banskobystrický
+Prochot,87.0,498.0,17.46,Žiar nad Hronom,Banskobystrický
+Repište,46.0,264.0,17.42,Žiar nad Hronom,Banskobystrický
+Rudno nad Hronom,56.0,428.0,13.08,Žiar nad Hronom,Banskobystrický
+Sklené Teplice,82.0,378.0,21.69,Žiar nad Hronom,Banskobystrický
+Slaská,55.0,401.0,13.96,Žiar nad Hronom,Banskobystrický
+Stará Kremnička,108.0,889.0,12.14,Žiar nad Hronom,Banskobystrický
+Štiavnické Bane,100.0,708.0,14.12,Žiar nad Hronom,Banskobystrický
+Svätý Anton,113.0,962.0,11.74,Žiar nad Hronom,Banskobystrický
+Tekovská Breznica,103.0,1045.0,9.85,Žiar nad Hronom,Banskobystrický
+Trnavá Hora,95.0,944.0,10.06,Žiar nad Hronom,Banskobystrický
+Veľká Lehota,95.0,956.0,9.93,Žiar nad Hronom,Banskobystrický
+Veľké Pole,37.0,295.0,12.54,Žiar nad Hronom,Banskobystrický
+Voznica,52.0,529.0,9.82,Žiar nad Hronom,Banskobystrický
+Vyhne,125.0,1039.0,12.03,Žiar nad Hronom,Banskobystrický
+Vysoká,33.0,111.0,29.72,Žiar nad Hronom,Banskobystrický
+Žarnovica,735.0,5060.0,14.52,Žiar nad Hronom,Banskobystrický
+Žiar nad Hronom,1853.0,15590.0,11.89,Žiar nad Hronom,Banskobystrický
+Župkov,64.0,702.0,9.11,Žiar nad Hronom,Banskobystrický
+Abrahámovce,33.0,288.0,11.45,Bardejov,Prešovský
+Andrejová,37.0,266.0,13.9,Bardejov,Prešovský
+Bardejov,3025.0,25974.0,11.65,Bardejov,Prešovský
+Bartošovce,57.0,584.0,9.76,Bardejov,Prešovský
+Becherov,36.0,218.0,16.51,Bardejov,Prešovský
+Beloveža,44.0,660.0,6.66,Bardejov,Prešovský
+Bogliarka,28.0,110.0,25.45,Bardejov,Prešovský
+Brezov,44.0,322.0,13.66,Bardejov,Prešovský
+Brezovka,28.0,96.0,29.16,Bardejov,Prešovský
+Buclovany,33.0,186.0,17.74,Bardejov,Prešovský
+Chmeľová,52.0,321.0,16.19,Bardejov,Prešovský
+Cigeľka,20.0,298.0,6.71,Bardejov,Prešovský
+Dubinné,81.0,286.0,28.67,Bardejov,Prešovský
+Frička,19.0,195.0,9.74,Bardejov,Prešovský
+Fričkovce,75.0,567.0,13.22,Bardejov,Prešovský
+Gaboltov,64.0,426.0,15.02,Bardejov,Prešovský
+Gerlachov,60.0,757.0,7.92,Bardejov,Prešovský
+Hankovce,50.0,329.0,15.19,Bardejov,Prešovský
+Harhaj,51.0,193.0,26.42,Bardejov,Prešovský
+Hažlín,229.0,953.0,24.02,Bardejov,Prešovský
+Hertník,124.0,787.0,15.75,Bardejov,Prešovský
+Hervartov,77.0,406.0,18.96,Bardejov,Prešovský
+Hrabovec,37.0,409.0,9.04,Bardejov,Prešovský
+Hrabské,103.0,429.0,24.0,Bardejov,Prešovský
+Hutka,32.0,81.0,39.5,Bardejov,Prešovský
+Janovce,68.0,341.0,19.94,Bardejov,Prešovský
+Jedlinka,20.0,71.0,28.16,Bardejov,Prešovský
+Kľušov,188.0,833.0,22.56,Bardejov,Prešovský
+Kobyly,154.0,674.0,22.84,Bardejov,Prešovský
+Kochanovce,35.0,192.0,18.75,Bardejov,Prešovský
+Komárov,47.0,350.0,13.42,Bardejov,Prešovský
+Koprivnica,76.0,544.0,13.97,Bardejov,Prešovský
+Kožany,13.0,100.0,13.0,Bardejov,Prešovský
+Krivé,25.0,175.0,14.28,Bardejov,Prešovský
+Kríže,15.0,76.0,19.73,Bardejov,Prešovský
+Kružlov,84.0,806.0,10.54,Bardejov,Prešovský
+Kučín,63.0,266.0,23.68,Bardejov,Prešovský
+Kurima,121.0,854.0,14.16,Bardejov,Prešovský
+Kurov,90.0,405.0,22.22,Bardejov,Prešovský
+Lascov,36.0,415.0,8.67,Bardejov,Prešovský
+Lenartov,63.0,655.0,9.61,Bardejov,Prešovský
+Lipová,19.0,71.0,26.76,Bardejov,Prešovský
+Livov,19.0,83.0,22.89,Bardejov,Prešovský
+Livovská Huta,17.0,54.0,31.48,Bardejov,Prešovský
+Lopúchov,49.0,258.0,18.99,Bardejov,Prešovský
+Lukavica,37.0,314.0,11.78,Bardejov,Prešovský
+Lukov,70.0,429.0,16.31,Bardejov,Prešovský
+Malcov,89.0,1095.0,8.12,Bardejov,Prešovský
+Marhaň,58.0,705.0,8.22,Bardejov,Prešovský
+Mikulášová,22.0,119.0,18.48,Bardejov,Prešovský
+Mokroluh,91.0,584.0,15.58,Bardejov,Prešovský
+Nemcovce,57.0,205.0,27.8,Bardejov,Prešovský
+Nižná Polianka,31.0,210.0,14.76,Bardejov,Prešovský
+Nižná Voľa,43.0,217.0,19.81,Bardejov,Prešovský
+Nižný Tvarožec,42.0,337.0,12.46,Bardejov,Prešovský
+Oľšavce,19.0,135.0,14.07,Bardejov,Prešovský
+Ondavka,13.0,27.0,48.14,Bardejov,Prešovský
+Ortuťová,34.0,149.0,22.81,Bardejov,Prešovský
+Osikov,93.0,755.0,12.31,Bardejov,Prešovský
+Petrová,36.0,459.0,7.84,Bardejov,Prešovský
+Poliakovce,57.0,295.0,19.32,Bardejov,Prešovský
+Porúbka,39.0,190.0,20.52,Bardejov,Prešovský
+Raslavice,196.0,2044.0,9.58,Bardejov,Prešovský
+Regetovka,28.0,35.0,80.0,Bardejov,Prešovský
+Rešov,27.0,258.0,10.46,Bardejov,Prešovský
+Richvald,77.0,801.0,9.61,Bardejov,Prešovský
+Rokytov,49.0,410.0,11.95,Bardejov,Prešovský
+Šarišské Čierne,39.0,257.0,15.17,Bardejov,Prešovský
+Šašová,36.0,117.0,30.76,Bardejov,Prešovský
+Šiba,55.0,452.0,12.16,Bardejov,Prešovský
+Smilno,52.0,585.0,8.88,Bardejov,Prešovský
+Snakov,59.0,484.0,12.19,Bardejov,Prešovský
+Stebnícka Huta,54.0,197.0,27.41,Bardejov,Prešovský
+Stebník,38.0,250.0,15.2,Bardejov,Prešovský
+Stuľany,70.0,469.0,14.92,Bardejov,Prešovský
+Sveržov,71.0,414.0,17.14,Bardejov,Prešovský
+Tarnov,65.0,324.0,20.06,Bardejov,Prešovský
+Tročany,81.0,248.0,32.66,Bardejov,Prešovský
+Vaniškovce,56.0,302.0,18.54,Bardejov,Prešovský
+Varadka,30.0,134.0,22.38,Bardejov,Prešovský
+Vyšná Polianka,37.0,101.0,36.63,Bardejov,Prešovský
+Vyšná Voľa,38.0,324.0,11.72,Bardejov,Prešovský
+Vyšný Kručov,30.0,117.0,25.64,Bardejov,Prešovský
+Vyšný Tvarožec,34.0,99.0,34.34,Bardejov,Prešovský
+Zborov,163.0,2151.0,7.57,Bardejov,Prešovský
+Zlaté,56.0,601.0,9.31,Bardejov,Prešovský
+Adidovce,62.0,183.0,33.87,Humenné,Prešovský
+Baškovce,64.0,323.0,19.81,Humenné,Prešovský
+Belá nad Cirochou,146.0,2683.0,5.47,Humenné,Prešovský
+Brekov,107.0,1058.0,10.11,Humenné,Prešovský
+Brestov,59.0,486.0,12.13,Humenné,Prešovský
+Brestov nad Laborcom,15.0,82.0,18.29,Humenné,Prešovský
+Brezovec,17.0,38.0,44.73,Humenné,Prešovský
+Čabalovce,56.0,285.0,19.64,Humenné,Prešovský
+Čabiny,34.0,313.0,10.86,Humenné,Prešovský
+Černina,39.0,133.0,29.32,Humenné,Prešovský
+Čertižné,55.0,317.0,17.35,Humenné,Prešovský
+Chlmec,71.0,464.0,15.3,Humenné,Prešovský
+Čukalovce,44.0,147.0,29.93,Humenné,Prešovský
+Dedačov,31.0,138.0,22.46,Humenné,Prešovský
+Dlhé nad Cirochou,119.0,1580.0,7.59,Humenné,Prešovský
+Dúbrava,19.0,145.0,13.1,Humenné,Prešovský
+Gruzovce,20.0,108.0,18.51,Humenné,Prešovský
+Habura,61.0,443.0,13.99,Humenné,Prešovský
+Hankovce,53.0,464.0,11.42,Humenné,Prešovský
+Hažín nad Cirochou,67.0,553.0,12.11,Humenné,Prešovský
+Hostovice,27.0,257.0,10.5,Humenné,Prešovský
+Hrabová Roztoka,8.0,57.0,14.03,Humenné,Prešovský
+Hrabovec nad Laborcom,65.0,454.0,14.53,Humenné,Prešovský
+Hrubov,50.0,399.0,12.53,Humenné,Prešovský
+Hudcovce,53.0,350.0,15.14,Humenné,Prešovský
+Humenné,3091.0,27816.0,11.13,Humenné,Prešovský
+Jabloň,37.0,299.0,12.37,Humenné,Prešovský
+Jalová,6.0,59.0,10.16,Humenné,Prešovský
+Jankovce,30.0,232.0,12.93,Humenné,Prešovský
+Jasenov,126.0,967.0,13.02,Humenné,Prešovský
+Kalinov,29.0,204.0,14.7,Humenné,Prešovský
+Kalná Roztoka,30.0,452.0,6.63,Humenné,Prešovský
+Kamenica nad Cirochou,174.0,1868.0,9.31,Humenné,Prešovský
+Kamienka,54.0,445.0,12.13,Humenné,Prešovský
+Karná,56.0,352.0,15.9,Humenné,Prešovský
+Klenová,66.0,395.0,16.7,Humenné,Prešovský
+Kochanovce,69.0,644.0,10.71,Humenné,Prešovský
+Kolbasov,23.0,93.0,24.73,Humenné,Prešovský
+Kolonica,57.0,490.0,11.63,Humenné,Prešovský
+Košarovce,71.0,497.0,14.28,Humenné,Prešovský
+Koškovce,108.0,480.0,22.5,Humenné,Prešovský
+Krásny Brod,39.0,360.0,10.83,Humenné,Prešovský
+Lackovce,99.0,535.0,18.5,Humenné,Prešovský
+Ladomirov,18.0,259.0,7.33,Humenné,Prešovský
+Lieskovec,63.0,378.0,16.66,Humenné,Prešovský
+Ľubiša,100.0,643.0,15.55,Humenné,Prešovský
+Lukačovce,50.0,404.0,12.37,Humenné,Prešovský
+Maškovce,19.0,54.0,35.18,Humenné,Prešovský
+Medzilaborce,430.0,4976.0,8.64,Humenné,Prešovský
+Michajlov,30.0,89.0,33.7,Humenné,Prešovský
+Modra nad Cirochou,73.0,824.0,8.85,Humenné,Prešovský
+Myslina,62.0,464.0,13.36,Humenné,Prešovský
+Ňagov,47.0,357.0,13.16,Humenné,Prešovský
+Nechválova Polianka,56.0,89.0,62.92,Humenné,Prešovský
+Nižná Jablonka,46.0,138.0,33.33,Humenné,Prešovský
+Nižná Sitnica,38.0,284.0,13.38,Humenné,Prešovský
+Nižné Ladičkovce,31.0,282.0,10.99,Humenné,Prešovský
+Nová Sedlica,40.0,252.0,15.87,Humenné,Prešovský
+Ohradzany,69.0,497.0,13.88,Humenné,Prešovský
+Oľka,44.0,248.0,17.74,Humenné,Prešovský
+Oľšinkov,27.0,43.0,65.11,Humenné,Prešovský
+Osadné,38.0,110.0,34.54,Humenné,Prešovský
+Pakostov,54.0,388.0,13.91,Humenné,Prešovský
+Palota,20.0,134.0,14.92,Humenné,Prešovský
+Papín,94.0,789.0,11.91,Humenné,Prešovský
+Parihuzovce,20.0,35.0,57.14,Humenné,Prešovský
+Pčoliné,79.0,504.0,15.67,Humenné,Prešovský
+Pichne,85.0,483.0,17.59,Humenné,Prešovský
+Porúbka,24.0,220.0,10.9,Humenné,Prešovský
+Príslop,21.0,57.0,36.84,Humenné,Prešovský
+Prituľany,18.0,60.0,30.0,Humenné,Prešovský
+Ptičie,70.0,524.0,13.35,Humenné,Prešovský
+Radvaň nad Laborcom,82.0,446.0,18.38,Humenné,Prešovský
+Repejov,54.0,133.0,40.6,Humenné,Prešovský
+Rohožník,22.0,37.0,59.45,Humenné,Prešovský
+Rokytov pri Humennom,51.0,269.0,18.95,Humenné,Prešovský
+Rokytovce,44.0,163.0,26.99,Humenné,Prešovský
+Roškovce,48.0,168.0,28.57,Humenné,Prešovský
+Rovné,63.0,373.0,16.89,Humenné,Prešovský
+Runina,44.0,80.0,55.0,Humenné,Prešovský
+Ruská Kajňa,24.0,105.0,22.85,Humenné,Prešovský
+Ruská Poruba,58.0,196.0,29.59,Humenné,Prešovský
+Ruská Volová,29.0,96.0,30.2,Humenné,Prešovský
+Ruský Potok,23.0,123.0,18.69,Humenné,Prešovský
+Slovenská Volová,41.0,393.0,10.43,Humenné,Prešovský
+Slovenské Krivé,23.0,108.0,21.29,Humenné,Prešovský
+Šmigovec,14.0,78.0,17.94,Humenné,Prešovský
+Snina,1187.0,16370.0,7.25,Humenné,Prešovský
+Sopkovce,20.0,91.0,21.97,Humenné,Prešovský
+Stakčín,162.0,1992.0,8.13,Humenné,Prešovský
+Stakčínska Roztoka,33.0,277.0,12.27,Humenné,Prešovský
+Strihovce,15.0,149.0,10.06,Humenné,Prešovský
+Sukov,46.0,106.0,43.39,Humenné,Prešovský
+Svetlice,30.0,123.0,24.39,Humenné,Prešovský
+Topoľa,39.0,140.0,27.85,Humenné,Prešovský
+Topoľovka,110.0,659.0,16.69,Humenné,Prešovský
+Turcovce,63.0,261.0,24.13,Humenné,Prešovský
+Ubľa,142.0,644.0,22.04,Humenné,Prešovský
+Udavské,132.0,1031.0,12.8,Humenné,Prešovský
+Ulič,32.0,769.0,4.16,Humenné,Prešovský
+Uličské Krivé,30.0,201.0,14.92,Humenné,Prešovský
+Valentovce,26.0,50.0,52.0,Humenné,Prešovský
+Veľopolie,70.0,299.0,23.41,Humenné,Prešovský
+Víťazovce,62.0,266.0,23.3,Humenné,Prešovský
+Volica,45.0,257.0,17.5,Humenné,Prešovský
+Výrava,38.0,145.0,26.2,Humenné,Prešovský
+Vyšná Jablonka,38.0,68.0,55.88,Humenné,Prešovský
+Vyšná Sitnica,57.0,323.0,17.64,Humenné,Prešovský
+Vyšné Ladičkovce,25.0,183.0,13.66,Humenné,Prešovský
+Vyšný Hrušov,35.0,384.0,9.11,Humenné,Prešovský
+Závada,20.0,77.0,25.97,Humenné,Prešovský
+Závadka,48.0,435.0,11.03,Humenné,Prešovský
+Zboj,65.0,326.0,19.93,Humenné,Prešovský
+Zbojné,39.0,158.0,24.68,Humenné,Prešovský
+Zbudská Belá,21.0,107.0,20.56,Humenné,Prešovský
+Zbudské Dlhé,52.0,450.0,11.55,Humenné,Prešovský
+Zemplínske Hámre,59.0,1030.0,5.72,Humenné,Prešovský
+Zubné,39.0,311.0,12.54,Humenné,Prešovský
+Abrahámovce,40.0,205.0,19.51,Kežmarok,Prešovský
+Bušovce,28.0,248.0,11.29,Kežmarok,Prešovský
+Červený Kláštor,78.0,224.0,35.26,Kežmarok,Prešovský
+Havka,7.0,34.0,20.58,Kežmarok,Prešovský
+Holumnica,21.0,641.0,3.27,Kežmarok,Prešovský
+Hradisko,15.0,84.0,17.85,Kežmarok,Prešovský
+Huncovce,127.0,1863.0,6.81,Kežmarok,Prešovský
+Ihľany,81.0,995.0,8.14,Kežmarok,Prešovský
+Jezersko,11.0,82.0,13.41,Kežmarok,Prešovský
+Jurské,38.0,679.0,5.59,Kežmarok,Prešovský
+Kežmarok,1607.0,13202.0,12.2,Kežmarok,Prešovský
+Krížová Ves,179.0,1264.0,14.16,Kežmarok,Prešovský
+Lechnica,41.0,204.0,20.09,Kežmarok,Prešovský
+Lendak,381.0,3472.0,10.97,Kežmarok,Prešovský
+Ľubica,269.0,3113.0,8.64,Kežmarok,Prešovský
+Majere,14.0,83.0,16.86,Kežmarok,Prešovský
+Malá Franková,14.0,142.0,9.85,Kežmarok,Prešovský
+Malý Slavkov,82.0,702.0,11.68,Kežmarok,Prešovský
+Matiašovce,71.0,594.0,11.95,Kežmarok,Prešovský
+Mlynčeky,79.0,503.0,15.7,Kežmarok,Prešovský
+Osturňa,90.0,264.0,34.09,Kežmarok,Prešovský
+Podhorany,49.0,1078.0,4.54,Kežmarok,Prešovský
+Rakúsy,84.0,1520.0,5.52,Kežmarok,Prešovský
+Reľov,26.0,264.0,9.84,Kežmarok,Prešovský
+Slovenská Ves,103.0,1359.0,7.57,Kežmarok,Prešovský
+Spišská Belá,624.0,5003.0,12.47,Kežmarok,Prešovský
+Spišská Stará Ves,143.0,1811.0,7.89,Kežmarok,Prešovský
+Spišské Hanušovce,71.0,555.0,12.79,Kežmarok,Prešovský
+Stará Lesná,55.0,732.0,7.51,Kežmarok,Prešovský
+Stráne pod Tatrami,25.0,960.0,2.6,Kežmarok,Prešovský
+Toporec,47.0,1305.0,3.6,Kežmarok,Prešovský
+Tvarožná,39.0,516.0,7.55,Kežmarok,Prešovský
+Veľká Franková,37.0,263.0,14.06,Kežmarok,Prešovský
+Veľká Lomnica,274.0,2903.0,9.43,Kežmarok,Prešovský
+Vlková,140.0,526.0,26.61,Kežmarok,Prešovský
+Vlkovce,44.0,347.0,12.68,Kežmarok,Prešovský
+Vojňany,35.0,206.0,16.99,Kežmarok,Prešovský
+Vrbov,91.0,995.0,9.14,Kežmarok,Prešovský
+Výborná,16.0,647.0,2.47,Kežmarok,Prešovský
+Žakovce,65.0,659.0,9.86,Kežmarok,Prešovský
+Zálesie,5.0,59.0,8.47,Kežmarok,Prešovský
+Baldovce,15.0,147.0,10.2,Poprad,Prešovský
+Batizovce,199.0,1520.0,13.09,Poprad,Prešovský
+Beharovce,46.0,133.0,34.58,Poprad,Prešovský
+Bijacovce,66.0,643.0,10.26,Poprad,Prešovský
+Brutovce,31.0,162.0,19.13,Poprad,Prešovský
+Buglovce,37.0,216.0,17.12,Poprad,Prešovský
+Dlhé Stráže,46.0,386.0,11.91,Poprad,Prešovský
+Doľany,26.0,331.0,7.85,Poprad,Prešovský
+Domaňovce,66.0,721.0,9.15,Poprad,Prešovský
+Dravce,79.0,641.0,12.32,Poprad,Prešovský
+Dúbrava,48.0,270.0,18.14,Poprad,Prešovský
+Gánovce,134.0,1051.0,12.74,Poprad,Prešovský
+Gerlachov,62.0,611.0,10.14,Poprad,Prešovský
+Granč-Petrovce,44.0,485.0,9.07,Poprad,Prešovský
+Harakovce,13.0,57.0,22.8,Poprad,Prešovský
+Hôrka,119.0,1419.0,8.38,Poprad,Prešovský
+Hozelec,57.0,623.0,9.63,Poprad,Prešovský
+Hranovnica,161.0,2001.0,8.04,Poprad,Prešovský
+Jablonov,44.0,736.0,5.97,Poprad,Prešovský
+Jánovce,79.0,916.0,8.62,Poprad,Prešovský
+Klčov,61.0,483.0,12.62,Poprad,Prešovský
+Korytné,16.0,82.0,19.51,Poprad,Prešovský
+Kravany,62.0,707.0,8.76,Poprad,Prešovský
+Kurimany,61.0,300.0,20.33,Poprad,Prešovský
+Levoča,1112.0,11194.0,9.93,Poprad,Prešovský
+Liptovská Teplička,125.0,1724.0,7.25,Poprad,Prešovský
+Lučivná,47.0,775.0,6.06,Poprad,Prešovský
+Lúčka,32.0,98.0,32.65,Poprad,Prešovský
+Mengusovce,68.0,483.0,14.07,Poprad,Prešovský
+Mlynica,34.0,370.0,9.18,Poprad,Prešovský
+Nemešany,56.0,313.0,17.89,Poprad,Prešovský
+Nižné Repaše,34.0,164.0,20.73,Poprad,Prešovský
+Nová Lesná,155.0,1267.0,12.23,Poprad,Prešovský
+Oľšavica,56.0,225.0,24.88,Poprad,Prešovský
+Ordzovany,39.0,131.0,29.77,Poprad,Prešovský
+Pavľany,11.0,51.0,21.56,Poprad,Prešovský
+Poľanovce,20.0,130.0,15.38,Poprad,Prešovský
+Pongrácovce,22.0,84.0,26.19,Poprad,Prešovský
+Poprad,5080.0,42513.0,11.95,Poprad,Prešovský
+Spišská Teplica,228.0,1742.0,13.14,Poprad,Prešovský
+Spišské Bystré,204.0,1888.0,10.8,Poprad,Prešovský
+Spišské Podhradie,376.0,3006.0,12.5,Poprad,Prešovský
+Spišský Hrhov,187.0,1021.0,18.31,Poprad,Prešovský
+Spišský Štiavnik,137.0,1642.0,8.34,Poprad,Prešovský
+Spišský Štvrtok,111.0,1850.0,6.0,Poprad,Prešovský
+Štôla,76.0,417.0,18.22,Poprad,Prešovský
+Štrba,449.0,3077.0,14.78,Poprad,Prešovský
+Studenec,99.0,392.0,25.25,Poprad,Prešovský
+Šuňava,203.0,1529.0,13.27,Poprad,Prešovský
+Švábovce,77.0,972.0,8.02,Poprad,Prešovský
+Svit,866.0,6223.0,13.91,Poprad,Prešovský
+Tatranská Javorina,30.0,171.0,17.54,Poprad,Prešovský
+Torysky,31.0,285.0,10.87,Poprad,Prešovský
+Uloža,31.0,166.0,18.67,Poprad,Prešovský
+Veľký Slavkov,79.0,1009.0,7.82,Poprad,Prešovský
+Vernár,77.0,506.0,15.21,Poprad,Prešovský
+Vikartovce,88.0,1320.0,6.66,Poprad,Prešovský
+Vydrník,49.0,763.0,6.42,Poprad,Prešovský
+Vyšné Repaše,21.0,95.0,22.1,Poprad,Prešovský
+Vyšný Slavkov,53.0,238.0,22.26,Poprad,Prešovský
+Vysoké Tatry,807.0,3707.0,21.76,Poprad,Prešovský
+Ždiar,104.0,1079.0,9.63,Poprad,Prešovský
+Abranovce,42.0,435.0,9.65,Prešov,Prešovský
+Bajerov,60.0,350.0,17.14,Prešov,Prešovský
+Bajerovce,35.0,245.0,14.28,Prešov,Prešovský
+Bertotovce,40.0,380.0,10.52,Prešov,Prešovský
+Bodovce,45.0,259.0,17.37,Prešov,Prešovský
+Brestov,71.0,368.0,19.29,Prešov,Prešovský
+Bretejovce,57.0,324.0,17.59,Prešov,Prešovský
+Brežany,35.0,134.0,26.11,Prešov,Prešovský
+Brezovica,75.0,1290.0,5.81,Prešov,Prešovský
+Brezovička,51.0,351.0,14.52,Prešov,Prešovský
+Bzenov,64.0,583.0,10.97,Prešov,Prešovský
+Čelovce,90.0,245.0,36.73,Prešov,Prešovský
+Červená Voda,53.0,373.0,14.2,Prešov,Prešovský
+Červenica,29.0,590.0,4.91,Prešov,Prešovský
+Červenica pri Sabinove,90.0,651.0,13.82,Prešov,Prešovský
+Chmeľov,55.0,763.0,7.2,Prešov,Prešovský
+Chmeľovec,64.0,341.0,18.76,Prešov,Prešovský
+Chmiňany,30.0,542.0,5.53,Prešov,Prešovský
+Chminianska Nová Ves,115.0,992.0,11.59,Prešov,Prešovský
+Chminianske Jakubovany,47.0,1082.0,4.34,Prešov,Prešovský
+Ďačov,56.0,576.0,9.72,Prešov,Prešovský
+Daletice,18.0,82.0,21.95,Prešov,Prešovský
+Demjata,97.0,845.0,11.47,Prešov,Prešovský
+Drienica,111.0,606.0,18.31,Prešov,Prešovský
+Drienov,118.0,1661.0,7.1,Prešov,Prešovský
+Drienovská Nová Ves,80.0,595.0,13.61,Prešov,Prešovský
+Dubovica,93.0,1155.0,8.05,Prešov,Prešovský
+Dulova Ves,97.0,637.0,15.22,Prešov,Prešovský
+Fintice,181.0,1475.0,12.27,Prešov,Prešovský
+Fričovce,79.0,854.0,9.25,Prešov,Prešovský
+Fulianka,54.0,328.0,16.46,Prešov,Prešovský
+Geraltov,40.0,125.0,32.0,Prešov,Prešovský
+Gregorovce,69.0,642.0,10.74,Prešov,Prešovský
+Hanigovce,24.0,120.0,20.0,Prešov,Prešovský
+Haniska,70.0,536.0,13.05,Prešov,Prešovský
+Hendrichovce,25.0,180.0,13.88,Prešov,Prešovský
+Hermanovce,71.0,1125.0,6.31,Prešov,Prešovský
+Hrabkov,62.0,600.0,10.33,Prešov,Prešovský
+Hubošovce,70.0,396.0,17.67,Prešov,Prešovský
+Jakovany,30.0,295.0,10.16,Prešov,Prešovský
+Jakubova Voľa,38.0,325.0,11.69,Prešov,Prešovský
+Jakubovany,94.0,749.0,12.55,Prešov,Prešovský
+Janov,52.0,248.0,20.96,Prešov,Prešovský
+Janovík,79.0,239.0,33.05,Prešov,Prešovský
+Jarovnice,87.0,2983.0,2.91,Prešov,Prešovský
+Kamenica,117.0,1437.0,8.14,Prešov,Prešovský
+Kapušany,293.0,1668.0,17.56,Prešov,Prešovský
+Kendice,170.0,1331.0,12.84,Prešov,Prešovský
+Klenov,33.0,195.0,16.92,Prešov,Prešovský
+Kojatice,100.0,796.0,12.56,Prešov,Prešovský
+Kokošovce,51.0,601.0,8.65,Prešov,Prešovský
+Krásna Lúka,61.0,547.0,11.15,Prešov,Prešovský
+Krivany,49.0,834.0,5.87,Prešov,Prešovský
+Krížovany,49.0,288.0,17.01,Prešov,Prešovský
+Kvačany,54.0,219.0,24.65,Prešov,Prešovský
+Lada,78.0,674.0,11.57,Prešov,Prešovský
+Lažany,20.0,132.0,15.15,Prešov,Prešovský
+Lemešany,131.0,1448.0,9.04,Prešov,Prešovský
+Lesíček,25.0,212.0,11.79,Prešov,Prešovský
+Ličartovce,88.0,694.0,12.68,Prešov,Prešovský
+Lipany,494.0,4855.0,10.17,Prešov,Prešovský
+Lipníky,47.0,398.0,11.8,Prešov,Prešovský
+Lipovce,90.0,424.0,21.22,Prešov,Prešovský
+Ľubotice,419.0,2478.0,16.9,Prešov,Prešovský
+Ľubovec,40.0,416.0,9.61,Prešov,Prešovský
+Lúčina,24.0,135.0,17.77,Prešov,Prešovský
+Lúčka,54.0,505.0,10.69,Prešov,Prešovský
+Ľutina,46.0,363.0,12.67,Prešov,Prešovský
+Malý Šariš,121.0,1209.0,10.0,Prešov,Prešovský
+Malý Slivník,13.0,499.0,2.6,Prešov,Prešovský
+Medzany,92.0,553.0,16.63,Prešov,Prešovský
+Miklušovce,76.0,269.0,28.25,Prešov,Prešovský
+Milpoš,66.0,497.0,13.27,Prešov,Prešovský
+Mirkovce,52.0,713.0,7.29,Prešov,Prešovský
+Mošurov,50.0,150.0,33.33,Prešov,Prešovský
+Nemcovce,72.0,373.0,19.3,Prešov,Prešovský
+Nižný Slavkov,47.0,560.0,8.39,Prešov,Prešovský
+Okružná,81.0,360.0,22.5,Prešov,Prešovský
+Olejníkov,19.0,277.0,6.85,Prešov,Prešovský
+Oľšov,41.0,299.0,13.71,Prešov,Prešovský
+Ondrašovce,14.0,46.0,30.43,Prešov,Prešovský
+Ostrovany,83.0,1127.0,7.36,Prešov,Prešovský
+Ovčie,84.0,517.0,16.24,Prešov,Prešovský
+Pečovská Nová Ves,187.0,1777.0,10.52,Prešov,Prešovský
+Petrovany,149.0,1425.0,10.45,Prešov,Prešovský
+Podhorany,75.0,592.0,12.66,Prešov,Prešovský
+Podhradík,47.0,289.0,16.26,Prešov,Prešovský
+Poloma,77.0,706.0,10.9,Prešov,Prešovský
+Prešov,10730.0,73006.0,14.71,Prešov,Prešovský
+Proč,65.0,336.0,19.64,Prešov,Prešovský
+Pušovce,66.0,422.0,15.63,Prešov,Prešovský
+Radatice,51.0,621.0,8.21,Prešov,Prešovský
+Ratvaj,27.0,111.0,24.32,Prešov,Prešovský
+Ražňany,117.0,1132.0,10.33,Prešov,Prešovský
+Renčišov,19.0,141.0,13.47,Prešov,Prešovský
+Rokycany,53.0,606.0,8.74,Prešov,Prešovský
+Rožkovany,87.0,984.0,8.84,Prešov,Prešovský
+Ruská Nová Ves,112.0,817.0,13.7,Prešov,Prešovský
+Sabinov,1062.0,9523.0,11.15,Prešov,Prešovský
+Šarišská Poruba,34.0,354.0,9.6,Prešov,Prešovský
+Šarišská Trstená,34.0,206.0,16.5,Prešov,Prešovský
+Šarišské Bohdanovce,94.0,597.0,15.74,Prešov,Prešovský
+Šarišské Dravce,65.0,970.0,6.7,Prešov,Prešovský
+Šarišské Michaľany,224.0,2210.0,10.13,Prešov,Prešovský
+Šarišské Sokolovce,35.0,421.0,8.31,Prešov,Prešovský
+Sedlice,103.0,806.0,12.77,Prešov,Prešovský
+Seniakovce,39.0,106.0,36.79,Prešov,Prešovský
+Šindliar,85.0,418.0,20.33,Prešov,Prešovský
+Široké,148.0,1881.0,7.86,Prešov,Prešovský
+Štefanovce,34.0,164.0,20.73,Prešov,Prešovský
+Suchá Dolina,21.0,161.0,13.04,Prešov,Prešovský
+Svinia,90.0,1081.0,8.32,Prešov,Prešovský
+Teriakovce,85.0,470.0,18.08,Prešov,Prešovský
+Terňa,108.0,874.0,12.35,Prešov,Prešovský
+Tichý Potok,61.0,278.0,21.94,Prešov,Prešovský
+Torysa,111.0,1071.0,10.36,Prešov,Prešovský
+Trnkov,39.0,181.0,21.54,Prešov,Prešovský
+Tuhrina,21.0,306.0,6.86,Prešov,Prešovský
+Tulčík,140.0,1052.0,13.3,Prešov,Prešovský
+Uzovce,95.0,409.0,23.22,Prešov,Prešovský
+Uzovské Pekľany,34.0,282.0,12.05,Prešov,Prešovský
+Uzovský Šalgov,65.0,485.0,13.4,Prešov,Prešovský
+Varhaňovce,86.0,846.0,10.16,Prešov,Prešovský
+Veľký Šariš,563.0,4215.0,13.49,Prešov,Prešovský
+Veľký Slivník,33.0,242.0,13.63,Prešov,Prešovský
+Víťaz,136.0,1516.0,8.97,Prešov,Prešovský
+Vyšná Šebastová,163.0,921.0,17.69,Prešov,Prešovský
+Vysoká,21.0,109.0,19.26,Prešov,Prešovský
+Záborské,100.0,526.0,19.01,Prešov,Prešovský
+Záhradné,92.0,797.0,11.54,Prešov,Prešovský
+Žehňa,44.0,645.0,6.82,Prešov,Prešovský
+Žipov,52.0,213.0,24.41,Prešov,Prešovský
+Zlatá Baňa,63.0,370.0,17.02,Prešov,Prešovský
+Župčany,133.0,1122.0,11.85,Prešov,Prešovský
+Chmeľnica,102.0,760.0,13.42,Stará Ľubovňa,Prešovský
+Čirč,57.0,836.0,6.81,Stará Ľubovňa,Prešovský
+Ďurková,37.0,185.0,20.0,Stará Ľubovňa,Prešovský
+Forbasy,65.0,346.0,18.78,Stará Ľubovňa,Prešovský
+Hajtovka,39.0,78.0,50.0,Stará Ľubovňa,Prešovský
+Haligovce,33.0,497.0,6.63,Stará Ľubovňa,Prešovský
+Hniezdne,113.0,1118.0,10.1,Stará Ľubovňa,Prešovský
+Hraničné,22.0,158.0,13.92,Stará Ľubovňa,Prešovský
+Hromoš,168.0,401.0,41.89,Stará Ľubovňa,Prešovský
+Jakubany,122.0,1899.0,6.47,Stará Ľubovňa,Prešovský
+Jarabina,101.0,706.0,14.3,Stará Ľubovňa,Prešovský
+Kamienka,155.0,1099.0,14.1,Stará Ľubovňa,Prešovský
+Kolačkov,68.0,779.0,8.72,Stará Ľubovňa,Prešovský
+Kremná,10.0,72.0,13.88,Stará Ľubovňa,Prešovský
+Kyjov,117.0,543.0,21.54,Stará Ľubovňa,Prešovský
+Lacková,41.0,142.0,28.87,Stará Ľubovňa,Prešovský
+Legnava,35.0,74.0,47.29,Stará Ľubovňa,Prešovský
+Lesnica,94.0,378.0,24.86,Stará Ľubovňa,Prešovský
+Litmanová,73.0,531.0,13.74,Stará Ľubovňa,Prešovský
+Lomnička,38.0,1142.0,3.32,Stará Ľubovňa,Prešovský
+Ľubotín,120.0,1006.0,11.92,Stará Ľubovňa,Prešovský
+Malý Lipník,63.0,360.0,17.5,Stará Ľubovňa,Prešovský
+Matysová,39.0,80.0,48.75,Stará Ľubovňa,Prešovský
+Mníšek nad Popradom,83.0,474.0,17.51,Stará Ľubovňa,Prešovský
+Nižné Ružbachy,60.0,518.0,11.58,Stará Ľubovňa,Prešovský
+Nová Ľubovňa,310.0,2240.0,13.88,Stará Ľubovňa,Prešovský
+Obručné,22.0,35.0,62.85,Stará Ľubovňa,Prešovský
+Orlov,81.0,520.0,15.57,Stará Ľubovňa,Prešovský
+Plaveč,117.0,1436.0,8.14,Stará Ľubovňa,Prešovský
+Plavnica,166.0,1209.0,13.73,Stará Ľubovňa,Prešovský
+Podolínec,225.0,2464.0,9.13,Stará Ľubovňa,Prešovský
+Pusté Pole,27.0,174.0,15.51,Stará Ľubovňa,Prešovský
+Ruská Voľa nad Popradom,33.0,84.0,39.28,Stará Ľubovňa,Prešovský
+Šambron,166.0,346.0,48.26,Stará Ľubovňa,Prešovský
+Šarišské Jastrabie,112.0,845.0,13.25,Stará Ľubovňa,Prešovský
+Stará Ľubovňa,1661.0,12493.0,13.31,Stará Ľubovňa,Prešovský
+Starina,26.0,48.0,54.16,Stará Ľubovňa,Prešovský
+Stráňany,48.0,155.0,30.96,Stará Ľubovňa,Prešovský
+Sulín,36.0,299.0,12.04,Stará Ľubovňa,Prešovský
+Údol,115.0,323.0,35.6,Stará Ľubovňa,Prešovský
+Veľká Lesná,44.0,342.0,12.86,Stará Ľubovňa,Prešovský
+Veľký Lipník,93.0,761.0,12.22,Stará Ľubovňa,Prešovský
+Vislanka,53.0,213.0,24.88,Stará Ľubovňa,Prešovský
+Vyšné Ružbachy,102.0,1074.0,9.59,Stará Ľubovňa,Prešovský
+Baňa,37.0,161.0,22.98,Stropkov,Prešovský
+Breznica,85.0,614.0,13.84,Stropkov,Prešovský
+Breznička,29.0,112.0,25.89,Stropkov,Prešovský
+Brusnica,49.0,265.0,18.49,Stropkov,Prešovský
+Bukovce,50.0,413.0,12.1,Stropkov,Prešovský
+Bystrá,26.0,41.0,63.41,Stropkov,Prešovský
+Bžany,34.0,146.0,23.28,Stropkov,Prešovský
+Chotča,59.0,457.0,12.91,Stropkov,Prešovský
+Duplín,43.0,393.0,10.94,Stropkov,Prešovský
+Gribov,27.0,160.0,16.87,Stropkov,Prešovský
+Havaj,44.0,312.0,14.1,Stropkov,Prešovský
+Jakušovce,20.0,48.0,41.66,Stropkov,Prešovský
+Kolbovce,34.0,152.0,22.36,Stropkov,Prešovský
+Korunková,26.0,83.0,31.32,Stropkov,Prešovský
+Kožuchovce,20.0,58.0,34.48,Stropkov,Prešovský
+Krišľovce,18.0,39.0,46.15,Stropkov,Prešovský
+Kručov,30.0,178.0,16.85,Stropkov,Prešovský
+Krušinec,28.0,200.0,14.0,Stropkov,Prešovský
+Lomné,43.0,218.0,19.72,Stropkov,Prešovský
+Makovce,57.0,126.0,45.23,Stropkov,Prešovský
+Malá Poľana,41.0,94.0,43.61,Stropkov,Prešovský
+Miková,38.0,124.0,30.64,Stropkov,Prešovský
+Miňovce,49.0,275.0,17.81,Stropkov,Prešovský
+Mrázovce,27.0,83.0,32.53,Stropkov,Prešovský
+Nižná Olšava,54.0,292.0,18.49,Stropkov,Prešovský
+Oľšavka,29.0,196.0,14.79,Stropkov,Prešovský
+Potôčky,28.0,65.0,43.07,Stropkov,Prešovský
+Potoky,29.0,81.0,35.8,Stropkov,Prešovský
+Šandal,32.0,248.0,12.9,Stropkov,Prešovský
+Soľník,11.0,39.0,28.2,Stropkov,Prešovský
+Staškovce,42.0,193.0,21.76,Stropkov,Prešovský
+Stropkov,907.0,8237.0,11.01,Stropkov,Prešovský
+Tisinec,48.0,332.0,14.45,Stropkov,Prešovský
+Tokajík,29.0,98.0,29.59,Stropkov,Prešovský
+Turany nad Ondavou,47.0,337.0,13.94,Stropkov,Prešovský
+Varechovce,47.0,145.0,32.41,Stropkov,Prešovský
+Veľkrop,29.0,171.0,16.95,Stropkov,Prešovský
+Vislava,38.0,181.0,20.99,Stropkov,Prešovský
+Vladiča,30.0,50.0,60.0,Stropkov,Prešovský
+Vojtovce,28.0,103.0,27.18,Stropkov,Prešovský
+Vyškovce,31.0,123.0,25.2,Stropkov,Prešovský
+Vyšná Olšava,83.0,483.0,17.39,Stropkov,Prešovský
+Vyšný Hrabovec,73.0,145.0,51.03,Stropkov,Prešovský
+Belejovce,11.0,28.0,39.28,Svidník,Prešovský
+Beňadikovce,41.0,201.0,20.39,Svidník,Prešovský
+Bodružal,29.0,57.0,50.87,Svidník,Prešovský
+Cernina,80.0,461.0,17.35,Svidník,Prešovský
+Cigla,28.0,85.0,32.94,Svidník,Prešovský
+Dlhoňa,25.0,58.0,43.1,Svidník,Prešovský
+Dobroslava,20.0,38.0,55.26,Svidník,Prešovský
+Dubová,42.0,200.0,21.0,Svidník,Prešovský
+Dukovce,49.0,216.0,22.68,Svidník,Prešovský
+Fijaš,46.0,124.0,37.9,Svidník,Prešovský
+Giraltovce,328.0,3054.0,10.74,Svidník,Prešovský
+Havranec,10.0,19.0,52.63,Svidník,Prešovský
+Hrabovčík,43.0,244.0,17.62,Svidník,Prešovský
+Hunkovce,37.0,259.0,14.28,Svidník,Prešovský
+Jurkova Voľa,16.0,75.0,21.33,Svidník,Prešovský
+Kalnište,60.0,422.0,14.21,Svidník,Prešovský
+Kapišová,46.0,323.0,14.24,Svidník,Prešovský
+Kečkovce,50.0,197.0,25.38,Svidník,Prešovský
+Kobylnice,23.0,86.0,26.74,Svidník,Prešovský
+Korejovce,24.0,61.0,39.34,Svidník,Prešovský
+Kračúnovce,114.0,920.0,12.39,Svidník,Prešovský
+Krajná Bystrá,78.0,282.0,27.65,Svidník,Prešovský
+Krajná Poľana,43.0,153.0,28.1,Svidník,Prešovský
+Krajná Porúbka,16.0,51.0,31.37,Svidník,Prešovský
+Krajné Čierno,25.0,66.0,37.87,Svidník,Prešovský
+Kružlová,64.0,462.0,13.85,Svidník,Prešovský
+Kuková,82.0,567.0,14.46,Svidník,Prešovský
+Kurimka,98.0,309.0,31.71,Svidník,Prešovský
+Ladomirová,62.0,730.0,8.49,Svidník,Prešovský
+Lúčka,44.0,398.0,11.05,Svidník,Prešovský
+Lužany pri Topli,50.0,203.0,24.63,Svidník,Prešovský
+Matovce,30.0,109.0,27.52,Svidník,Prešovský
+Medvedie,31.0,50.0,62.0,Svidník,Prešovský
+Mestisko,68.0,383.0,17.75,Svidník,Prešovský
+Mičakovce,35.0,113.0,30.97,Svidník,Prešovský
+Miroľa,33.0,69.0,47.82,Svidník,Prešovský
+Mlynárovce,86.0,175.0,49.14,Svidník,Prešovský
+Nižná Jedľová,22.0,81.0,27.16,Svidník,Prešovský
+Nižná Pisaná,28.0,72.0,38.88,Svidník,Prešovský
+Nižný Komárnik,36.0,133.0,27.06,Svidník,Prešovský
+Nižný Mirošov,37.0,223.0,16.59,Svidník,Prešovský
+Nižný Orlík,57.0,256.0,22.26,Svidník,Prešovský
+Nová Polianka,21.0,51.0,41.17,Svidník,Prešovský
+Okrúhle,60.0,535.0,11.58,Svidník,Prešovský
+Príkra,14.0,18.0,77.77,Svidník,Prešovský
+Pstriná,22.0,63.0,34.92,Svidník,Prešovský
+Radoma,158.0,362.0,43.64,Svidník,Prešovský
+Rakovčík,42.0,129.0,32.55,Svidník,Prešovský
+Rovné,41.0,394.0,10.4,Svidník,Prešovský
+Roztoky,30.0,244.0,12.29,Svidník,Prešovský
+Šarbov,17.0,24.0,70.83,Svidník,Prešovský
+Šarišský Štiavnik,31.0,232.0,13.36,Svidník,Prešovský
+Šemetkovce,19.0,84.0,22.61,Svidník,Prešovský
+Soboš,42.0,108.0,38.88,Svidník,Prešovský
+Štefurov,15.0,98.0,15.3,Svidník,Prešovský
+Stročín,50.0,399.0,12.53,Svidník,Prešovský
+Svidnička,25.0,125.0,20.0,Svidník,Prešovský
+Svidník,967.0,9147.0,10.59,Svidník,Prešovský
+Vagrinec,29.0,115.0,25.21,Svidník,Prešovský
+Valkovce,26.0,184.0,14.13,Svidník,Prešovský
+Vápeník,18.0,44.0,40.9,Svidník,Prešovský
+Vyšná Jedľová,51.0,165.0,30.9,Svidník,Prešovský
+Vyšná Pisaná,21.0,66.0,31.81,Svidník,Prešovský
+Vyšný Komárnik,22.0,73.0,30.13,Svidník,Prešovský
+Vyšný Mirošov,112.0,446.0,25.11,Svidník,Prešovský
+Vyšný Orlík,56.0,334.0,16.76,Svidník,Prešovský
+Železník,64.0,368.0,17.39,Svidník,Prešovský
+Želmanovce,29.0,267.0,10.86,Svidník,Prešovský
+Babie,54.0,200.0,27.0,Vranov nad Topľou,Prešovský
+Banské,80.0,1139.0,7.02,Vranov nad Topľou,Prešovský
+Benkovce,57.0,421.0,13.53,Vranov nad Topľou,Prešovský
+Bystré,187.0,2146.0,8.71,Vranov nad Topľou,Prešovský
+Cabov,55.0,328.0,16.76,Vranov nad Topľou,Prešovský
+Čaklov,173.0,1784.0,9.69,Vranov nad Topľou,Prešovský
+Čičava,47.0,731.0,6.42,Vranov nad Topľou,Prešovský
+Čierne nad Topľou,80.0,625.0,12.8,Vranov nad Topľou,Prešovský
+Ďapalovce,52.0,359.0,14.48,Vranov nad Topľou,Prešovský
+Davidov,64.0,662.0,9.66,Vranov nad Topľou,Prešovský
+Detrík,18.0,48.0,37.5,Vranov nad Topľou,Prešovský
+Dlhé Klčovo,101.0,1088.0,9.28,Vranov nad Topľou,Prešovský
+Ďurďoš,16.0,187.0,8.55,Vranov nad Topľou,Prešovský
+Giglovce,22.0,144.0,15.27,Vranov nad Topľou,Prešovský
+Girovce,35.0,66.0,53.03,Vranov nad Topľou,Prešovský
+Hanušovce nad Topľou,232.0,2819.0,8.22,Vranov nad Topľou,Prešovský
+Hencovce,109.0,1003.0,10.86,Vranov nad Topľou,Prešovský
+Hermanovce nad Topľou,67.0,560.0,11.96,Vranov nad Topľou,Prešovský
+Hlinné,81.0,1226.0,6.6,Vranov nad Topľou,Prešovský
+Holčíkovce,51.0,342.0,14.91,Vranov nad Topľou,Prešovský
+Jasenovce,62.0,183.0,33.87,Vranov nad Topľou,Prešovský
+Jastrabie nad Topľou,70.0,348.0,20.11,Vranov nad Topľou,Prešovský
+Juskova Voľa,50.0,254.0,19.68,Vranov nad Topľou,Prešovský
+Kamenná Poruba,67.0,815.0,8.22,Vranov nad Topľou,Prešovský
+Kladzany,53.0,455.0,11.64,Vranov nad Topľou,Prešovský
+Komárany,94.0,386.0,24.61,Vranov nad Topľou,Prešovský
+Kučín,23.0,380.0,6.05,Vranov nad Topľou,Prešovský
+Kvakovce,27.0,353.0,7.64,Vranov nad Topľou,Prešovský
+Majerovce,51.0,364.0,14.01,Vranov nad Topľou,Prešovský
+Malá Domaša,108.0,362.0,29.83,Vranov nad Topľou,Prešovský
+Matiaška,26.0,219.0,11.87,Vranov nad Topľou,Prešovský
+Medzianky,41.0,262.0,15.64,Vranov nad Topľou,Prešovský
+Merník,44.0,502.0,8.76,Vranov nad Topľou,Prešovský
+Michalok,45.0,261.0,17.24,Vranov nad Topľou,Prešovský
+Nižný Hrabovec,106.0,1268.0,8.35,Vranov nad Topľou,Prešovský
+Nižný Hrušov,122.0,1328.0,9.26,Vranov nad Topľou,Prešovský
+Nižný Kručov,47.0,333.0,14.11,Vranov nad Topľou,Prešovský
+Nová Kelča,66.0,286.0,23.07,Vranov nad Topľou,Prešovský
+Ondavské Matiašovce,72.0,607.0,11.86,Vranov nad Topľou,Prešovský
+Pavlovce,67.0,579.0,11.57,Vranov nad Topľou,Prešovský
+Petkovce,20.0,126.0,15.87,Vranov nad Topľou,Prešovský
+Petrovce,40.0,368.0,10.86,Vranov nad Topľou,Prešovský
+Piskorovce,18.0,137.0,13.13,Vranov nad Topľou,Prešovský
+Poša,39.0,626.0,6.38,Vranov nad Topľou,Prešovský
+Prosačov,28.0,140.0,20.0,Vranov nad Topľou,Prešovský
+Radvanovce,12.0,171.0,7.01,Vranov nad Topľou,Prešovský
+Rafajovce,29.0,138.0,21.01,Vranov nad Topľou,Prešovský
+Remeniny,42.0,227.0,18.5,Vranov nad Topľou,Prešovský
+Rudlov,73.0,500.0,14.6,Vranov nad Topľou,Prešovský
+Ruská Voľa,20.0,57.0,35.08,Vranov nad Topľou,Prešovský
+Sačurov,115.0,1561.0,7.43,Vranov nad Topľou,Prešovský
+Sečovská Polianka,190.0,2164.0,8.78,Vranov nad Topľou,Prešovský
+Sedliská,140.0,1030.0,13.59,Vranov nad Topľou,Prešovský
+Skrabské,52.0,562.0,9.25,Vranov nad Topľou,Prešovský
+Slovenská Kajňa,57.0,662.0,8.61,Vranov nad Topľou,Prešovský
+Soľ,241.0,1745.0,13.81,Vranov nad Topľou,Prešovský
+Štefanovce,17.0,100.0,17.0,Vranov nad Topľou,Prešovský
+Tovarné,130.0,804.0,16.16,Vranov nad Topľou,Prešovský
+Tovarnianska Polianka,21.0,100.0,21.0,Vranov nad Topľou,Prešovský
+Vavrinec,18.0,61.0,29.5,Vranov nad Topľou,Prešovský
+Vechec,135.0,1682.0,8.14,Vranov nad Topľou,Prešovský
+Vlača,28.0,189.0,14.81,Vranov nad Topľou,Prešovský
+Vranov nad Topľou,1833.0,18070.0,10.14,Vranov nad Topľou,Prešovský
+Vyšný Kazimír,22.0,158.0,13.92,Vranov nad Topľou,Prešovský
+Vyšný Žipov,68.0,959.0,7.09,Vranov nad Topľou,Prešovský
+Žalobín,109.0,588.0,18.53,Vranov nad Topľou,Prešovský
+Zámutov,184.0,2134.0,8.66,Vranov nad Topľou,Prešovský
+Zlatník,25.0,70.0,35.71,Vranov nad Topľou,Prešovský
+Košice-Barca,524.0,2877.0,18.24,Košice,Košický
+Košice-Dargovských hrdinov,2529.0,22674.0,11.17,Košice,Košický
+Košice-Džungľa,47.0,489.0,9.61,Košice,Košický
+Košice-Juh,3068.0,19079.0,16.09,Košice,Košický
+Košice-Kavečany,109.0,991.0,10.99,Košice,Košický
+Košice-Košická Nová Ves,274.0,2094.0,13.08,Košice,Košický
+Košice-Krásna,367.0,3359.0,10.95,Košice,Košický
+Košice-Lorinčík,80.0,414.0,19.32,Košice,Košický
+Košice-Luník IX,28.0,3745.0,0.74,Košice,Košický
+Košice-Myslava,265.0,1678.0,15.85,Košice,Košický
+Košice-Nad jazerom,2601.0,20212.0,12.88,Košice,Košický
+Košice-Pereš,182.0,1379.0,13.19,Košice,Košický
+Košice-Poľov,88.0,888.0,9.9,Košice,Košický
+Košice-Šaca,303.0,4101.0,7.38,Košice,Košický
+Košice-Šebastovce,89.0,537.0,16.57,Košice,Košický
+Košice-Sever,2916.0,16727.0,17.49,Košice,Košický
+Košice-Sídlisko KVP,2338.0,20677.0,11.3,Košice,Košický
+Košice-Sídlisko Ťahanovce,1755.0,18450.0,9.51,Košice,Košický
+Košice-Staré Mesto,3169.0,17890.0,17.74,Košice,Košický
+Košice-Ťahanovce,224.0,1676.0,13.42,Košice,Košický
+Košice-Vyšné Opátske,274.0,1588.0,17.31,Košice,Košický
+Košice-Západ,4533.0,33202.0,13.67,Košice,Košický
+Bačkovík,30.0,325.0,9.23,Košice - okolie,Košický
+Baška,55.0,412.0,13.34,Košice - okolie,Košický
+Belža,35.0,324.0,10.8,Košice - okolie,Košický
+Beniakovce,69.0,512.0,13.47,Košice - okolie,Košický
+Bidovce,89.0,1040.0,8.55,Košice - okolie,Košický
+Blažice,48.0,440.0,10.9,Košice - okolie,Košický
+Bočiar,13.0,191.0,6.8,Košice - okolie,Košický
+Bohdanovce,56.0,822.0,6.81,Košice - okolie,Košický
+Boliarov,29.0,462.0,6.27,Košice - okolie,Košický
+Budimír,143.0,895.0,16.08,Košice - okolie,Košický
+Bukovec,88.0,682.0,12.9,Košice - okolie,Košický
+Bunetice,20.0,71.0,28.16,Košice - okolie,Košický
+Buzica,134.0,953.0,14.06,Košice - okolie,Košický
+Čakanovce,39.0,437.0,8.92,Košice - okolie,Košický
+Čaňa,350.0,4157.0,8.41,Košice - okolie,Košický
+Čečejovce,185.0,1652.0,11.19,Košice - okolie,Košický
+Cestice,87.0,689.0,12.62,Košice - okolie,Košický
+Chorváty,38.0,94.0,40.42,Košice - okolie,Košický
+Chrastné,46.0,353.0,13.03,Košice - okolie,Košický
+Čižatice,73.0,316.0,23.1,Košice - okolie,Košický
+Debraď,155.0,318.0,48.74,Košice - okolie,Košický
+Drienovec,115.0,1505.0,7.64,Košice - okolie,Košický
+Družstevná pri Hornáde,157.0,1923.0,8.16,Košice - okolie,Košický
+Ďurďošík,50.0,341.0,14.66,Košice - okolie,Košický
+Ďurkov,83.0,1180.0,7.11,Košice - okolie,Košický
+Dvorníky-Včeláre,87.0,378.0,23.01,Košice - okolie,Košický
+Geča,93.0,1323.0,7.02,Košice - okolie,Košický
+Gyňov,74.0,499.0,14.82,Košice - okolie,Košický
+Hačava,22.0,158.0,13.92,Košice - okolie,Košický
+Háj,104.0,258.0,40.31,Košice - okolie,Košický
+Haniska,124.0,1134.0,10.93,Košice - okolie,Košický
+Herľany,39.0,223.0,17.48,Košice - okolie,Košický
+Hodkovce,40.0,226.0,17.69,Košice - okolie,Košický
+Hosťovce,70.0,166.0,42.16,Košice - okolie,Košický
+Hrašovík,50.0,280.0,17.85,Košice - okolie,Košický
+Hýľov,48.0,410.0,11.7,Košice - okolie,Košický
+Janík,55.0,492.0,11.17,Košice - okolie,Košický
+Jasov,327.0,2125.0,15.43,Košice - okolie,Košický
+Kalša,72.0,573.0,12.56,Košice - okolie,Košický
+Kecerovce,122.0,1860.0,6.66,Košice - okolie,Košický
+Kecerovský Lipovec,35.0,105.0,33.33,Košice - okolie,Košický
+Kechnec,139.0,857.0,16.21,Košice - okolie,Košický
+Kokšov-Bakša,69.0,935.0,7.37,Košice - okolie,Košický
+Komárovce,90.0,325.0,27.69,Košice - okolie,Košický
+Košická Belá,70.0,810.0,8.64,Košice - okolie,Košický
+Košická Polianka,61.0,812.0,7.51,Košice - okolie,Košický
+Košické Oľšany,114.0,944.0,12.07,Košice - okolie,Košický
+Košický Klečenov,59.0,230.0,25.65,Košice - okolie,Košický
+Kostoľany nad Hornádom,117.0,994.0,11.77,Košice - okolie,Košický
+Kráľovce,105.0,812.0,12.93,Košice - okolie,Košický
+Kysak,142.0,1195.0,11.88,Košice - okolie,Košický
+Malá Ida,157.0,1125.0,13.95,Košice - okolie,Košický
+Malá Lodina,18.0,170.0,10.58,Košice - okolie,Košický
+Medzev,209.0,2946.0,7.23,Košice - okolie,Košický
+Milhosť,21.0,296.0,7.09,Košice - okolie,Košický
+Mokrance,130.0,1152.0,11.28,Košice - okolie,Košický
+Moldava nad Bodvou,1017.0,7747.0,13.12,Košice - okolie,Košický
+Mudrovce,30.0,73.0,41.09,Košice - okolie,Košický
+Nižná Hutka,65.0,479.0,13.56,Košice - okolie,Košický
+Nižná Kamenica,55.0,445.0,12.35,Košice - okolie,Košický
+Nižná Myšľa,100.0,1127.0,8.87,Košice - okolie,Košický
+Nižný Čaj,31.0,217.0,14.28,Košice - okolie,Košický
+Nižný Klátov,86.0,631.0,13.62,Košice - okolie,Košický
+Nižný Lánec,49.0,309.0,15.85,Košice - okolie,Košický
+Nová Polhora,55.0,341.0,16.12,Košice - okolie,Košický
+Nováčany,59.0,560.0,10.53,Košice - okolie,Košický
+Nový Salaš,26.0,171.0,15.2,Košice - okolie,Košický
+Obišovce,52.0,330.0,16.06,Košice - okolie,Košický
+Olšovany,48.0,456.0,10.52,Košice - okolie,Košický
+Opátka,19.0,75.0,25.33,Košice - okolie,Košický
+Opiná,22.0,154.0,14.28,Košice - okolie,Košický
+Paňovce,73.0,483.0,15.11,Košice - okolie,Košický
+Peder,53.0,341.0,15.54,Košice - okolie,Košický
+Perín-Chym,146.0,1242.0,11.75,Košice - okolie,Košický
+Ploské,117.0,678.0,17.25,Košice - okolie,Košický
+Poproč,227.0,2337.0,9.71,Košice - okolie,Košický
+Rákoš,37.0,276.0,13.4,Košice - okolie,Košický
+Rankovce,59.0,459.0,12.85,Košice - okolie,Košický
+Rešica,37.0,292.0,12.67,Košice - okolie,Košický
+Rozhanovce,208.0,1855.0,11.21,Košice - okolie,Košický
+Rudník,44.0,523.0,8.41,Košice - okolie,Košický
+Ruskov,92.0,1137.0,8.09,Košice - okolie,Košický
+Sady nad Torysou,157.0,1487.0,10.55,Košice - okolie,Košický
+Šemša,58.0,648.0,8.95,Košice - okolie,Košický
+Seňa,158.0,1677.0,9.42,Košice - okolie,Košický
+Skároš,80.0,856.0,9.34,Košice - okolie,Košický
+Slančík,23.0,186.0,12.36,Košice - okolie,Košický
+Slanec,96.0,1104.0,8.78,Košice - okolie,Košický
+Slanská Huta,46.0,190.0,24.21,Košice - okolie,Košický
+Slanské Nové Mesto,50.0,423.0,11.82,Košice - okolie,Košický
+Sokoľ,95.0,848.0,11.2,Košice - okolie,Košický
+Sokoľany,52.0,918.0,5.66,Košice - okolie,Košický
+Štós,105.0,581.0,18.07,Košice - okolie,Košický
+Svinica,64.0,698.0,9.16,Košice - okolie,Košický
+Trebejov,28.0,159.0,17.61,Košice - okolie,Košický
+Trsťany,58.0,234.0,24.78,Košice - okolie,Košický
+Trstené pri Hornáde,91.0,1167.0,7.79,Košice - okolie,Košický
+Turňa nad Bodvou,259.0,2690.0,9.62,Košice - okolie,Košický
+Turnianska Nová Ves,100.0,281.0,35.58,Košice - okolie,Košický
+Vajkovce,58.0,551.0,10.52,Košice - okolie,Košický
+Valaliky,241.0,3187.0,7.56,Košice - okolie,Košický
+Veľká Ida,156.0,2173.0,7.17,Košice - okolie,Košický
+Veľká Lodina,24.0,230.0,10.43,Košice - okolie,Košický
+Vtáčkovce,45.0,636.0,7.07,Košice - okolie,Košický
+Vyšná Hutka,33.0,351.0,9.4,Košice - okolie,Košický
+Vyšná Kamenica,37.0,205.0,18.04,Košice - okolie,Košický
+Vyšná Myšľa,54.0,775.0,6.96,Košice - okolie,Košický
+Vyšný Čaj,25.0,249.0,10.04,Košice - okolie,Košický
+Vyšný Klátov,46.0,367.0,12.53,Košice - okolie,Košický
+Vyšný Medzev,59.0,451.0,13.3,Košice - okolie,Košický
+Zádiel,36.0,138.0,26.08,Košice - okolie,Košický
+Žarnov,64.0,347.0,18.44,Košice - okolie,Košický
+Ždaňa,117.0,1075.0,10.88,Košice - okolie,Košický
+Zlatá Idka,41.0,316.0,12.97,Košice - okolie,Košický
+Bajany,54.0,382.0,14.13,Michalovce,Košický
+Bánovce nad Ondavou,50.0,583.0,8.57,Michalovce,Košický
+Baškovce,87.0,206.0,42.23,Michalovce,Košický
+Beňatina,51.0,188.0,27.12,Michalovce,Košický
+Beša,149.0,300.0,49.66,Michalovce,Košický
+Bežovce,72.0,785.0,9.17,Michalovce,Košický
+Blatná Polianka,29.0,145.0,20.0,Michalovce,Košický
+Blatné Remety,89.0,455.0,19.56,Michalovce,Košický
+Blatné Revištia,30.0,192.0,15.62,Michalovce,Košický
+Bracovce,60.0,743.0,8.07,Michalovce,Košický
+Budince,47.0,163.0,28.83,Michalovce,Košický
+Budkovce,152.0,1187.0,12.8,Michalovce,Košický
+Bunkovce,42.0,265.0,15.84,Michalovce,Košický
+Čečehov,41.0,301.0,13.62,Michalovce,Košický
+Choňkovce,59.0,459.0,12.85,Michalovce,Košický
+Čičarovce,220.0,696.0,31.6,Michalovce,Košický
+Čierne Pole,77.0,258.0,29.84,Michalovce,Košický
+Drahňov,43.0,857.0,5.01,Michalovce,Košický
+Dúbravka,45.0,567.0,7.93,Michalovce,Košický
+Falkušovce,33.0,518.0,6.37,Michalovce,Košický
+Fekišovce,27.0,257.0,10.5,Michalovce,Košický
+Hatalov,73.0,615.0,11.86,Michalovce,Košický
+Hažín,38.0,395.0,9.62,Michalovce,Košický
+Hlivištia,41.0,310.0,13.22,Michalovce,Košický
+Hnojné,56.0,182.0,30.76,Michalovce,Košický
+Horňa,27.0,293.0,9.21,Michalovce,Košický
+Horovce,50.0,673.0,7.42,Michalovce,Košický
+Husák,27.0,138.0,19.56,Michalovce,Košický
+Iňačovce,36.0,481.0,7.48,Michalovce,Košický
+Inovce,31.0,188.0,16.48,Michalovce,Košický
+Ižkovce,42.0,87.0,48.27,Michalovce,Košický
+Jasenov,24.0,254.0,9.44,Michalovce,Košický
+Jastrabie pri Michalovciach,32.0,252.0,12.69,Michalovce,Košický
+Jenkovce,44.0,359.0,12.25,Michalovce,Košický
+Jovsa,56.0,671.0,8.34,Michalovce,Košický
+Kačanov,23.0,312.0,7.37,Michalovce,Košický
+Kaluža,50.0,331.0,15.1,Michalovce,Košický
+Kapušianske Kľačany,168.0,639.0,26.29,Michalovce,Košický
+Klokočov,40.0,321.0,12.46,Michalovce,Košický
+Kolibabovce,18.0,137.0,13.13,Michalovce,Košický
+Koňuš,70.0,286.0,24.47,Michalovce,Košický
+Koromľa,63.0,367.0,17.16,Michalovce,Košický
+Krásnovce,63.0,515.0,12.23,Michalovce,Košický
+Krčava,52.0,348.0,14.94,Michalovce,Košický
+Krišovská Liesková,117.0,658.0,17.78,Michalovce,Košický
+Kristy,34.0,236.0,14.4,Michalovce,Košický
+Kusín,46.0,286.0,16.08,Michalovce,Košický
+Laškovce,37.0,426.0,8.68,Michalovce,Košický
+Lastomír,85.0,926.0,9.17,Michalovce,Košický
+Lekárovce,66.0,801.0,8.23,Michalovce,Košický
+Lesné,44.0,344.0,12.79,Michalovce,Košický
+Ložín,63.0,627.0,10.04,Michalovce,Košický
+Lúčky,31.0,430.0,7.2,Michalovce,Košický
+Malčice,48.0,999.0,4.8,Michalovce,Košický
+Malé Raškovce,50.0,200.0,25.0,Michalovce,Košický
+Markovce,168.0,562.0,29.89,Michalovce,Košický
+Maťovské Vojkovce,110.0,481.0,22.86,Michalovce,Košický
+Michalovce,3199.0,31694.0,10.12,Michalovce,Košický
+Moravany,71.0,833.0,8.52,Michalovce,Košický
+Nacina Ves,161.0,1356.0,11.87,Michalovce,Košický
+Nižná Rybnica,54.0,331.0,16.31,Michalovce,Košický
+Nižné Nemecké,41.0,283.0,14.48,Michalovce,Košický
+Oborín,135.0,570.0,23.68,Michalovce,Košický
+Orechová,30.0,177.0,16.94,Michalovce,Košický
+Oreské,53.0,411.0,12.89,Michalovce,Košický
+Ostrov,39.0,242.0,16.11,Michalovce,Košický
+Palín,40.0,705.0,5.67,Michalovce,Košický
+Pavlovce nad Uhom,135.0,3062.0,4.4,Michalovce,Košický
+Petrikovce,33.0,156.0,21.15,Michalovce,Košický
+Petrovce,48.0,190.0,25.26,Michalovce,Košický
+Petrovce nad Laborcom,73.0,750.0,9.73,Michalovce,Košický
+Pinkovce,41.0,151.0,27.15,Michalovce,Košický
+Podhoroď,30.0,313.0,9.58,Michalovce,Košický
+Porostov,35.0,176.0,19.88,Michalovce,Košický
+Poruba pod Vihorlatom,50.0,513.0,9.74,Michalovce,Košický
+Porúbka,44.0,342.0,12.86,Michalovce,Košický
+Pozdišovce,96.0,1016.0,9.44,Michalovce,Košický
+Priekopa,41.0,247.0,16.59,Michalovce,Košický
+Ptrukša,81.0,415.0,19.51,Michalovce,Košický
+Pusté Čemerné,87.0,303.0,28.71,Michalovce,Košický
+Rakovec nad Ondavou,80.0,806.0,9.92,Michalovce,Košický
+Remetské Hámre,39.0,499.0,7.81,Michalovce,Košický
+Ruská,77.0,476.0,16.17,Michalovce,Košický
+Ruská Bystrá,28.0,90.0,31.11,Michalovce,Košický
+Ruskovce,47.0,221.0,21.26,Michalovce,Košický
+Ruský Hrabovec,74.0,271.0,27.3,Michalovce,Košický
+Šamudovce,40.0,418.0,9.56,Michalovce,Košický
+Sejkov,38.0,176.0,21.59,Michalovce,Košický
+Senné,49.0,580.0,8.44,Michalovce,Košický
+Slavkovce,49.0,467.0,10.7,Michalovce,Košický
+Sliepkovce,37.0,574.0,6.44,Michalovce,Košický
+Sobrance,535.0,4573.0,11.72,Michalovce,Košický
+Staré,54.0,659.0,8.19,Michalovce,Košický
+Strážske,310.0,3598.0,8.61,Michalovce,Košický
+Stretava,18.0,493.0,3.65,Michalovce,Košický
+Stretavka,27.0,161.0,16.77,Michalovce,Košický
+Suché,58.0,333.0,17.41,Michalovce,Košický
+Svätuš,40.0,97.0,41.23,Michalovce,Košický
+Tašuľa,40.0,169.0,23.66,Michalovce,Košický
+Tibava,60.0,473.0,12.68,Michalovce,Košický
+Trhovište,84.0,1280.0,6.56,Michalovce,Košický
+Trnava pri Laborci,53.0,470.0,11.27,Michalovce,Košický
+Tušice,28.0,572.0,4.89,Michalovce,Košický
+Tušická Nová Ves,50.0,462.0,10.82,Michalovce,Košický
+Úbrež,50.0,518.0,9.65,Michalovce,Košický
+Veľké Kapušany,603.0,7537.0,8.0,Michalovce,Košický
+Veľké Raškovce,62.0,269.0,23.04,Michalovce,Košický
+Veľké Revištia,83.0,419.0,20.52,Michalovce,Košický
+Veľké Slemence,86.0,466.0,18.45,Michalovce,Košický
+Vinné,148.0,1428.0,10.36,Michalovce,Košický
+Vojany,55.0,638.0,8.62,Michalovce,Košický
+Vojnatina,12.0,201.0,5.97,Michalovce,Košický
+Voľa,23.0,205.0,11.21,Michalovce,Košický
+Vrbnica,39.0,567.0,6.87,Michalovce,Košický
+Vyšná Rybnica,28.0,317.0,8.83,Michalovce,Košický
+Vyšné Nemecké,40.0,187.0,21.39,Michalovce,Košický
+Vyšné Remety,18.0,332.0,5.42,Michalovce,Košický
+Vysoká nad Uhom,44.0,673.0,6.53,Michalovce,Košický
+Záhor,60.0,547.0,10.96,Michalovce,Košický
+Zalužice,136.0,945.0,14.39,Michalovce,Košický
+Závadka,27.0,365.0,7.39,Michalovce,Košický
+Žbince,41.0,703.0,5.83,Michalovce,Košický
+Zbudza,48.0,449.0,10.69,Michalovce,Košický
+Zemplínska Široká,56.0,747.0,7.49,Michalovce,Košický
+Zemplínske Kopčany,61.0,239.0,25.52,Michalovce,Košický
+Ardovo,31.0,138.0,22.46,Rožňava,Košický
+Betliar,141.0,822.0,17.15,Rožňava,Košický
+Bohúňovo,49.0,243.0,20.16,Rožňava,Košický
+Bôrka,43.0,309.0,13.91,Rožňava,Košický
+Brdárka,10.0,47.0,21.27,Rožňava,Košický
+Bretka,157.0,295.0,53.22,Rožňava,Košický
+Brzotín,103.0,988.0,10.42,Rožňava,Košický
+Čierna Lehota,71.0,508.0,14.17,Rožňava,Košický
+Čoltovo,39.0,367.0,10.62,Rožňava,Košický
+Čučma,54.0,547.0,9.87,Rožňava,Košický
+Dedinky,51.0,264.0,19.31,Rožňava,Košický
+Dlhá Ves,32.0,469.0,6.82,Rožňava,Košický
+Dobšiná,193.0,3664.0,5.26,Rožňava,Košický
+Drnava,53.0,526.0,10.07,Rožňava,Košický
+Gemerská Hôrka,65.0,1019.0,6.47,Rožňava,Košický
+Gemerská Panica,114.0,523.0,21.79,Rožňava,Košický
+Gemerská Poloma,132.0,1623.0,8.13,Rožňava,Košický
+Gočaltovo,36.0,198.0,18.18,Rožňava,Košický
+Gočovo,85.0,314.0,27.07,Rožňava,Košický
+Hanková,15.0,48.0,31.25,Rožňava,Košický
+Henckovce,47.0,327.0,14.37,Rožňava,Košický
+Honce,32.0,311.0,10.28,Rožňava,Košický
+Hrhov,142.0,917.0,15.48,Rožňava,Košický
+Hrušov,38.0,287.0,13.24,Rožňava,Košický
+Jablonov nad Turňou,78.0,670.0,11.64,Rožňava,Košický
+Jovice,49.0,579.0,8.46,Rožňava,Košický
+Kečovo,66.0,318.0,20.75,Rožňava,Košický
+Kobeliarovo,34.0,302.0,11.25,Rožňava,Košický
+Koceľovce,21.0,204.0,10.29,Rožňava,Košický
+Kováčová,17.0,60.0,28.33,Rožňava,Košický
+Krásnohorská Dlhá Lúka,84.0,593.0,14.16,Rožňava,Košický
+Krásnohorské Podhradie,321.0,1877.0,17.1,Rožňava,Košický
+Kružná,22.0,409.0,5.37,Rožňava,Košický
+Kunova Teplica,32.0,553.0,5.78,Rožňava,Košický
+Lipovník,108.0,426.0,25.35,Rožňava,Košický
+Lúčka,39.0,171.0,22.8,Rožňava,Košický
+Markuška,29.0,128.0,22.65,Rožňava,Košický
+Meliata,33.0,173.0,19.07,Rožňava,Košický
+Nižná Slaná,103.0,951.0,10.83,Rožňava,Košický
+Ochtiná,35.0,413.0,8.47,Rožňava,Košický
+Pača,58.0,504.0,11.5,Rožňava,Košický
+Pašková,36.0,251.0,14.34,Rožňava,Košický
+Petrovo,19.0,74.0,25.67,Rožňava,Košický
+Plešivec,171.0,1888.0,9.05,Rožňava,Košický
+Rakovnica,40.0,522.0,7.66,Rožňava,Košický
+Rejdová,58.0,523.0,11.08,Rožňava,Košický
+Rochovce,33.0,244.0,13.52,Rožňava,Košický
+Roštár,31.0,371.0,8.35,Rožňava,Košický
+Rozložná,25.0,142.0,17.6,Rožňava,Košický
+Rožňava,1506.0,15031.0,10.02,Rožňava,Košický
+Rožňavské Bystré,74.0,491.0,15.07,Rožňava,Košický
+Rudná,73.0,646.0,11.3,Rožňava,Košický
+Silica,58.0,435.0,13.33,Rožňava,Košický
+Silická Brezová,33.0,139.0,23.74,Rožňava,Košický
+Silická Jablonica,59.0,184.0,32.06,Rožňava,Košický
+Slavec,92.0,381.0,24.14,Rožňava,Košický
+Slavoška,14.0,88.0,15.9,Rožňava,Košický
+Slavošovce,113.0,1384.0,8.16,Rožňava,Košický
+Štítnik,99.0,1205.0,8.21,Rožňava,Košický
+Stratená,36.0,122.0,29.5,Rožňava,Košický
+Vlachovo,86.0,735.0,11.83,Rožňava,Košický
+Vyšná Slaná,56.0,425.0,13.17,Rožňava,Košický
+Arnutovce,37.0,466.0,7.93,Spišská Nová Ves,Košický
+Betlanovce,19.0,485.0,3.91,Spišská Nová Ves,Košický
+Bystrany,84.0,1827.0,4.59,Spišská Nová Ves,Košický
+Chrasť nad Hornádom,33.0,594.0,5.55,Spišská Nová Ves,Košický
+Danišovce,40.0,426.0,9.38,Spišská Nová Ves,Košický
+Gelnica,381.0,5124.0,7.45,Spišská Nová Ves,Košický
+Harichovce,169.0,1490.0,11.34,Spišská Nová Ves,Košický
+Helcmanovce,87.0,1176.0,7.39,Spišská Nová Ves,Košický
+Henclová,21.0,100.0,21.0,Spišská Nová Ves,Košický
+Hincovce,25.0,178.0,14.04,Spišská Nová Ves,Košický
+Hnilčík,47.0,464.0,10.12,Spišská Nová Ves,Košický
+Hnilec,49.0,384.0,12.76,Spišská Nová Ves,Košický
+Hrabušice,133.0,1760.0,7.61,Spišská Nová Ves,Košický
+Hrišovce,40.0,262.0,15.26,Spišská Nová Ves,Košický
+Iliašovce,85.0,764.0,11.12,Spišská Nová Ves,Košický
+Jaklovce,109.0,1539.0,7.08,Spišská Nová Ves,Košický
+Jamník,119.0,905.0,13.14,Spišská Nová Ves,Košický
+Kaľava,18.0,327.0,5.5,Spišská Nová Ves,Košický
+Kluknava,118.0,1319.0,8.94,Spišská Nová Ves,Košický
+Kojšov,86.0,599.0,14.35,Spišská Nová Ves,Košický
+Kolinovce,27.0,438.0,6.16,Spišská Nová Ves,Košický
+Krompachy,549.0,6596.0,8.32,Spišská Nová Ves,Košický
+Letanovce,163.0,1454.0,11.21,Spišská Nová Ves,Košický
+Lieskovany,56.0,247.0,22.67,Spišská Nová Ves,Košický
+Margecany,208.0,1674.0,12.42,Spišská Nová Ves,Košický
+Markušovce,150.0,2488.0,6.02,Spišská Nová Ves,Košický
+Matejovce nad Hornádom,73.0,430.0,16.97,Spišská Nová Ves,Košický
+Mlynky,70.0,468.0,14.95,Spišská Nová Ves,Košický
+Mníšek nad Hnilcom,88.0,1283.0,6.85,Spišská Nová Ves,Košický
+Nálepkovo,83.0,2043.0,4.06,Spišská Nová Ves,Košický
+Odorín,66.0,774.0,8.52,Spišská Nová Ves,Košický
+Olcnava,83.0,803.0,10.33,Spišská Nová Ves,Košický
+Oľšavka,19.0,155.0,12.25,Spišská Nová Ves,Košický
+Poráč,50.0,755.0,6.62,Spišská Nová Ves,Košický
+Prakovce,206.0,2663.0,7.73,Spišská Nová Ves,Košický
+Richnava,59.0,1368.0,4.31,Spišská Nová Ves,Košický
+Rudňany,151.0,2429.0,6.21,Spišská Nová Ves,Košický
+Slatvina,23.0,255.0,9.01,Spišská Nová Ves,Košický
+Slovinky,112.0,1469.0,7.62,Spišská Nová Ves,Košický
+Smižany,641.0,6602.0,9.7,Spišská Nová Ves,Košický
+Smolnícka Huta,24.0,374.0,6.41,Spišská Nová Ves,Košický
+Smolník,93.0,909.0,10.23,Spišská Nová Ves,Košický
+Spišská Nová Ves,3523.0,29817.0,11.82,Spišská Nová Ves,Košický
+Spišské Tomášovce,93.0,1335.0,6.96,Spišská Nová Ves,Košický
+Spišské Vlachy,250.0,2793.0,8.95,Spišská Nová Ves,Košický
+Spišský Hrušov,56.0,973.0,5.75,Spišská Nová Ves,Košický
+Stará Voda,26.0,171.0,15.2,Spišská Nová Ves,Košický
+Švedlár,53.0,1489.0,3.55,Spišská Nová Ves,Košický
+Teplička,95.0,913.0,10.4,Spišská Nová Ves,Košický
+Úhorná,19.0,110.0,17.27,Spišská Nová Ves,Košický
+Veľký Folkmar,69.0,745.0,9.26,Spišská Nová Ves,Košický
+Vítkovce,30.0,372.0,8.06,Spišská Nová Ves,Košický
+Vojkovce,48.0,351.0,13.96,Spišská Nová Ves,Košický
+Žakarovce,54.0,571.0,9.45,Spišská Nová Ves,Košický
+Závadka,38.0,385.0,9.87,Spišská Nová Ves,Košický
+Žehra,31.0,1034.0,2.99,Spišská Nová Ves,Košický
+Bačka,91.0,518.0,17.56,Trebišov,Košický
+Bačkov,105.0,477.0,22.01,Trebišov,Košický
+Bara,43.0,249.0,17.26,Trebišov,Košický
+Biel,95.0,1151.0,8.25,Trebišov,Košický
+Boľ,68.0,578.0,11.76,Trebišov,Košický
+Borša,183.0,1012.0,18.08,Trebišov,Košický
+Boťany,104.0,941.0,11.05,Trebišov,Košický
+Brehov,37.0,472.0,8.05,Trebišov,Košický
+Brezina,62.0,560.0,11.07,Trebišov,Košický
+Byšta,29.0,130.0,22.3,Trebišov,Košický
+Cejkov,75.0,961.0,7.8,Trebišov,Košický
+Čeľovce,39.0,414.0,9.42,Trebišov,Košický
+Čerhov,73.0,621.0,11.75,Trebišov,Košický
+Černochov,27.0,190.0,14.21,Trebišov,Košický
+Čierna,141.0,385.0,36.62,Trebišov,Košický
+Čierna nad Tisou,207.0,3028.0,6.83,Trebišov,Košický
+Dargov,58.0,496.0,11.69,Trebišov,Košický
+Dobrá,80.0,368.0,21.73,Trebišov,Košický
+Dvorianky,58.0,512.0,11.32,Trebišov,Košický
+Egreš,41.0,328.0,12.5,Trebišov,Košický
+Hraň,242.0,1274.0,18.99,Trebišov,Košický
+Hrčeľ,52.0,615.0,8.45,Trebišov,Košický
+Hriadky,30.0,394.0,7.61,Trebišov,Košický
+Kašov,39.0,247.0,15.78,Trebišov,Košický
+Kazimír,51.0,684.0,7.45,Trebišov,Košický
+Klin nad Bodrogom,21.0,174.0,12.06,Trebišov,Košický
+Kožuchov,38.0,188.0,20.21,Trebišov,Košický
+Kráľovský Chlmec,677.0,6255.0,10.82,Trebišov,Košický
+Kravany,37.0,256.0,15.23,Trebišov,Košický
+Kuzmice,80.0,1297.0,6.16,Trebišov,Košický
+Kysta,29.0,330.0,8.78,Trebišov,Košický
+Ladmovce,95.0,264.0,35.98,Trebišov,Košický
+Lastovce,34.0,789.0,4.3,Trebišov,Košický
+Leles,273.0,1430.0,19.09,Trebišov,Košický
+Luhyňa,27.0,257.0,10.5,Trebišov,Košický
+Malá Tŕňa,38.0,360.0,10.55,Trebišov,Košický
+Malé Ozorovce,54.0,441.0,12.24,Trebišov,Košický
+Malé Trakany,79.0,929.0,8.5,Trebišov,Košický
+Malý Horeš,137.0,936.0,14.63,Trebišov,Košický
+Malý Kamenec,66.0,401.0,16.45,Trebišov,Košický
+Michaľany,83.0,1412.0,5.87,Trebišov,Košický
+Nižný Žipov,54.0,1047.0,5.15,Trebišov,Košický
+Novosad,81.0,786.0,10.3,Trebišov,Košický
+Nový Ruskov,49.0,520.0,9.42,Trebišov,Košický
+Parchovany,126.0,1486.0,8.47,Trebišov,Košický
+Plechotice,29.0,627.0,4.62,Trebišov,Košický
+Poľany,67.0,399.0,16.79,Trebišov,Košický
+Pribeník,118.0,850.0,13.88,Trebišov,Košický
+Rad,100.0,454.0,22.24,Trebišov,Košický
+Sečovce,565.0,6229.0,9.07,Trebišov,Košický
+Sirník,133.0,471.0,28.45,Trebišov,Košický
+Slivník,130.0,643.0,20.21,Trebišov,Košický
+Slovenské Nové Mesto,64.0,842.0,7.6,Trebišov,Košický
+Soľnička,60.0,200.0,30.0,Trebišov,Košický
+Somotor,165.0,1241.0,13.29,Trebišov,Košický
+Stanča,36.0,319.0,11.28,Trebišov,Košický
+Stankovce,28.0,134.0,20.89,Trebišov,Košický
+Strážne,84.0,515.0,16.31,Trebišov,Košický
+Streda nad Bodrogom,200.0,1986.0,10.07,Trebišov,Košický
+Svätá Mária,92.0,474.0,19.4,Trebišov,Košický
+Svätuše,85.0,683.0,12.44,Trebišov,Košický
+Svinice,38.0,193.0,19.68,Trebišov,Košický
+Trebišov,1561.0,17839.0,8.76,Trebišov,Košický
+Trnávka,22.0,142.0,15.49,Trebišov,Košický
+Veľaty,76.0,716.0,10.61,Trebišov,Košický
+Veľká Tŕňa,68.0,378.0,17.98,Trebišov,Košický
+Veľké Ozorovce,42.0,577.0,7.27,Trebišov,Košický
+Veľké Trakany,209.0,1169.0,17.87,Trebišov,Košický
+Veľký Horeš,105.0,832.0,12.62,Trebišov,Košický
+Veľký Kamenec,59.0,652.0,9.04,Trebišov,Košický
+Viničky,50.0,421.0,11.87,Trebišov,Košický
+Višňov,20.0,197.0,10.15,Trebišov,Košický
+Vojčice,89.0,1627.0,5.47,Trebišov,Košický
+Vojka,72.0,365.0,19.72,Trebišov,Košický
+Zatín,72.0,634.0,11.35,Trebišov,Košický
+Zbehňov,26.0,267.0,9.73,Trebišov,Košický
+Zemplín,38.0,293.0,12.96,Trebišov,Košický
+Zemplínska Nová Ves,70.0,729.0,9.6,Trebišov,Košický
+Zemplínska Teplica,132.0,1171.0,11.27,Trebišov,Košický
+Zemplínske Hradište,65.0,964.0,6.74,Trebišov,Košický
+Zemplínske Jastrabie,142.0,547.0,25.95,Trebišov,Košický
+Zemplínsky Branč,44.0,384.0,11.45,Trebišov,Košický

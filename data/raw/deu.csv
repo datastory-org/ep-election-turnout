@@ -1,0 +1,402 @@
+001 07 3 40 Südwestpfalz RP 66,9
+002 10 0 46 St. Wendel SL 65,5
+003 07 1 35 Cochem-Zell RP 63,6
+004 07 3 37 Südliche Weinstraße RP 63,3
+005 07 2 32 Eifelkreis Bitburg-Prüm RP 62,8
+006 07 3 39 Mainz-Bingen RP 62,7
+007 05 5 15 Münster, Stadt NW 61,9
+008 07 1 40 Rhein-Hunsrück-Kreis RP 61,7
+009 07 3 35 Kaiserslautern RP 61,6
+010 07 2 35 Trier-Saarburg RP 61,5
+011 07 3 36 Kusel RP 61,4
+012 07 3 31 Alzey-Worms RP 60,9
+013 07 2 33 Vulkaneifel RP 60,6
+014 10 0 42 Merzig-Wadern SL 60,4
+015 07 3 32 Bad Dürkheim RP 60,3
+016 05 5 58 Coesfeld NW 60,2
+017 05 3 14 Bonn, Stadt NW 59,8
+018 07 2 31 Bernkastel-Wittlich RP 59,6
+019 07 3 38 Rhein-Pfalz-Kreis RP 59,5
+020 07 3 33 Donnersbergkreis RP 59,2
+021 07 1 43 Westerwaldkreis RP 58,9
+022 07 1 41 Rhein-Lahn-Kreis RP 58,8
+023 07 1 33 Bad Kreuznach RP 58,6
+024 16 0 74 Saale-Holzland-Kreis TH 58,5
+025 05 3 82 Rhein-Sieg-Kreis NW 58,3
+026 05 7 62 Höxter NW 58,0
+027 05 3 78 Rheinisch-Bergischer Kreis NW 57,8
+028 07 3 34 Germersheim RP 57,8
+029 08 4 16 Tübingen BW 57,7
+030 05 5 66 Steinfurt NW 57,6
+031 08 4 25 Alb-Donau-Kreis BW 57,5
+032 05 5 70 Warendorf NW 57,4
+033 07 1 31 Ahrweiler RP 57,4
+034 08 1 28 Main-Tauber-Kreis BW 57,4
+035 08 3 15 Breisgau-Hochschwarzwald BW 57,4
+036 10 0 45 Saarpfalz-Kreis SL 57,4
+037 16 0 61 Eichsfeld TH 57,3
+038 16 0 71 Weimarer Land TH 56,6
+039 05 5 54 Borken NW 56,0
+040 03 3 57 Rotenburg (Wümme) NI 55,5
+041 07 1 37 Mayen-Koblenz RP 55,5
+042 05 9 58 Hochsauerlandkreis NW 55,4
+043 07 1 32 Altenkirchen (Westerwald) RP 55,3
+044 16 0 76 Greiz TH 55,3
+045 07 3 15 Mainz, kreisfreie Stadt RP 55,1
+046 07 3 16 Neustadt an der Weinstraße, kreisfreie Stadt RP 55,1
+047 03 4 58 Oldenburg NI 55,0
+048 08 3 11 Freiburg im Breisgau, Stadt BW 55,0
+049 08 2 21 Heidelberg, Stadt BW 54,8
+050 07 3 13 Landau in der Pfalz, kreisfreie Stadt RP 54,7
+051 16 0 63 Wartburgkreis TH 54,7
+052 08 1 18 Ludwigsburg BW 54,6
+053 08 4 35 Bodenseekreis BW 54,6
+054 05 3 34 Städteregion Aachen NW 54,5
+055 05 1 58 Mettmann NW 54,3
+056 05 3 74 Oberbergischer Kreis NW 54,3
+057 08 2 25 Neckar-Odenwald-Kreis BW 54,3
+058 10 0 44 Saarlouis SL 54,3
+059 05 3 70 Heinsberg NW 54,2
+060 05 9 66 Olpe NW 54,2
+061 07 1 38 Neuwied RP 54,2
+062 08 2 26 Rhein-Neckar-Kreis BW 54,2
+063 08 4 26 Biberach BW 54,1
+064 16 0 75 Saale-Orla-Kreis TH 54,1
+065 14 6 28 Sächsische Schweiz-Osterzgebirge SN 54,0
+066 05 7 54 Gütersloh NW 53,9
+067 05 7 66 Lippe NW 53,9
+068 08 1 16 Esslingen BW 53,9
+069 05 1 11 Düsseldorf, Stadt NW 53,8
+070 05 3 58 Düren NW 53,8
+071 08 3 16 Emmendingen BW 53,8
+072 08 4 37 Sigmaringen BW 53,8
+073 14 6 12 Dresden, Stadt SN 53,8
+074 08 1 15 Böblingen BW 53,7
+075 16 0 68 Sömmerda TH 53,7
+076 08 2 15 Karlsruhe BW 53,6
+077 08 2 36 Enzkreis BW 53,6
+078 05 9 70 Siegen-Wittgenstein NW 53,5
+079 03 3 61 Verden NI 53,4
+080 05 7 11 Bielefeld, Stadt NW 53,3
+081 05 3 15 Köln, Stadt NW 53,2
+082 05 9 15 Hamm, Stadt NW 53,2
+083 08 1 11 Stuttgart, Landeshauptstadt BW 53,2
+084 03 3 55 Lüneburg NI 53,1
+085 05 9 74 Soest NW 53,1
+086 12 0 69 Potsdam-Mittelmark BB 53,1
+087 03 3 54 Lüchow-Dannenberg NI 53,0
+088 07 1 34 Birkenfeld RP 53,0
+089 03 4 59 Osnabrück NI 52,9
+090 05 1 66 Viersen NW 52,9
+091 05 3 66 Euskirchen NW 52,9
+092 08 1 19 Rems-Murr-Kreis BW 52,9
+093 05 7 58 Herford NW 52,8
+094 05 1 70 Wesel NW 52,7
+095 03 1 58 Wolfenbüttel NI 52,6
+096 05 7 74 Paderborn NW 52,6
+097 16 0 70 Ilm-Kreis TH 52,6
+098 03 1 52 Göttingen NI 52,5
+099 05 1 54 Kleve NW 52,5
+100 05 1 62 Rhein-Kreis Neuss NW 52,5
+101 16 0 69 Hildburghausen TH 52,5
+102 05 1 17 Mülheim an der Ruhr, Stadt NW 52,4
+103 05 3 62 Rhein-Erft-Kreis NW 52,3
+104 05 9 54 Ennepe-Ruhr-Kreis NW 52,3
+105 16 0 53 Jena, Stadt TH 52,3
+106 03 3 53 Harburg NI 52,2
+107 14 6 25 Bautzen SN 52,2
+108 16 0 67 Gotha TH 51,9
+109 08 1 25 Heilbronn BW 51,8
+110 08 2 35 Calw BW 51,8
+111 08 3 37 Waldshut BW 51,8
+112 08 4 36 Ravensburg BW 51,8
+113 14 5 21 Erzgebirgskreis SN 51,8
+114 16 0 66 Schmalkalden-Meiningen TH 51,8
+115 09 1 88 Starnberg BY 51,7
+116 16 0 65 Kyffhäuserkreis TH 51,7
+117 14 5 22 Mittelsachsen SN 51,6
+118 16 0 56 Eisenach, Stadt TH 51,6
+119 03 4 60 Vechta NI 51,5
+120 08 1 26 Hohenlohekreis BW 51,5
+121 08 3 25 Rottweil BW 51,5
+122 03 4 54 Emsland NI 51,4
+123 10 0 43 Neunkirchen SL 51,4
+124 03 1 01 Braunschweig, Stadt NI 51,3
+125 05 9 78 Unna NW 51,3
+126 13 0 76 Ludwigslust-Parchim MV 51,3
+127 08 2 37 Freudenstadt BW 51,2
+128 12 0 61 Dahme-Spreewald BB 51,2
+129 03 3 58 Heidekreis NI 51,1
+130 03 4 56 Grafschaft Bentheim NI 51,1
+131 03 4 04 Osnabrück, Stadt NI 51,0
+132 08 3 17 Ortenaukreis BW 51,0
+133 03 4 52 Aurich NI 50,8
+134 05 7 70 Minden-Lübbecke NW 50,8
+135 12 0 62 Elbe-Elster BB 50,8
+136 16 0 73 Saalfeld-Rudolstadt TH 50,8
+137 08 3 35 Konstanz BW 50,7
+138 14 6 27 Meißen SN 50,7
+139 03 2 57 Schaumburg NI 50,6
+140 03 4 53 Cloppenburg NI 50,6
+141 08 3 27 Tuttlingen BW 50,6
+142 06 4 34 Hochtaunuskreis HE 50,5
+143 01 0 62 Stormarn SH 50,4
+144 08 1 36 Ostalbkreis BW 50,4
+145 08 1 17 Göppingen BW 50,3
+146 05 9 11 Bochum, Stadt NW 50,1
+147 07 3 18 Speyer, kreisfreie Stadt RP 50,1
+148 08 4 15 Reutlingen BW 50,1
+149 14 6 26 Görlitz SN 50,0
+150 16 0 55 Weimar, Stadt TH 50,0
+151 03 3 60 Uelzen NI 49,9
+152 08 4 21 Ulm, Universitätsstadt BW 49,9
+153 05 5 12 Bottrop, Stadt NW 49,8
+154 08 2 16 Rastatt BW 49,8
+155 03 3 56 Osterholz NI 49,7
+156 06 4 36 Main-Taunus-Kreis HE 49,7
+157 03 2 51 Diepholz NI 49,6
+158 12 0 54 Potsdam, Stadt BB 49,6
+159 16 0 64 Unstrut-Hainich-Kreis TH 49,6
+160 05 5 62 Recklinghausen NW 49,3
+161 07 1 11 Koblenz, kreisfreie Stadt RP 49,3
+162 09 1 84 München BY 49,3
+163 03 2 52 Hameln-Pyrmont NI 49,2
+164 03 4 51 Ammerland NI 49,2
+165 03 4 55 Friesland NI 49,2
+166 08 3 26 Schwarzwald-Baar-Kreis BW 49,2
+167 12 0 67 Oder-Spree BB 49,1
+168 12 0 71 Spree-Neiße BB 49,1
+169 03 4 57 Leer NI 48,9
+170 08 2 12 Karlsruhe, Stadt BW 48,9
+171 08 4 17 Zollernalbkreis BW 48,9
+172 05 3 16 Leverkusen, Stadt NW 48,8
+173 07 3 19 Worms, kreisfreie Stadt RP 48,8
+174 03 2 41 Region Hannover NI 48,7
+175 13 0 74 Nordwestmecklenburg MV 48,7
+176 07 2 11 Trier, kreisfreie Stadt RP 48,6
+177 16 0 62 Nordhausen TH 48,6
+178 03 2 54 Hildesheim NI 48,5
+179 06 4 11 Darmstadt, Wissenschaftsstadt HE 48,5
+180 08 3 36 Lörrach BW 48,5
+181 05 1 14 Krefeld, Stadt NW 48,3
+182 10 0 41 Regionalverband Saarbrücken SL 48,3
+183 14 5 23 Vogtlandkreis SN 48,3
+184 16 0 77 Altenburger Land TH 48,3
+185 03 1 55 Northeim NI 48,2
+186 08 1 27 Schwäbisch Hall BW 48,2
+187 09 5 62 Erlangen, Stadt BY 48,2
+188 13 0 72 Landkreis Rostock MV 48,2
+189 13 0 75 Vorpommern-Greifswald MV 48,2
+190 05 1 24 Wuppertal, Stadt NW 48,1
+191 05 9 14 Hagen, Stadt der FernUniversität NW 48,1
+192 07 3 11 Frankenthal (Pfalz), kreisfreie Stadt RP 48,1
+193 14 7 29 Leipzig SN 48,1
+194 16 0 51 Erfurt, Stadt TH 48,0
+195 03 3 59 Stade NI 47,9
+196 15 0 86 Jerichower Land ST 47,9
+197 03 1 51 Gifhorn NI 47,8
+198 03 4 62 Wittmund NI 47,8
+199 09 1 75 Ebersberg BY 47,6
+200 05 9 13 Dortmund, Stadt NW 47,5
+201 08 2 11 Baden-Baden, Stadt BW 47,5
+202 09 6 79 Würzburg BY 47,5
+203 03 4 03 Oldenburg (Oldenburg), Stadt NI 47,4
+204 05 1 13 Essen, Stadt NW 47,4
+205 12 0 65 Oberhavel BB 47,2
+206 16 0 72 Sonneberg TH 47,2
+207 03 2 55 Holzminden NI 47,0
+208 09 5 72 Erlangen-Höchstadt BY 47,0
+209 15 0 01 Dessau-Roßlau, Stadt ST 47,0
+210 01 0 57 Plön SH 46,9
+211 03 1 57 Peine NI 46,9
+212 05 1 22 Solingen, Klingenstadt NW 46,9
+213 05 9 62 Märkischer Kreis NW 46,9
+214 08 1 35 Heidenheim BW 46,8
+215 11 0 00 Berlin, Stadt BE 46,7
+216 15 0 91 Wittenberg ST 46,7
+217 03 3 51 Celle NI 46,5
+218 01 0 53 Herzogtum Lauenburg SH 46,4
+219 09 1 79 Fürstenfeldbruck BY 46,4
+220 14 5 24 Zwickau SN 46,4
+221 06 4 39 Rheingau-Taunus-Kreis HE 46,3
+222 12 0 66 Oberspreewald-Lausitz BB 46,3
+223 03 3 52 Cuxhaven NI 46,1
+224 01 0 58 Rendsburg-Eckernförde SH 46,0
+225 03 1 02 Salzgitter, Stadt NI 46,0
+226 12 0 63 Havelland BB 46,0
+227 13 0 71 Mecklenburgische Seenplatte MV 46,0
+228 15 0 84 Burgenlandkreis ST 45,9
+229 01 0 56 Pinneberg SH 45,8
+230 05 1 20 Remscheid, Stadt NW 45,8
+231 09 1 62 München, Landeshauptstadt BY 45,8
+232 05 1 19 Oberhausen, Stadt NW 45,6
+233 06 4 32 Darmstadt-Dieburg HE 45,6
+234 12 0 64 Märkisch-Oderland BB 45,6
+235 01 0 04 Neumünster, Stadt SH 45,4
+236 15 0 81 Altmarkkreis Salzwedel ST 45,4
+237 06 4 31 Bergstraße HE 45,3
+238 14 7 30 Nordsachsen SN 45,3
+239 05 5 13 Gelsenkirchen, Stadt NW 45,2
+240 13 0 73 Vorpommern-Rügen MV 45,2
+241 15 0 87 Mansfeld-Südharz ST 45,2
+242 16 0 54 Suhl, Stadt TH 45,2
+243 05 1 16 Mönchengladbach, Stadt NW 45,1
+244 12 0 60 Barnim BB 45,1
+245 13 0 04 Schwerin MV 45,1
+246 07 3 14 Ludwigshafen am Rhein, kreisfreie Stadt RP 45,0
+247 07 3 17 Pirmasens, kreisfreie Stadt RP 44,9
+248 09 5 74 Nürnberger Land BY 44,7
+249 15 0 88 Saalekreis ST 44,7
+250 03 4 01 Delmenhorst, Stadt NI 44,6
+251 09 6 78 Schweinfurt BY 44,6
+252 06 4 12 Frankfurt am Main, Stadt HE 44,5
+253 14 5 11 Chemnitz, Stadt SN 44,5
+254 09 4 74 Forchheim BY 44,4
+255 12 0 72 Teltow-Fläming BB 44,4
+256 09 1 90 Weilheim-Schongau BY 44,2
+257 08 2 22 Mannheim, Universitätsstadt BW 44,1
+258 09 1 76 Eichstätt BY 44,1
+259 09 5 73 Fürth BY 44,1
+260 05 9 16 Herne, Stadt NW 44,0
+261 09 1 73 Bad Tölz-Wolfratshausen BY 43,8
+262 09 1 86 Pfaffenhofen a.d.Ilm BY 43,8
+263 07 3 12 Kaiserslautern, kreisfreie Stadt RP 43,7
+264 07 3 20 Zweibrücken, kreisfreie Stadt RP 43,7
+265 09 1 81 Landsberg am Lech BY 43,7
+266 12 0 73 Uckermark BB 43,7
+267 02 0 00 Hamburg, Freie und Hansestadt HH 43,5
+268 09 1 74 Dachau BY 43,5
+269 16 0 52 Gera, Stadt TH 43,5
+270 06 4 37 Odenwaldkreis HE 43,4
+271 09 1 78 Freising BY 43,4
+272 03 1 56 Osterode am Harz NI 43,3
+273 06 4 38 Offenbach HE 43,2
+274 06 6 34 Schwalm-Eder-Kreis HE 43,2
+275 09 6 75 Kitzingen BY 43,2
+276 03 2 56 Nienburg (Weser) NI 43,1
+277 15 0 83 Börde ST 42,9
+278 09 1 80 Garmisch-Partenkirchen BY 42,8
+279 15 0 90 Stendal ST 42,8
+280 09 3 73 Neumarkt i.d.OPf. BY 42,7
+281 09 5 76 Roth BY 42,7
+282 09 6 74 Haßberge BY 42,7
+283 05 1 12 Duisburg, Stadt NW 42,6
+284 09 5 75 Neustadt a.d.Aisch-Bad Windsheim BY 42,6
+285 14 7 13 Leipzig, Stadt SN 42,6
+286 15 0 82 Anhalt-Bitterfeld ST 42,6
+287 01 0 55 Ostholstein SH 42,5
+288 08 1 21 Heilbronn, Stadt BW 42,5
+289 03 1 54 Helmstedt NI 42,4
+290 12 0 70 Prignitz BB 42,4
+291 01 0 60 Segeberg SH 42,3
+292 03 4 61 Wesermarsch NI 42,3
+293 06 6 36 Werra-Meißner-Kreis HE 42,3
+294 09 1 85 Neuburg-Schrobenhausen BY 42,3
+295 09 3 75 Regensburg BY 42,3
+296 09 1 77 Erding BY 42,2
+297 12 0 68 Ostprignitz-Ruppin BB 42,2
+298 01 0 59 Schleswig-Flensburg SH 42,1
+299 01 0 61 Steinburg SH 42,1
+300 06 4 33 Groß-Gerau HE 42,1
+301 09 6 77 Main-Spessart BY 42,1
+302 09 1 82 Miesbach BY 42,0
+303 09 7 80 Oberallgäu BY 41,9
+304 06 5 35 Vogelsbergkreis HE 41,8
+305 09 1 87 Rosenheim BY 41,7
+306 09 6 63 Würzburg, Stadt BY 41,7
+307 09 6 72 Bad Kissingen BY 41,7
+308 04 0 11 Bremen, Stadt HB 41,5
+309 06 4 14 Wiesbaden, Landeshauptstadt HE 41,5
+310 09 5 65 Schwabach, Stadt BY 41,5
+311 12 0 53 Frankfurt (Oder), Stadt BB 41,5
+312 03 1 03 Wolfsburg, Stadt NI 41,3
+313 06 6 33 Kassel HE 41,3
+314 09 5 77 Weißenburg-Gunzenhausen BY 41,3
+315 09 7 71 Aichach-Friedberg BY 41,3
+316 01 0 54 Nordfriesland SH 41,2
+317 09 5 64 Nürnberg, Stadt BY 41,1
+318 09 6 73 Rhön-Grabfeld BY 41,1
+319 06 5 31 Gießen HE 41,0
+320 09 3 74 Neustadt a.d.Waldnaab BY 41,0
+321 13 0 03 Rostock MV 41,0
+322 09 7 77 Ostallgäu BY 40,9
+323 15 0 85 Harz ST 40,8
+324 09 4 72 Bayreuth BY 40,7
+325 09 3 71 Amberg-Sulzbach BY 40,6
+326 09 7 79 Donau-Ries BY 40,6
+327 15 0 02 Halle (Saale), Stadt ST 40,6
+328 15 0 89 Salzlandkreis ST 40,6
+329 09 4 75 Hof BY 40,5
+330 09 4 71 Bamberg BY 40,4
+331 01 0 02 Kiel, Landeshauptstadt SH 40,3
+332 06 4 40 Wetteraukreis HE 40,3
+333 09 3 62 Regensburg, Stadt BY 40,3
+334 09 4 61 Bamberg, Stadt BY 40,2
+335 12 0 52 Cottbus, Stadt BB 40,2
+336 09 7 72 Augsburg BY 40,1
+337 06 6 11 Kassel, documenta-Stadt HE 40,0
+338 06 4 35 Main-Kinzig-Kreis HE 39,9
+339 09 2 74 Landshut BY 39,9
+340 09 3 77 Tirschenreuth BY 39,9
+341 09 4 78 Lichtenfels BY 39,9
+342 09 7 76 Lindau (Bodensee) BY 39,9
+343 01 0 51 Dithmarschen SH 39,7
+344 09 4 73 Coburg BY 39,7
+345 09 2 78 Straubing-Bogen BY 39,6
+346 09 6 71 Aschaffenburg BY 39,6
+347 09 1 89 Traunstein BY 39,5
+348 09 5 71 Ansbach BY 39,4
+349 06 5 34 Marburg-Biedenkopf HE 39,3
+350 06 6 31 Fulda HE 39,1
+351 06 6 32 Hersfeld-Rotenburg HE 38,9
+352 09 6 76 Miltenberg BY 38,9
+353 09 7 78 Unterallgäu BY 38,9
+354 09 4 63 Coburg, Stadt BY 38,8
+355 09 4 77 Kulmbach BY 38,6
+356 15 0 03 Magdeburg, Landeshauptstadt ST 38,6
+357 06 5 33 Limburg-Weilburg HE 38,5
+358 03 1 53 Goslar NI 38,4
+359 08 2 31 Pforzheim, Stadt BW 38,2
+360 09 4 62 Bayreuth, Stadt BY 38,0
+361 09 2 61 Landshut, Stadt BY 37,9
+362 09 2 62 Passau, Stadt BY 37,7
+363 01 0 03 Lübeck, Hansestadt SH 37,6
+364 03 4 05 Wilhelmshaven, Stadt NI 37,6
+365 09 1 63 Rosenheim, Stadt BY 37,6
+366 09 2 73 Kelheim BY 37,6
+367 09 1 83 Mühldorf a.Inn BY 37,3
+368 09 4 76 Kronach BY 37,3
+369 09 7 64 Memmingen, Stadt BY 37,3
+370 06 6 35 Waldeck-Frankenberg HE 37,2
+371 09 7 75 Neu-Ulm BY 37,2
+372 06 4 13 Offenbach am Main, Stadt HE 37,1
+373 09 1 71 Altötting BY 37,0
+374 09 4 79 Wunsiedel i.Fichtelgebirge BY 36,8
+375 09 1 72 Berchtesgadener Land BY 36,6
+376 09 7 73 Dillingen a.d.Donau BY 36,6
+377 09 5 63 Fürth, Stadt BY 36,5
+378 12 0 51 Brandenburg an der Havel, Stadt BB 36,5
+379 09 7 61 Augsburg, Stadt BY 36,3
+380 09 5 61 Ansbach, Stadt BY 36,2
+381 03 4 02 Emden, Stadt NI 35,9
+382 09 3 76 Schwandorf BY 35,9
+383 09 7 63 Kempten (Allgäu), Stadt BY 35,9
+384 01 0 01 Flensburg, Stadt SH 35,7
+385 09 2 79 Dingolfing-Landau BY 35,6
+386 09 7 74 Günzburg BY 35,2
+387 09 7 62 Kaufbeuren, Stadt BY 35,1
+388 09 6 62 Schweinfurt, Stadt BY 34,9
+389 09 3 61 Amberg, Stadt BY 34,7
+390 09 3 63 Weiden i.d.OPf., Stadt BY 34,7
+391 04 0 12 Bremerhaven, Stadt HB 34,6
+392 09 6 61 Aschaffenburg, Stadt BY 34,3
+393 09 1 61 Ingolstadt, Stadt BY 33,8
+394 06 5 32 Lahn-Dill-Kreis HE 33,7
+395 09 2 77 Rottal-Inn BY 33,1
+396 09 4 64 Hof, Stadt BY 33,0
+397 09 2 63 Straubing, Stadt BY 31,8
+398 09 3 72 Cham BY 31,1
+399 09 2 75 Passau BY 30,8
+400 09 2 71 Deggendorf BY 30,2
+401 09 2 72 Freyung-Grafenau BY 26,5
+402 09 2 76 Regen BY 26,4

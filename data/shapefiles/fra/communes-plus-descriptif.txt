@@ -1,0 +1,56 @@
+##Descriptif du contenu des fichiers "communes"
+
+**Origine**
+
+Les données proviennent de la base de données cartographiques OpenStreetMap (sous licence ODbL), complétées par le GEOFLA 2013 de l'IGN (sous licence ouverte).
+Celles-ci ont été constituées à partir du cadastre mis à disposition par la DGFiP sur cadastre.gouv.fr.
+En complément sur Mayotte où le cadastre n'est pas disponible sur cadastre.gouv.fr, ce sont les limites du GEOFLA de l'IGN qui ont été utilisées ainsi que le tracé des côtes à partir des images aériennes de Bing.
+
+Plus d'infos: http://openstreetmap.fr/36680-communes
+
+
+**Format**
+
+Ces fichiers sont proposés au format shapefile, en coordonnées WGS84 avec plusieurs niveaux de détails:
+
+- simplification à 5m
+- simplification à 50m
+- simplification à 100m
+
+La topologie est conservée lors du processus de simplification (cf: http://openstreetmap.fr/blogs/cquest/limites-administratives-simplifiees)
+
+
+**Contenu**
+
+Ces fichiers contiennent l'ensemble des communes françaises, y compris les DOM, Mayotte et St-Pierre et Miquelon.
+Pour Paris, Lyon, Marseille, ce sont les limites des arrondissements qui sont utilisées.
+
+Pour chaque commune (ou arrondissement), les attributs suivants sont fournis:
+
+- insee: code INSEE à 7 caractères de la commune
+- nom: nom de la commune
+- wikipedia: entrée wikipédia (code langue suivi du nom de l'article)
+- surf_m2: surface en m2 de la commune (géométrie non simplifiée)
+- lat_centro/lon_centro: latitude et longitude du centroide de la commune (géométrie non simplifié)
+
+suivi des attributs présents dans le GEOFLA IGN 2013
+- statut: commune simple, Chef lieu de canton, etc
+- x_chf_lieu/y_chf_lieu (en coordonnées projetées)
+- z_moyen: altitude moyenne de la commune
+- population: en milliers d'habitants
+- code_cant: code du canton
+- code_arr: code de l'arondissement
+- code dept: N° de département
+- nom_dept: nom du département
+- code_reg: code INSEE de la région
+- nom_region: nom de la région
+
+
+###Historique
+
+- 30-06-2014 : 1ère génération
+
+Versions prédécentes disponibles sur: http://osm13.openstreetmap.fr/~cquest/openfla/export/
+
+
+Pour toute question concernant ces exports, vous pouvez contacter exports@openstreetmap.fr

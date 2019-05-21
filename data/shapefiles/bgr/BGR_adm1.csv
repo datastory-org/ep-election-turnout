@@ -1,0 +1,29 @@
+"OBJECTID","ID_0","ISO","NAME_0","ID_1","NAME_1","TYPE_1","ENGTYPE_1","NL_NAME_1","VARNAME_1"
+1,37,"BGR","Bulgaria",1,"Blagoevgrad","Oblast","Province","<U+0411><U+043B><U+0430><U+0433><U+043E><U+0435><U+0432><U+0433><U+0440><U+0430><U+0434>","Gorna Cumaya|Cuma-i Bala|Gorna Djumaya|Gorna Dzhumaya"
+2,37,"BGR","Bulgaria",2,"Burgas","Oblast","Province","<U+0411><U+0443><U+0440><U+0433><U+0430><U+0441>","Bourgas"
+3,37,"BGR","Bulgaria",3,"Dobrich","Oblast","Province","<U+0414><U+043E><U+0431><U+0440><U+0438><U+0447>","Tolbukhin"
+4,37,"BGR","Bulgaria",4,"Gabrovo","Oblast","Province","<U+0413><U+0430><U+0431><U+0440><U+043E><U+0432><U+043E>",NA
+5,37,"BGR","Bulgaria",5,"Grad Sofiya","Oblast","Province","<U+0421><U+043E><U+0444><U+0438><U+044F>-<U+0433><U+0440><U+0430><U+0434>",NA
+6,37,"BGR","Bulgaria",6,"Haskovo","Oblast","Province","<U+0425><U+0430><U+0441><U+043A><U+043E><U+0432><U+043E>","Khaskovo"
+7,37,"BGR","Bulgaria",7,"Kardzhali","Oblast","Province","<U+041A><U+044A><U+0440><U+0434><U+0436><U+0430><U+043B><U+0438><U+0439><U+0441><U+043A><U+0430>","Kurdjali|Kârdžali|Kirjali"
+8,37,"BGR","Bulgaria",8,"Kyustendil","Oblast","Province","<U+041A><U+044E><U+0441><U+0442><U+0435><U+043D><U+0434><U+0438><U+043B>","Keustendil|Kjustendil"
+9,37,"BGR","Bulgaria",9,"Lovech","Oblast","Province","<U+041B><U+043E><U+0432><U+0435><U+0447>","Lovec"
+10,37,"BGR","Bulgaria",10,"Montana","Oblast","Province","<U+041C><U+043E><U+043D><U+0442><U+0430><U+043D><U+0430>","Mikhaylovgrad|Mihailovgrad"
+11,37,"BGR","Bulgaria",11,"Pazardzhik","Oblast","Province","<U+041F><U+0430><U+0437><U+0430><U+0440><U+0434><U+0436><U+0438><U+043A>","Pazardjik|Tatar Pazardžik|Bazargic|Bazardzhik|Dobritch|Dobrici|Hagi Oglu"
+12,37,"BGR","Bulgaria",12,"Pernik","Oblast","Province","<U+041F><U+0435><U+0440><U+043D><U+0438><U+043A>",NA
+13,37,"BGR","Bulgaria",13,"Pleven","Oblast","Province","<U+041F><U+043B><U+0435><U+0432><U+0435><U+043D><U+0441><U+043A><U+0430>","Plevila|Plevna|Plyeven"
+14,37,"BGR","Bulgaria",14,"Plovdiv","Oblast","Province","<U+041F><U+043B><U+043E><U+0432><U+0434><U+0438><U+0432>","Philippopolis"
+15,37,"BGR","Bulgaria",15,"Razgrad","Oblast","Province","<U+0420><U+0430><U+0437><U+0433><U+0440><U+0430><U+0434>",NA
+16,37,"BGR","Bulgaria",16,"Ruse","Oblast","Province","<U+0420><U+0443><U+0441><U+0435><U+043D><U+0441><U+043A><U+0430>","Russe|Rušcuk|Rustchuk"
+17,37,"BGR","Bulgaria",17,"Shumen","Oblast","Province","<U+0428><U+0443><U+043C><U+0435><U+043D>","Kolarovgrad|Šumla|Šumen"
+18,37,"BGR","Bulgaria",18,"Silistra","Oblast","Province","<U+0421><U+0438><U+043B><U+0438><U+0441><U+0442><U+0440><U+0430>",NA
+19,37,"BGR","Bulgaria",19,"Sliven","Oblast","Province","<U+0421><U+043B><U+0438><U+0432><U+0435><U+043D>","Slivno"
+20,37,"BGR","Bulgaria",20,"Smolyan","Oblast","Province","<U+0421><U+043C><U+043E><U+043B><U+044F><U+043D>","Smoljan"
+21,37,"BGR","Bulgaria",21,"Sofia","Oblast","Province","Sofija","Sofiya|Sofija"
+22,37,"BGR","Bulgaria",22,"Stara Zagora","Oblast","Province","<U+0421><U+0442><U+0430><U+0440><U+0430> <U+0417><U+0430><U+0433><U+043E><U+0440><U+0430>",NA
+23,37,"BGR","Bulgaria",23,"Targovishte","Oblast","Province","<U+0422><U+044A><U+0440><U+0433><U+043E><U+0432><U+0438><U+0449><U+043A><U+0430>","Torgovishte|Tâgovište"
+24,37,"BGR","Bulgaria",24,"Varna","Oblast","Province","<U+0412><U+0430><U+0440><U+043D><U+0430>","Stalin"
+25,37,"BGR","Bulgaria",25,"Veliko Tarnovo","Oblast","Province","<U+0412><U+0435><U+043B><U+0438><U+043A><U+043E> <U+0422><U+044A><U+0440><U+043D><U+043E><U+0432><U+043E>","Veliko Turnovo|Gorna Oryahovitsa|Gorna Orjahovica|Turnovo|Tirnovo|Trnova"
+26,37,"BGR","Bulgaria",26,"Vidin","Oblast","Province","<U+0412><U+0438><U+0434><U+0438><U+043D>",NA
+27,37,"BGR","Bulgaria",27,"Vratsa","Oblast","Province","<U+0412><U+0440><U+0430><U+0446><U+0430>","Vraca"
+28,37,"BGR","Bulgaria",28,"Yambol","Oblast","Province","<U+042F><U+043C><U+0431><U+043E><U+043B>","Jambol|Jamboli"
