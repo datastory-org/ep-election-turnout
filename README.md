@@ -1,6 +1,17 @@
 # European Parliament Elections Turnout
 
-The goal of this project is to collect detailed voter turnout statistics from every country participating in the European Parliament elections.
+The goal of this project is to collect detailed voter turnout statistics from every country participating in the European Parliament elections. The repository contains, for each country:
+
+1. Turnout data in `data/raw/`
+2. Shapefiles in `data/shapefiles`
+3. Notebooks in `notebooks`
+
+Each notebook is responsible for:
+
+1. Scraping or loading already downloaded turnout data.
+2. Processing the turnout data to standardize ID codes and names.
+3. Updating shapefiles when out of date or incorrect.
+3. Merging turnout data and shapefiles and save final output.
 
 ## The 2014 election 
 
