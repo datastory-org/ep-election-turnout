@@ -1,6 +1,6 @@
 # European Parliament Elections Turnout
 
-The goal of this project is to collect detailed voter turnout statistics from every country participating in the European Parliament elections. The repository contains, for each country:
+The goal of this Datastory project is to collect detailed voter turnout statistics from every country participating in the European Parliament elections. The repository contains, for each country:
 
 1. Turnout data in `data/raw/`
 2. Shapefiles in `data/shapefiles`
@@ -12,6 +12,15 @@ Each notebook is responsible for:
 2. Processing the turnout data to standardize ID codes and names.
 3. Updating shapefiles when out of date or incorrect.
 3. Merging turnout data and shapefiles and save final output.
+
+## Licensing and use
+**Open source**: All code in this repository is available under the MIT License.
+
+**Attribution**: If you use, adapt and/or republish the code or charts in this repository, the following attribution should be visible in close proximity to the graphics and code: "Based on an original project by Datastory (www.datastory.org)". (Datastory.org charts are generally available under CC-BY License.)
+
+**The Datastory Brand**: The Logo of Datastory and any other product names, trademarks or service marks are proprietary and are protected by applicable trademark and copyright laws. Nothing contained in this code base should be construed as granting any license or right to use any of the Datastory Marks without the express written permission of the owner of such Marks. 
+
+(E-mail hello@datastory.org if you have any further questions about reuse.)
 
 ## The 2014 election 
 
