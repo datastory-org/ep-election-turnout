@@ -1,12 +1,14 @@
-# 2014 European Parliament Elections Turnout
+# European Parliament Elections Turnout
 
-The goal of this project is to collect detailed voter turnout statistics from every country participating in the 2014 European Parliament elections. There are 28 countries in total with various administrative systems. The plan is to add the 2019 turnout data to this repository once the numbers come on.
-
-_Please note that this is work in progress and some results may be corrected in the future._
+The goal of this project is to collect detailed voter turnout statistics from every country participating in the 2014 European Parliament elections. There are 28 countries in total with various administrative systems.
 
 ## Contribute
 
 We encourage and welcome contributions, whether it's fact checking or adding results for more fine-grained geographical units (for instance, Bulgaria and Ireland). See issues for concrete ways to help.
+
+## The 2014 election 
+
+In the 2014 election, there were 28 member countries in total with various administrative systems.
 
 
 ## Metadata
