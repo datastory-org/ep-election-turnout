@@ -1,6 +1,6 @@
 # European Parliament Elections Turnout
 
-The goal of this project is to collect detailed voter turnout statistics from every country participating in the 2014 European Parliament elections. There are 28 countries in total with various administrative systems.
+The goal of this project is to collect detailed voter turnout statistics from every country participating in the 2014 European Parliament elections.
 
 ## Contribute
 
