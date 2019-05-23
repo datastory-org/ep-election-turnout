@@ -1,6 +1,12 @@
 # 2014 European Parliament Elections Turnout
 
-The goal of this project is to collect detailed voter turnout statistics from every country participating in the 2014 European Parliament elections. There are 28 countries in total with various administrative systems.
+The goal of this project is to collect detailed voter turnout statistics from every country participating in the 2014 European Parliament elections. There are 28 countries in total with various administrative systems. The plan is to add the 2019 turnout data to this repository once the numbers come on.
+
+_Please note that this is work in progress and some results may be corrected in the future._
+
+## Contribute
+
+We encourage and welcome contributions, whether it's fact checking or adding results for more fine-grained geographical units (for instance, Bulgaria and Ireland). See issues for concrete ways to help.
 
 
 ## Metadata
@@ -17,7 +23,7 @@ The goal of this project is to collect detailed voter turnout statistics from ev
 | Estonia | [DIVA-GIS](https://www.diva-gis.org/gdata) | [National Electoral Committee](http://ep2014.vvk.ee/detailed/0000.html)  | Parish & Town | 211 | Shapefile edited due to municipality reform |
 | Finland | [National Land Survey of Finland](https://tiedostopalvelu.maanmittauslaitos.fi/tp/kartta?lang=en)  | [Statistics Finland](http://pxnet2.stat.fi/PXWeb/pxweb/sv/StatFin/StatFin__vaa__euvaa__euvaa_as/010_euvaa_2014_2014-06-11_tau_101.px/?rxid=ac08fd53-741d-430c-8562-a25e892aa663)  | Municipality | 311 | Shapefile via email |
 | France | [Open Street Map](http://osm13.openstreetmap.fr/~cquest/openfla/export/) | [Ministry of the Interior](https://www.interieur.gouv.fr/Elections/Les-resultats/Europeennes/elecresult__ER2014/(path)/ER2014) | Municipality | 34982 |  |
-| Germany | [GADM](http://gadm.org) | [Federal Returning Officer](https://www.bundeswahlleiter.de/en/dam/jcr/0d8e5fbe-68eb-4fd1-934f-2a52305297cf/ew14_arbtab7.pdf) | District | 402 | Data in PDF |
+| Germany | [GeoDataZentrum (v. 2014-01-01)](http://www.geodatenzentrum.de/geodaten/gdz_rahmen.gdz_div?gdz_spr=deu&gdz_akt_zeile=5&gdz_anz_zeile=1&gdz_unt_zeile=0&gdz_user_id=0) | [Federal Returning Officer](https://www.bundeswahlleiter.de/en/dam/jcr/0d8e5fbe-68eb-4fd1-934f-2a52305297cf/ew14_arbtab7.pdf) | District | 402 | Data in PDF |
 | Greece | [GADM](http://gadm.org) | [Ministry of Interior](http://ekloges-prev.singularlogic.eu/may2014/e/public/index.html#%7B%22cls%22:%22level%22,%22params%22:%7B%22level%22:%22ep%22,%22id%22:41%7D%7D) | Municipality | 326 | No data for autonomous Athos |
 | Hungary | [GADM](http://gadm.org) | [National Election Office](http://www.valasztas.hu/en/60)  | County & Capital | 20 | Can't find district shapefile |
 | Ireland | [GADM](http://gadm.org) | [Elections Ireland](https://electionsireland.org/results/europe/index.cfm)  | Constituency | 3 | No detailed results |
