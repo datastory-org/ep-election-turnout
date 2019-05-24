@@ -14,6 +14,8 @@ Each notebook is responsible for:
 3. Merging turnout data and shapefiles and save final output.
 
 ## Licensing and use
+**Graphics**: We encourage republishing the graphics in the "/graphics" folder under Creative Commons (CC-BY License).
+
 **Open source**: All code in this repository is available under the MIT License.
 
 **Attribution**: If you use, adapt and/or republish the code or charts in this repository, the following attribution should be visible in close proximity to the graphics and code: "Based on an original project by Datastory (www.datastory.org)". (Datastory.org charts are generally available under CC-BY License.)
