@@ -18,7 +18,7 @@ Each notebook is responsible for:
 
 **Open source**: All code in this repository is available under the MIT License.
 
-**Attribution**: If you use, adapt and/or republish the code or charts in this repository, the following attribution should be visible in close proximity to the graphics and code: "Based on an original project by Datastory (www.datastory.org)". (Datastory.org charts are generally available under CC-BY License.)
+**Attribution**: If you use, adapt and/or republish the code or charts in this repository, the following attribution should be visible in close proximity to the graphics and code: "Based on an original project by Datastory (www.datastory.org)".
 
 **The Datastory Brand**: The Logo of Datastory and any other product names, trademarks or service marks are proprietary and are protected by applicable trademark and copyright laws. Nothing contained in this code base should be construed as granting any license or right to use any of the Datastory Marks without the express written permission of the owner of such Marks. 
 
