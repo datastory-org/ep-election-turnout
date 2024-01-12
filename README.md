@@ -2,9 +2,9 @@
 
 The goal of this Datastory project is to collect detailed voter turnout statistics from every country participating in the European Parliament elections. The repository contains, for each country:
 
-1. Turnout data in `data/raw/`
-2. Shapefiles in `data/shapefiles`
-3. Notebooks in `notebooks`
+1. Turnout data in `data/{year}/raw/`
+2. Shapefiles in `data/{year}/shapefiles`
+3. Notebooks in `notebooks/{year}`
 
 Each notebook is responsible for:
 
