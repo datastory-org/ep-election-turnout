@@ -1,0 +1,862 @@
+[
+    {
+        "id": "223378",
+        "label": "Kanton Antwerpen"
+    },
+    {
+        "id": "223379",
+        "label": "Kanton Boom"
+    },
+    {
+        "id": "223380",
+        "label": "Kanton Brecht"
+    },
+    {
+        "id": "223381",
+        "label": "Kanton Kapellen"
+    },
+    {
+        "id": "223382",
+        "label": "Kanton Kontich"
+    },
+    {
+        "id": "223383",
+        "label": "Kanton Zandhoven"
+    },
+    {
+        "id": "223384",
+        "label": "Kanton Duffel"
+    },
+    {
+        "id": "223385",
+        "label": "Kanton Heist-op-den-Berg"
+    },
+    {
+        "id": "223386",
+        "label": "Kanton Lier"
+    },
+    {
+        "id": "223387",
+        "label": "Kanton Mecheln"
+    },
+    {
+        "id": "223388",
+        "label": "Kanton Puurs-Saint-Amands"
+    },
+    {
+        "id": "223389",
+        "label": "Sonderkanton Ausw. Ang.: Niederl&#xE4;ndisches Wahlkollegium"
+    },
+    {
+        "id": "223390",
+        "label": "Kanton Arendonk"
+    },
+    {
+        "id": "223391",
+        "label": "Kanton Herentals"
+    },
+    {
+        "id": "223392",
+        "label": "Kanton Hoogstraten"
+    },
+    {
+        "id": "223393",
+        "label": "Kanton Mol"
+    },
+    {
+        "id": "223394",
+        "label": "Kanton Turnhout"
+    },
+    {
+        "id": "223395",
+        "label": "Kanton Westerlo"
+    },
+    {
+        "id": "223396",
+        "label": "Kanton Anderlecht"
+    },
+    {
+        "id": "223397",
+        "label": "Kanton Br&#xFC;ssel"
+    },
+    {
+        "id": "223398",
+        "label": "Kanton Ixelles"
+    },
+    {
+        "id": "223399",
+        "label": "Kanton Molenbeek-Saint-Jean"
+    },
+    {
+        "id": "223400",
+        "label": "Kanton Saint-Gilles"
+    },
+    {
+        "id": "223401",
+        "label": "Kanton Saint-Josse-Ten-Noode"
+    },
+    {
+        "id": "223402",
+        "label": "Kanton Schaerbeek"
+    },
+    {
+        "id": "223403",
+        "label": "Kanton Uccle"
+    },
+    {
+        "id": "223404",
+        "label": "Kanton Br&#xFC;ssel (E5)"
+    },
+    {
+        "id": "223405",
+        "label": "Kanton Asse"
+    },
+    {
+        "id": "223406",
+        "label": "Kanton Halle"
+    },
+    {
+        "id": "223407",
+        "label": "Kanton Meise"
+    },
+    {
+        "id": "223408",
+        "label": "Kanton Vilvoorde"
+    },
+    {
+        "id": "223409",
+        "label": "Kanton Zaventem"
+    },
+    {
+        "id": "223410",
+        "label": "Kanton Rhode-Saint-Gen&#xE8;se"
+    },
+    {
+        "id": "223411",
+        "label": "Kanton Lennik"
+    },
+    {
+        "id": "223412",
+        "label": "Kanton Aarschot"
+    },
+    {
+        "id": "223413",
+        "label": "Kanton Diest"
+    },
+    {
+        "id": "223414",
+        "label": "Kanton Haacht"
+    },
+    {
+        "id": "223415",
+        "label": "Kanton Landen"
+    },
+    {
+        "id": "223416",
+        "label": "Kanton L&#xF6;wen"
+    },
+    {
+        "id": "223417",
+        "label": "Kanton Tienen"
+    },
+    {
+        "id": "223418",
+        "label": "Kanton Zoutleeuw"
+    },
+    {
+        "id": "223419",
+        "label": "Kanton Glabbeek"
+    },
+    {
+        "id": "223420",
+        "label": "Kanton Genappe"
+    },
+    {
+        "id": "223421",
+        "label": "Kanton Jodoigne"
+    },
+    {
+        "id": "223422",
+        "label": "Kanton Nivelles"
+    },
+    {
+        "id": "223423",
+        "label": "Kanton Perwez"
+    },
+    {
+        "id": "223424",
+        "label": "Kanton Wavre"
+    },
+    {
+        "id": "223425",
+        "label": "Kanton Br&#xFC;gge"
+    },
+    {
+        "id": "223426",
+        "label": "Kanton Torhout"
+    },
+    {
+        "id": "223427",
+        "label": "Kanton Dixmuiden"
+    },
+    {
+        "id": "223428",
+        "label": "Kanton Ypern"
+    },
+    {
+        "id": "223429",
+        "label": "Kanton Mesen"
+    },
+    {
+        "id": "223430",
+        "label": "Kanton Poperinge"
+    },
+    {
+        "id": "223431",
+        "label": "Kanton Wervik"
+    },
+    {
+        "id": "223432",
+        "label": "Kanton Zonnebeke"
+    },
+    {
+        "id": "223433",
+        "label": "Kanton Vleteren"
+    },
+    {
+        "id": "223434",
+        "label": "Kanton Avelgem"
+    },
+    {
+        "id": "223435",
+        "label": "Kanton Harelbeke"
+    },
+    {
+        "id": "223436",
+        "label": "Kanton Kortrijk"
+    },
+    {
+        "id": "223437",
+        "label": "Kanton Menen"
+    },
+    {
+        "id": "223438",
+        "label": "Kanton Gistel"
+    },
+    {
+        "id": "223439",
+        "label": "Kanton Ostende"
+    },
+    {
+        "id": "223440",
+        "label": "Kanton Hooglede"
+    },
+    {
+        "id": "223441",
+        "label": "Kanton Izegem"
+    },
+    {
+        "id": "223442",
+        "label": "Kanton Lichtervelde"
+    },
+    {
+        "id": "223443",
+        "label": "Kanton Roeselare"
+    },
+    {
+        "id": "223444",
+        "label": "Kanton Meulebeke"
+    },
+    {
+        "id": "223445",
+        "label": "Kanton Oostrozebeke"
+    },
+    {
+        "id": "223446",
+        "label": "Kanton Ruiselede"
+    },
+    {
+        "id": "223447",
+        "label": "Kanton Tielt"
+    },
+    {
+        "id": "223448",
+        "label": "Kanton Nieuwpoort"
+    },
+    {
+        "id": "223449",
+        "label": "Kanton Veurne"
+    },
+    {
+        "id": "223450",
+        "label": "Kanton Aalst"
+    },
+    {
+        "id": "223451",
+        "label": "Kanton Geraardsbergen"
+    },
+    {
+        "id": "223452",
+        "label": "Kanton Herzele"
+    },
+    {
+        "id": "223453",
+        "label": "Kanton Ninove"
+    },
+    {
+        "id": "223454",
+        "label": "Kanton Zottegem"
+    },
+    {
+        "id": "223455",
+        "label": "Kanton Dendermonde"
+    },
+    {
+        "id": "223456",
+        "label": "Kanton Hamme"
+    },
+    {
+        "id": "223457",
+        "label": "Kanton Wetteren"
+    },
+    {
+        "id": "223458",
+        "label": "Kanton Zele"
+    },
+    {
+        "id": "223459",
+        "label": "Kanton Assenede"
+    },
+    {
+        "id": "223460",
+        "label": "Kanton Eeklo"
+    },
+    {
+        "id": "223461",
+        "label": "Kanton Kaprijke"
+    },
+    {
+        "id": "223462",
+        "label": "Kanton Destelbergen"
+    },
+    {
+        "id": "223463",
+        "label": "Kanton Evergem"
+    },
+    {
+        "id": "223464",
+        "label": "Kanton Gent"
+    },
+    {
+        "id": "223465",
+        "label": "Kanton Lochristi"
+    },
+    {
+        "id": "223466",
+        "label": "Kanton Merelbeke"
+    },
+    {
+        "id": "223467",
+        "label": "Kanton Nazareth"
+    },
+    {
+        "id": "223468",
+        "label": "Kanton Deinze"
+    },
+    {
+        "id": "223469",
+        "label": "Kanton Aalter"
+    },
+    {
+        "id": "223470",
+        "label": "Kanton Lievegem"
+    },
+    {
+        "id": "223471",
+        "label": "Kanton Oudenaarde"
+    },
+    {
+        "id": "223472",
+        "label": "Kanton Ronse"
+    },
+    {
+        "id": "223473",
+        "label": "Kanton Brakel"
+    },
+    {
+        "id": "223474",
+        "label": "Kanton Horebeke"
+    },
+    {
+        "id": "223475",
+        "label": "Kanton Kruisem"
+    },
+    {
+        "id": "223476",
+        "label": "Kanton Beveren"
+    },
+    {
+        "id": "223477",
+        "label": "Kanton Lokeren"
+    },
+    {
+        "id": "223478",
+        "label": "Kanton Sint-Gillis-Waas"
+    },
+    {
+        "id": "223479",
+        "label": "Kanton Sint-Niklaas"
+    },
+    {
+        "id": "223480",
+        "label": "Kanton Temse"
+    },
+    {
+        "id": "223481",
+        "label": "Kanton Ath"
+    },
+    {
+        "id": "223482",
+        "label": "Kanton Beloeil"
+    },
+    {
+        "id": "223483",
+        "label": "Kanton Chi&#xE8;vres"
+    },
+    {
+        "id": "223484",
+        "label": "Kanton Flobecq"
+    },
+    {
+        "id": "223485",
+        "label": "Kanton Frasnes-lez-Anvaing"
+    },
+    {
+        "id": "223486",
+        "label": "Kanton Enghien"
+    },
+    {
+        "id": "223487",
+        "label": "Kanton Lessines"
+    },
+    {
+        "id": "223488",
+        "label": "Kanton Charleroi"
+    },
+    {
+        "id": "223489",
+        "label": "Kanton Ch&#xE2;telet"
+    },
+    {
+        "id": "223490",
+        "label": "Kanton Fontaine-l&#x27;Ev&#xEA;que"
+    },
+    {
+        "id": "223491",
+        "label": "Kanton Pont-&#xE0;-Celles"
+    },
+    {
+        "id": "223492",
+        "label": "Kanton Boussu"
+    },
+    {
+        "id": "223493",
+        "label": "Kanton Dour"
+    },
+    {
+        "id": "223494",
+        "label": "Kanton Frameries"
+    },
+    {
+        "id": "223495",
+        "label": "Kanton Lens"
+    },
+    {
+        "id": "223496",
+        "label": "Kanton Mons"
+    },
+    {
+        "id": "223497",
+        "label": "Kanton Le Roeulx"
+    },
+    {
+        "id": "223498",
+        "label": "Kanton Soignies"
+    },
+    {
+        "id": "223499",
+        "label": "Kanton Seneffe"
+    },
+    {
+        "id": "223500",
+        "label": "Kanton Anderlues"
+    },
+    {
+        "id": "223501",
+        "label": "Kanton Beaumont"
+    },
+    {
+        "id": "223502",
+        "label": "Kanton Chimay"
+    },
+    {
+        "id": "223503",
+        "label": "Kanton Merbes-le-Ch&#xE2;teau"
+    },
+    {
+        "id": "223504",
+        "label": "Kanton Thuin"
+    },
+    {
+        "id": "223505",
+        "label": "Kanton Antoing"
+    },
+    {
+        "id": "223506",
+        "label": "Kanton Celles"
+    },
+    {
+        "id": "223507",
+        "label": "Kanton Estaimpuis"
+    },
+    {
+        "id": "223508",
+        "label": "Kanton P&#xE9;ruwelz"
+    },
+    {
+        "id": "223509",
+        "label": "Kanton Tournai"
+    },
+    {
+        "id": "223510",
+        "label": "Kanton Leuze-en-Hainaut"
+    },
+    {
+        "id": "223511",
+        "label": "Kanton Mouscron"
+    },
+    {
+        "id": "223512",
+        "label": "Kanton Comines-Warneton"
+    },
+    {
+        "id": "223513",
+        "label": "Kanton La Louvi&#xE8;re"
+    },
+    {
+        "id": "223514",
+        "label": "Kanton Binche"
+    },
+    {
+        "id": "223515",
+        "label": "Kanton Ferri&#xE8;res"
+    },
+    {
+        "id": "223516",
+        "label": "Kanton H&#xE9;ron"
+    },
+    {
+        "id": "223517",
+        "label": "Kanton Huy"
+    },
+    {
+        "id": "223518",
+        "label": "Kanton Nandrin"
+    },
+    {
+        "id": "223519",
+        "label": "Kanton Verlaine"
+    },
+    {
+        "id": "223520",
+        "label": "Kanton Aywaille"
+    },
+    {
+        "id": "223521",
+        "label": "Kanton Bassenge"
+    },
+    {
+        "id": "223522",
+        "label": "Kanton Fl&#xE9;ron"
+    },
+    {
+        "id": "223523",
+        "label": "Kanton Herstal"
+    },
+    {
+        "id": "223524",
+        "label": "Kanton L&#xFC;ttich"
+    },
+    {
+        "id": "223525",
+        "label": "Kanton Saint-Nicolas"
+    },
+    {
+        "id": "223526",
+        "label": "Kanton Seraing"
+    },
+    {
+        "id": "223527",
+        "label": "Kanton Vis&#xE9;"
+    },
+    {
+        "id": "223528",
+        "label": "Kanton Gr&#xE2;ce-Hollogne"
+    },
+    {
+        "id": "223529",
+        "label": "Kanton Aubel"
+    },
+    {
+        "id": "223530",
+        "label": "Kanton Dison"
+    },
+    {
+        "id": "223531",
+        "label": "Kanton Eupen"
+    },
+    {
+        "id": "223532",
+        "label": "Kanton Herve"
+    },
+    {
+        "id": "223533",
+        "label": "Kanton Limburg"
+    },
+    {
+        "id": "223534",
+        "label": "Kanton Malmedy"
+    },
+    {
+        "id": "223535",
+        "label": "Kanton Sankt Vith"
+    },
+    {
+        "id": "223536",
+        "label": "Kanton Spa"
+    },
+    {
+        "id": "223537",
+        "label": "Kanton Stavelot"
+    },
+    {
+        "id": "223538",
+        "label": "Kanton Verviers"
+    },
+    {
+        "id": "223539",
+        "label": "Kanton Eupen (E5)"
+    },
+    {
+        "id": "223540",
+        "label": "Sonderkanton Ausw. Ang.: Deutschsprachiges Wahlkollegium"
+    },
+    {
+        "id": "223541",
+        "label": "Kanton Hannut"
+    },
+    {
+        "id": "223542",
+        "label": "Kanton Waremme"
+    },
+    {
+        "id": "223543",
+        "label": "Kanton Beringen"
+    },
+    {
+        "id": "223544",
+        "label": "Kanton Genk"
+    },
+    {
+        "id": "223545",
+        "label": "Kanton Hasselt"
+    },
+    {
+        "id": "223546",
+        "label": "Kanton Herk-de-Stad"
+    },
+    {
+        "id": "223547",
+        "label": "Kanton Sint-Truiden"
+    },
+    {
+        "id": "223548",
+        "label": "Kanton Bree"
+    },
+    {
+        "id": "223549",
+        "label": "Kanton Maaseik"
+    },
+    {
+        "id": "223550",
+        "label": "Kanton Peer"
+    },
+    {
+        "id": "223551",
+        "label": "Kanton Pelt"
+    },
+    {
+        "id": "223552",
+        "label": "Kanton Bilzen"
+    },
+    {
+        "id": "223553",
+        "label": "Kanton Borgloon"
+    },
+    {
+        "id": "223554",
+        "label": "Kanton Riemst"
+    },
+    {
+        "id": "223555",
+        "label": "Kanton Tongern"
+    },
+    {
+        "id": "223556",
+        "label": "Kanton Maasmechelen"
+    },
+    {
+        "id": "223557",
+        "label": "Kanton Voeren"
+    },
+    {
+        "id": "223558",
+        "label": "Kanton Arlon"
+    },
+    {
+        "id": "223559",
+        "label": "Kanton Messancy"
+    },
+    {
+        "id": "223560",
+        "label": "Kanton Bastogne"
+    },
+    {
+        "id": "223561",
+        "label": "Kanton Fauvillers"
+    },
+    {
+        "id": "223562",
+        "label": "Kanton Houffalize"
+    },
+    {
+        "id": "223563",
+        "label": "Kanton Vielsalm"
+    },
+    {
+        "id": "223564",
+        "label": "Kanton Sainte-Ode"
+    },
+    {
+        "id": "223565",
+        "label": "Kanton Durbuy"
+    },
+    {
+        "id": "223566",
+        "label": "Kanton Erez&#xE9;e"
+    },
+    {
+        "id": "223567",
+        "label": "Kanton La Roche-en-Ardenne"
+    },
+    {
+        "id": "223568",
+        "label": "Kanton Marche-en-Famenne"
+    },
+    {
+        "id": "223569",
+        "label": "Kanton Nassogne"
+    },
+    {
+        "id": "223570",
+        "label": "Kanton Bouillon"
+    },
+    {
+        "id": "223571",
+        "label": "Kanton Neufch&#xE2;teau"
+    },
+    {
+        "id": "223572",
+        "label": "Kanton Paliseul"
+    },
+    {
+        "id": "223573",
+        "label": "Kanton Saint-Hubert"
+    },
+    {
+        "id": "223574",
+        "label": "Kanton Wellin"
+    },
+    {
+        "id": "223575",
+        "label": "Kanton Etalle"
+    },
+    {
+        "id": "223576",
+        "label": "Kanton Florenville"
+    },
+    {
+        "id": "223577",
+        "label": "Kanton Virton"
+    },
+    {
+        "id": "223578",
+        "label": "Kanton Beauraing"
+    },
+    {
+        "id": "223579",
+        "label": "Kanton Ciney"
+    },
+    {
+        "id": "223580",
+        "label": "Kanton Dinant"
+    },
+    {
+        "id": "223581",
+        "label": "Kanton Gedinne"
+    },
+    {
+        "id": "223582",
+        "label": "Kanton Rochefort"
+    },
+    {
+        "id": "223583",
+        "label": "Kanton Andenne"
+    },
+    {
+        "id": "223584",
+        "label": "Kanton Eghez&#xE9;e"
+    },
+    {
+        "id": "223585",
+        "label": "Kanton Fosses-la-Ville"
+    },
+    {
+        "id": "223586",
+        "label": "Kanton Namur"
+    },
+    {
+        "id": "223587",
+        "label": "Kanton Gembloux"
+    },
+    {
+        "id": "223588",
+        "label": "Sonderkanton Ausw. Ang.: Franz&#xF6;sisches Wahlkollegium"
+    },
+    {
+        "id": "223589",
+        "label": "Kanton Couvin"
+    },
+    {
+        "id": "223590",
+        "label": "Kanton Florennes"
+    },
+    {
+        "id": "223591",
+        "label": "Kanton Philippeville"
+    },
+    {
+        "id": "223592",
+        "label": "Kanton Walcourt"
+    }
+]
