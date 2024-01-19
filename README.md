@@ -58,7 +58,7 @@ In the 2019 election, there were 28 member countries in total with various admin
 | Romania | | | | | |
 | Slovakia | | | | | |
 | Slovenia | | | | | |
-| Spain | | | Municipality | 8112 | |
+| Spain | | | | | |
 | Sweden | | | | | |
 | UK | | | | | |
 | UK (Northern Ireland) | | | | | |
