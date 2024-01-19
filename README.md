@@ -24,6 +24,45 @@ Each notebook is responsible for:
 
 (E-mail hello@datastory.org if you have any further questions about reuse.)
 
+## The 2019 election 
+
+In the 2019 election, there were 28 member countries in total with various administrative systems.
+
+
+### Metadata
+
+| Country | GIS | Data | Level | Count | Notes |
+|-----|----|----|---|---|---|
+| Austria | [Statistik Austria](https://www.data.gv.at/katalog/dataset/566c99be-b436-365e-af4f-27be6c536358) | [Bundministerium Für Inneres](https://bundeswahlen.gv.at/2019_2)  | Town | 2118 | Quality check needed |
+| Belgium| [Geo.be](https://www.geo.be/catalog/details/daca9ccf-a9e1-11ec-a672-186571a04de2?l=en)  | [Service public fedéral Intériur](https://wahlergebnisse.belgium.be/de/search/europ%C3%A4isches-parlament/2019)  | Canton | 210 | Quality check needed |
+| Bulgaria |  | | | | |
+| Croatia | | | | | |
+| Cyprus | [Natural Earth Data](https://www.naturalearthdata.com) | [EU](https://www.europarl.europa.eu/election-results-2019/en/cyprus/)  | Country | 1 |  |
+| Czech Republic | [Geoportal ČÚZK](http://services.cuzk.cz/shp/stat/epsg-5514/) | [Czech Statistical Office](https://www.volby.cz/pls/ep2019/ep?xjazyk=CZ) | Municipality | 6310 | Quality check needed |
+| Denmark | | | | | |
+| Estonia | | | | | |
+| Finland | | | | | |
+| France | | | | | |
+| Germany | | | | | |
+| Greece | | | | | |
+| Hungary | | | | | |
+| Ireland | | | | | |
+| Italy | | | | | |
+| Latvia | | | | | |
+| Lithuania | | | | | |
+| Luxembourg | | | | | |
+| Malta | | | |  |  |
+| Netherlands | | | | | |
+| Poland | | | | |
+| Portugal | | | | | |
+| Romania | | | | | |
+| Slovakia | | | | | |
+| Slovenia | | | | | |
+| Spain | | | Municipality | 8112 | |
+| Sweden | | | | | |
+| UK | | | | | |
+| UK (Northern Ireland) | | | | | |
+
 ## The 2014 election 
 
 In the 2014 election, there were 28 member countries in total with various administrative systems.
