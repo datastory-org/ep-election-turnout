@@ -59,7 +59,7 @@ In the 2019 election, there were 28 member countries in total with various admin
 | Slovakia | | | | | |
 | Slovenia | | | | | |
 | Spain | | | | | |
-| Sweden | | | | | |
+| Sweden | [Valmyndigheten Statistik](https://historik.val.se/val/ep2019/statistik/index.html) | [Valmyndigheten Statistik](https://historik.val.se/val/ep2019/statistik/index.html) | Electoral District | 5984 | The URL is already on a subdomain of  Valmyndigheten's website called "historik" so it is possible that it will not be available for long. |
 | UK | | | | | |
 | UK (Northern Ireland) | | | | | |
 
